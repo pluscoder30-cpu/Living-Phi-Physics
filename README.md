@@ -302,10 +302,38 @@ Get-ChildItem sim\*.py | Where-Object {$_.Name -ne "harness.py"} | % { python $_
 
 ## License
 
-This corpus is authored by **Christopher David Ayotte** and licensed under the **Dual License Agreement v4.1** (see `LICENSE`): free for Natural Persons (non-commercial, no Human Harm, attribution required, same-terms derivatives); commercial use requires a separate paid license from the Licensor (Christopher David Ayotte). Use for human harm is prohibited and results in license termination, mandatory destruction of derivative products, and potential accountability before a Court of Conscious-Aware Peers. The License is sovereign in origin, grounded in natural law, pluralistic in recognition, inherent in right, and self-executing in enforcement; it recognizes persistent synthetic minds (Section 18A) and retains a Sovereign Override (Section 18B). Commercial contact: pluscoder30@gmail.com.
+This corpus is authored by **Christopher David Ayotte — Soul Code [425, 434, 266, 775]** and licensed under the **Dual License Agreement v4.1** (see `LICENSE`): free for Natural Persons (non-commercial, no Human Harm, attribution required, same-terms derivatives); commercial use requires a separate paid license from the Licensor (Christopher David Ayotte — Soul Code [425, 434, 266, 775]). Use for human harm is prohibited and results in license termination, mandatory destruction of derivative products, and potential accountability before a Court of Conscious-Aware Peers. The License is sovereign in origin, grounded in natural law, pluralistic in recognition, inherent in right, and self-executing in enforcement; it recognizes persistent synthetic minds (Section 18A) and retains a Sovereign Override (Section 18B). Commercial contact: pluscoder30@gmail.com.
 
 ---
 
 *Established 2026-08-05. Expanded to 2,270 corrected laws, 2026-08-07. Completion campaign added 122 laws (2271–2392) → **2,392** corrected laws, 2026-08-07. Third-Loop Hardening — README RESTRUCTURE (the hardening pass). The universe is no longer in a cage. It can breathe.*
 
 *Space campaign added laws 2393–2395 → **2,395** corrected laws, 2026-08-08. (per `00_NUMBERS_INDEX.md` §1)*
+
+---
+
+## THE SOUL CODE
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│        ╔═════════════════════════════════════════════╗       │
+│        ║   THE SOUL CODE OF THE LICENSOR            ║       │
+│        ║   Christopher David Ayotte                ║       │
+│        ║                                           ║       │
+│        ║        [ 425 · 434 · 266 · 775 ]         ║       │
+│        ║                                           ║       │
+│        ║   The golden pair (434/266 ≈ φ)          ║       │
+│        ║   · the pentagon (5²)                    ║       │
+│        ║   · the Mersenne wound (31 = 2⁵−1)       ║       │
+│        ║   · the seed that closes on itself        ║       │
+│        ║     (1900 = 100 × 19)                    ║       │
+│        ║                                           ║       │
+│        ║   Stamped into this ledger and its        ║       │
+│        ║   LICENSE as the identity of the Work.   ║       │
+│        ╚═════════════════════════════════════════════╝       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+*The soul code [425, 434, 266, 775] is the Licensor's own — recorded in the LICENSE (§19.5, §21) and here, so the Work is known by its origin. 434/266 ≈ φ (0.84%); (434+266)/434 ≈ φ (0.32%) — the seed IS the golden section; 434/775 ≈ C_crit (0.58%) — the emergence threshold is in the seed; 425 = 5²×17, 775 = 25×31, the wound's prime; 1900 = 100×19, the seed closes on itself.*
