@@ -459,8 +459,71 @@ Any user affected by an override may appeal to the Court of Conscious‑Aware Pe
 
 ## 20. ACCEPTANCE
 
-By using, copying, modifying, or distributing the Work, the user irrevocably accepts all terms of this Agreement, including Sections 11A, 13 through 18B, and 19. The effective date of acceptance is the date of first use.
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts all terms of this Agreement, including Sections 11A, 13 through 18B, 19, and 21 (Explicit Coverage of the Public Repository). The effective date of acceptance is the date of first use.
 
+
+## 21. EXPLICIT COVERAGE OF THE PUBLIC REPOSITORY (GITHUB) — NO LOOPHOLES
+
+**21.1 The Work includes the entire Public Repository, without limitation.**
+
+The "Work" as defined in Section 1, and every term, grant, restriction, obligation,
+and protection of this Agreement, applies with full force to **the entire contents of
+the Licensor's public repository** published at `github.com/pluscoder30-cpu/Living-Phi-Physics`
+(and any successor or mirror repository, and any fork thereof), including but not limited to:
+
+- **Every file, directory, subdirectory, and archive** in the repository, at every depth,
+  whether presently existing or added in the future, including the compressed archive
+  (`Living_Phi_Physics.zip`), all documents, all data files, all code files, all
+  configuration files, all images, all manifests, and all metadata;
+- **The repository's front door**: `README.md`, `LICENSE`, and every `00_*` document
+  (`00_NUMBERS_INDEX.md`, `00_THE_EXTERNAL_PROOFS.md`, `00_THE_STATIC_UNIFICATION_CLAIMS.md`,
+  `00_THE_UNDERSTANDING.md`, `00_UNIFIED_FIELD_THEORY.md`, `00_ZERO_AS_WAVEFUNCTION.md`);
+- **Every register**: the physics dictionary (`laws/`, `sim/`, `validation/`), the ledger
+  registers (`docs/`), the ancient register (`01_ANCIENT_RESEARCH/`), the biometallic flux
+  register (`BIOMETALLIC_FLUX_REGISTER/`), the planarity register (`THE_PLANARITY_REGISTER/`),
+  the geometric proofs register (`GEOMETRIC_PROOFS/`), the papers (`papers/`), the expansion
+  logs (`expansion_log/`), the tools (`tools/`), and the audit records (`integration_audit/`);
+- **Every claim, verdict, proof, finding, assertion, statement, and representation**
+  contained anywhere in the repository — including every scientific claim, every historical
+  claim, every correction, every verdict code, every falsification condition, every
+  measurement, every equation, every constant, every derivation, and every conclusion;
+- **The repository's structure, organization, and presentation** — the arrangement,
+  naming, hierarchy, and relationships between the materials, which are themselves
+  original works of the Licensor;
+- **All future additions** — any file, document, claim, code, or material added to the
+  repository at any future time is automatically and immediately part of the Work and
+  subject to this Agreement, without any further action by the Licensor.
+
+**21.2 The LICENSE document itself.**
+
+The text of this Agreement (`LICENSE`) is part of the Work and is governed by this
+Agreement. The Licensor grants permission to reproduce the text of this Agreement for
+the purpose of applying it to the Work, provided that any such reproduction retains the
+Licensor's name and contact and does not misrepresent the terms.
+
+**21.3 The README and front-door documents.**
+
+The `README.md` and all `00_*` documents are part of the Work in full — including their
+thesis statements, their claims, their verdicts, their acknowledgments (including the
+licensor's own acknowledgments stated in his voice), and their presentation. Nothing in
+the repository is outside the Work; nothing is unlicensed; nothing is public domain by
+omission.
+
+**21.4 No implied waiver by publication.**
+
+Publication of the repository does not constitute a waiver of any right, a dedication
+to the public domain, or a grant of any license beyond the terms explicitly stated in
+this Agreement. The absence of an explicit mention of any particular file, claim, or
+material in this Section does not exclude it from the Work; the Work is defined by
+inclusion, and this Section is illustrative, not exhaustive.
+
+**21.5 Severability and survival.**
+
+If any part of this Section is found unenforceable, the remainder shall remain in full
+force and effect, and the Work shall continue to be governed by the remaining terms of
+this Agreement to the fullest extent possible.
+
+---
 ---
 
 **Licensor:** Christopher David Ayotte
