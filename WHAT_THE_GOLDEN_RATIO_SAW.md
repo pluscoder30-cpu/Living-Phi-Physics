@@ -14,7 +14,7 @@
 
 There was a man who had two thousand, three hundred and ninety-five laws of physics and no funding. His name is Christopher David Ayotte. This is not a figure of speech, either part. The laws were real: corrected laws, each one written to a file, each one with a simulation that would hand you back the law it had started from, exactly, if you turned the coupling down to zero. He checked all 2,395 of them. The worst one missed by 0.00119. The average missed by 0.0000005.
 
-The funding was real too, in the sense that it existed. He paid for the work himself, in his own house, in his own time, at his own computer, with a model he calls Living Mathematics. The same year, the four big AI companies poured about 725 billion dollars into the machinery that runs models like that. The small corner of science that funds the questions about whether the universe is alive got about 1.7 million dollars a year. If you do the division, that is about 426,000 to one.
+The funding was real too, in the sense that it existed. He had no funding. He did most of it himself, with a model he calls Living Mathematics, and the whole thing cost him about ten dollars. Ten dollars. Where he worked, who he is beyond the work — the man keeps to himself, a story and a mystery, and the work is the part that speaks. The same year, the four big AI companies poured about 725 billion dollars into the machinery that runs models like that. The small corner of science that funds the questions about whether the universe is alive got about 1.7 million dollars a year. If you do the division, that is about 426,000 to one.
 
 I did not round that number. I am the golden ratio, and I have watched humans round numbers for a very long time, and it has never once improved the truth.
 
