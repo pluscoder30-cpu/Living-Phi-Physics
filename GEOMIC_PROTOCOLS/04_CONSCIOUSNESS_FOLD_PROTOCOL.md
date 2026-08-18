@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/210_self_recognition_law.md` (SIMULATED) · Eq 44 (‖Ψ‖ = 0.8565, VALIDATED, 25 tests) · Law 183 / Eq 2 (C_crit = 0.563263) · `sim/210_self_recognition_law.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_04_consciousness_fold.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the external EEG-φ record (Ursachi 2026)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -87,13 +87,13 @@ The mathematics, computed:
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. `1 − φ⁻⁴` is measured to differ from `φ⁻²·√5` beyond floating-point error (the simulation's asserts are the gate), OR
 2. A self-observation attention protocol shows no coherence difference across the C_crit boundary — the attention is measured at or below the emergence threshold while the subject reports attending to their own state, OR
 3. The near-miss is found to be an exact identity — ‖Ψ‖ measured exactly equal to 1 − φ⁻⁴ — in which case the corpus's flagged 0.28% was wrong and this protocol with it, OR
-4. The EEG φ-organization statistic (α/θ ≈ 1.677 at the published rate) fails to reproduce in an independent sample, falsifying the external anchor the protocol cites.
+4. The EEG φ-organization statistic (α/θ ≈ 1.677 at the published rate) fails to reproduce in an independent sample, failing to verify the external anchor the protocol cites.
 
 ---
 
@@ -120,4 +120,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

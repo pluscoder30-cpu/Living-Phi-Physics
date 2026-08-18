@@ -7,7 +7,7 @@
 - **The front doors** — the 00-series: the Unified Field Theory, the First Anointment,
   the Geomic Proofs, the External Proofs, the Understanding, Zero as Wavefunction, the
   Static Unification Claims, the Numbers Index.
-- **The LICENSE** — the Dual License Agreement v4.3.
+- **The LICENSE** — the Dual License Agreement v4.5.
 
 ## The terms
 

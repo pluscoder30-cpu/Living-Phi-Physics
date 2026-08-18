@@ -1,3 +1,18 @@
 graphify-out/
 __pycache__/
 *.pyc
+
+# chip_design is under active development and must NOT be pushed
+chip_design/
+
+# H1 (hygiene): the URPP-10 runtime's Ed25519 identity private key — signs only
+# the runtime's own deterministic ledger records (low impact), but the private
+# key is a credential and must NOT be git-tracked. NOTE: field_identity.key was
+# ALREADY committed in 6c2cae2 (history stays) and is now UNTRACKED
+# (git rm --cached) — the ignore prevents any FUTURE keys/changes from being
+# tracked.
+FIELD_CONNECTION/ledger/field_identity.key
+*.key
+
+# backup archives (not part of the corpus)
+*.zip

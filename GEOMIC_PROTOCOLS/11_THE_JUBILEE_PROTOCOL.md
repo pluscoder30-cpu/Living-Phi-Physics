@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the 49+1 — Lev 25 (7×7 = 49 + the 50th year) · the Qumran trio: Jubilees (49-year chronology), 11Q13 Melchizedek (the release proclaimed in the tenth Jubilee, year 490 = 7×70), the pentecontad (49 days + the 50th atzeret day) · the anointed one of the spirit (Isa 61 / 11Q13) · the hidden 50th node **544.12 Hz = 528·φ^(1/16)** — [INFERENCE], no ancient Hz · `00_NUMBERS_INDEX.md` §5.5 (the A3 treasury where applicable), §2 (528 Hz anchor)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §3 row 9, §4's Jubilee witness trio) · `GEOMIC_PROTOCOLS/simulations/protocol_11_the_jubilee.py` (the code, exit 0) · `docs/31_THE_FIRST_ANOINTMENT.md` (§2.3, §4.1 the 49+1 arithmetic, §4.3 the 50th node) · `00_NUMBERS_INDEX.md` §2 (528, the family 2⁵·17 = 544) · the anointment register (docs/31)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -82,18 +82,18 @@ The mathematics, computed:
 - **[VALIDATED] text** — the 49+1 structure in three independent ancient witnesses: Lev 25 (7×7 years + the 50th), Jubilees (49-year chronology), 11Q13 (year 490 = 10×49 = 7×70), the pentecontad (49 days + the 50th atzeret day), Dan 9 (seventy weeks = 490) — all [VALIDATED] primary text per the anointment register and its external alignment pass (`docs/31` §2, §4.1).
 - **[VERIFIED arithmetic]** — 7×7 = 49, 49+1 = 50, 490 = 10×49 = 7×70 = 2·5·7², 528·φ^(1/16) = 544.1212, the 0.0625 gate (this simulation, exit 0).
 - **[INFERENCE]/[PREDICTED]** — the hidden 50th node at 544.12 Hz = 528·φ^(1/16), and any φ-mapping of the Jubilee. No ancient text assigns any Hz; the corpus's own register keeps the label exactly (`docs/31` §4.3; master §4's honest boundary). "φ-in-law" is [INFERENCE] — there is no peer-reviewed scholarship connecting the Jubilee's arithmetic to the golden ratio.
-- **[PROPOSED]** — the completed-count observables of §5 are the falsifiable frontier.
+- **[PROPOSED]** — the completed-count observables of §5 are the verification frontier.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The 49+1 arithmetic fails — 7×7 ≠ 49, or 49+1 ≠ 50 (the simulation's asserts are the gate), OR
 2. The release-frame fails — 490 ≠ 10×49, or 490 ≠ 7×70, or 490 ≠ 2·5·7², OR
 3. The hidden 50th node departs from 528·φ^(1/16) beyond floating-point error, OR
 4. The completed-count protocol shows no release-after-completion structure across repeated completions — the 49th is not measurably the completion and the 50th not measurably the release event, OR
-5. Any claim is made that an ancient text assigns the Hz value 544.12 — the corpus's own register states plainly that no ancient Hz exists; such a claim is falsified by the texts themselves.
+5. Any claim is made that an ancient text assigns the Hz value 544.12 — the corpus's own register states plainly that no ancient Hz exists; such a claim is refuted by the texts themselves.
 
 ---
 
@@ -105,7 +105,7 @@ The mathematics, computed:
 
 ## 10 · SOURCES
 
-- Leviticus 25:8–10 (the 49+1 in the text) · Daniel 9:24 (seventy weeks = 490) · 11Q13 Melchizedek (the tenth Jubilee, year 490; the Anointed one of the spirit; Isa 52:7 + Dan 9:25) — [VALIDATED] primary text per `integration_audit/ALIGNMENT_A2_ANOINTMENT_EXTERNAL.md` §2A, as `docs/31` §2.3–2.6 cites
+- Leviticus 25:8–10 (the 49+1 in the text) · Daniel 9:24 (seventy weeks = 490) · 11Q13 Melchizedek (the tenth Jubilee, year 490; the Anointed one of the spirit; Isa 52:7 + Dan 9:25) — [VALIDATED] primary text per `integration_audit/ALIGNMENT/ALIGNMENT_A2_ANOINTMENT_EXTERNAL.md` §2A, as `docs/31` §2.3–2.6 cites
 - The Book of Jubilees (49-year chronology, 15 copies at Qumran) · the pentecontad (49 days + the 50th atzeret day) — `docs/31` §4.1
 - `docs/31_THE_FIRST_ANOINTMENT.md` §2.3, §4.1 (the 49+1 arithmetic), §4.3 (the 50th node 544.12 = 528·φ^(1/16); the 0.0625 gate) · `00_NUMBERS_INDEX.md` §2 (528, 544 = 2⁵·17), §5.5 (the A3 treasury where applicable)
 - `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` §3 row 9 (the completed-count protocol) · §4 (the Jubilee witness trio; the honest boundary — 49+1 [VALIDATED] text, the Hz-mapping [INFERENCE])
@@ -120,4 +120,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

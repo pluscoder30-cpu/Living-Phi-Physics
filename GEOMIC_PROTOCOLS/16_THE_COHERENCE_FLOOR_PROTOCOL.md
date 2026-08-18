@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the general phi-form `X_phi(κ) = X(1 + κ(φ−1)) + κ·φ⁻¹·X_ground` (the master §2) · the Degeneracy Theorem (Law 173 — every law is the κ → 0 limit of a phi-law, verified 2,395/2,395) · the √5 verifier `φ + φ⁻¹ = √5` (G4 Proof 1; the master §2) · the fixed points `{0, φ⁻¹, 1}` (Eq 7, VALIDATED — the ground is never zero) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, √5, C_crit, ‖Ψ‖)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §2 the phi-form as the shape of any action, §3 row 15 the whole-body action, §7 row 16) · `GEOMIC_PROTOCOLS/simulations/protocol_16_coherence_floor.py` (the code, exit 0) · `GEOMIC_PROTOCOLS/14_THE_ENVIRONMENT_PROTOCOL.md` (the φ⁻¹ floor of the environment) · `GEOMIC_PROTOCOLS/04_CONSCIOUSNESS_FOLD_PROTOCOL.md` (‖Ψ‖, the fold) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (attention held at the ground) · `GEOMETRIC_PROOFS/G4` Proof 1 (the √5 verifier) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, √5, Eq 7 fixed points)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -85,14 +85,14 @@ This is not a metaphor; it is the corpus's arithmetic read as an action. The pra
 - **[VERIFIED arithmetic]** — the phi-form (X_phi(0) = X exactly); the floor (φ⁻¹ = 0.6180339887 at κ = 1); the sweep; the √5 verifier (φ + φ⁻¹ = 2.2360679775, diff 0.0; X_phi(1) = X·√5); the never-static condition; the concrete law (Law 183 → √5·C_crit = 1.2594943572, diff 0.0) — this simulation, exit 0; G4 Proof 1; the master §2.
 - **[VALIDATED] corpus equations** — the fixed points {0, φ⁻¹, 1} (Eq 7); C_crit = 0.563263 (Eq 2 / Law 183); ‖Ψ‖ = 0.8565 (Eq 44) — the corpus's validated numbers, carried at their tier.
 - **[INFERENCE]** — the reading that a sustained practice reaches its floor and rests on the φ⁻¹ ground (the corpus's own reading on the verified arithmetic, grounded in Eq 7); the reading that "no law reaches the exactly-static value" is the living form of the Degeneracy Theorem (Law 173, [VALIDATED] as corpus text).
-- **[PROPOSED]** — as a physical reading of practice (testable, falsifiable, stated as such); the floor and the verifier are arithmetic, the practice-coupling is the proposed reading.
-- **[NOT ASSERTED]** — no claim that any measured practice has been shown to rest exactly at φ⁻¹; the floor is the corpus's reading, the measurement is the frontier (the critic wins 12 of 20 in `docs/24` §8, a record not reopened here).
+- **[PROPOSED]** — as a physical reading of practice (testable, verifiable, stated as such); the floor and the verifier are arithmetic, the practice-coupling is the proposed reading.
+- **[NOT ASSERTED]** — no claim that any measured practice has been shown to rest exactly at φ⁻¹; the floor is the corpus's reading, the measurement is the verification frontier (the critic's 12-of-20 record in `docs/24` §8, counted and answered, not reopened here).
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The phi-form fails — X_phi(0) ≠ X at κ = 0 (the degenerate limit is not the classical law), OR
 2. The floor fails — the κ·φ⁻¹·X_ground term at κ = 1 ≠ 0.6180339887 (beyond floating-point error), or any claim is made that the ground is zero, OR
 3. The √5 verifier fails — φ + φ⁻¹ ≠ √5, or X_phi(1) ≠ X·√5 beyond floating-point error (the diff-0.0 assert is the gate), OR
@@ -115,7 +115,7 @@ This is not a metaphor; it is the corpus's arithmetic read as an action. The pra
 - `laws/173_..._law.md` (the Degeneracy Theorem — every law the κ → 0 limit of a phi-law) · `laws/183_emergence_threshold_law.md` (C_crit = 0.563263) · `laws/210_self_recognition_law.md` (Law 210; Eq 44 = 0.8565)
 - `GEOMETRIC_PROOFS/G4_unified_field_5_proofs.md` Proof 1 (the √5 verifier — φ + φ⁻¹ = √5, exact) · `GEOMETRIC_PROOFS/G8_numbers_constants_5_proofs.md` (the constants' mutual arithmetic; the 12-of-20 record)
 - `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` §2 (the phi-form as the shape of any action — the master's own reading) · `GEOMIC_PROTOCOLS/14_THE_ENVIRONMENT_PROTOCOL.md` (ρ_vac(1) = φ⁻¹·ρ_floor — the environment's floor) · `GEOMIC_PROTOCOLS/04_CONSCIOUSNESS_FOLD_PROTOCOL.md` (‖Ψ‖, the fold) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (attention held at the ground)
-- Eq 7 (`EQUATIONS_SET_01_PHI_CARRIER_PLASMA.md` — the tripartite aether PDE, fixed points {0, 0.618, 1}) · `docs/24_THE_GEOMIC_LEDGER.md` §8 (the critic wins 12 of 20 — not reopened)
+- Eq 7 (`EQUATIONS_SET_01_PHI_CARRIER_PLASMA.md` — the tripartite aether PDE, fixed points {0, 0.618, 1}) · `docs/24_THE_GEOMIC_LEDGER.md` §8 (the critic's 12-of-20 record — counted and answered)
 
 ---
 
@@ -125,4 +125,4 @@ This is not a metaphor; it is the corpus's arithmetic read as an action. The pra
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

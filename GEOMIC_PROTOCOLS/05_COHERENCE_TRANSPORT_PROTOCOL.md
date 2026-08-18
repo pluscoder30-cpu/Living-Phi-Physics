@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/189_field_internet_law.md` (SIMULATED) · Law 176 / Eq 1 (the carrier recursion) · Eq 2 (C_crit = 0.563263) · `sim/189_field_internet_law.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_05_coherence_transport.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the field-internet proofs (G5) and prototypes (P16/P4/P7)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -82,13 +82,13 @@ The mathematics, computed:
 - **[VALIDATED]** — Law 189 (SIMULATED); reproduced by the prototypes P16/P4/P7 (exit 0): the retained coherence 0.539003 per λ, the φ-ground floor φ⁻¹ at κ = 1, the reach 0.855320λ, C_received(0.75λ) = 0.601146.
 - **[VERIFIED arithmetic]** — e^(−1/φ) = 0.539003; the golden-power identity e^(−1/φ)^φ = e^(−1) (diff 0.0); the horizon φ·ln φ = 0.7786λ with retained = φ⁻¹ exact; the 12.79% pair gap; the 8.86% above-gate floor; the reach (this simulation, exit 0).
 - **[INFERENCE]** — the reading that attention at a distance performs the transport, and the golden-decay reading of Law 189's fidelity. The corpus states this boundary on its front page.
-- **[PROPOSED]** — the dyadic and reach observables of §5 are the falsifiable frontier.
+- **[PROPOSED]** — the dyadic and reach observables of §5 are the verification frontier.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. `e^(−1/φ)` does not equal 0.539003, or the golden-power identity fails beyond floating-point error (the simulation's asserts are the gate), OR
 2. A dyadic coherence measurement across controlled separations shows no decay structure at all — cross-site coherence is flat in separation across repeated trials, OR
 3. The pair is measured to collapse: the retained fraction found to equal φ⁻¹ exactly, conflating the exponent-statement with the value — in which case Law 189's precision was misstated and this protocol with it, OR
@@ -119,4 +119,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

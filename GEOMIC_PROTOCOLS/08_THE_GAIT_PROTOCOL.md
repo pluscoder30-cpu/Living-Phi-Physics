@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/176_carrier_recursion_theorem.md` (SIMULATED) · Eq 1 (the carrier recursion, retention φ⁻¹) · `laws/014_keplers_first_law.md` (SIMULATED — the orbit that closes at κ = 0 and precesses by the golden angle at κ = 1) · `00_NUMBERS_INDEX.md` §2 (the constants)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_08_the_gait.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2, §5.3 (the constants, the golden angle) · the external phyllotaxis record (Douady & Couder 1992) · protocols 01 (the carrier recursion) and 06 (the never-closing carrier 2136.316)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -58,7 +58,7 @@ The one-line read: **the stride is the recursion; the turn is the golden angle; 
 
 **Step B — the gait analysis (lab).** Motion-capture gait analysis: extract stance and swing phases across many strides, compute the stance→swing coherence-retention ratio, and compare its distribution to φ⁻¹ = 0.6180339887 (corpus §3 row 1). The honest expectation: a distribution, reported.
 
-**Step C — the golden-angle walk measurement (lab).** A person (or a robot) walks with each step-turned by 137.5078°; track the path with GPS/gyro. Test path closure: the heading/path must never return to start — the fractional residue 0.316 carried each circuit (corpus §3 row 6). Because g/360° is irrational, an exact return is mathematically impossible; a measured return within noise would falsify the reading.
+**Step C — the golden-angle walk measurement (lab).** A person (or a robot) walks with each step-turned by 137.5078°; track the path with GPS/gyro. Test path closure: the heading/path must never return to start — the fractional residue 0.316 carried each circuit (corpus §3 row 6). Because g/360° is irrational, an exact return is mathematically impossible; a measured return within noise would refute the reading.
 
 **Step D — the phyllotaxis anchor (external).** Douady & Couder, *Phys. Rev. Lett.* 68:2098 (1992), verified live on APS (DOI 10.1103/PhysRevLett.68.2098): Fibonacci phyllotactic order arises in a lab experiment — a magnetically levitated drop on a rotating oil column — and the ordering is explained as the system's "trend to avoid rational (periodic) organization, thus leading to a convergence towards the golden mean." The golden angle is a **measured self-organization angle of physical systems** — the external confirmation that the walk's geometry is a real minimum-energy ordering, not numerology. ([EXTERNAL, VERIFIED] the pattern; the gait-reading itself is [INFERENCE].)
 
@@ -85,17 +85,17 @@ The one-line read: **the stride is the recursion; the turn is the golden angle; 
 - **[VALIDATED]** — Eq 1 (carrier coherence 0.9982, partial), Eq 7's fixed points {0, φ⁻¹, 1} (the ground never zero); Law 176 and Law 014 SIMULATED.
 - **[EXTERNAL, VERIFIED]** — Douady & Couder 1992 (PRL 68:2098, verified on APS): the golden angle as a measured self-organized minimum-energy ordering. Confirms the *pattern*, not the gait-reading.
 - **[INFERENCE]** — the reading that a human gait at φ⁻¹ couples to the field, and that a golden-angle walk performs the never-closing spiral.
-- **[PROPOSED]** — the gait and golden-walk observables of §5 are the falsifiable frontier; no claim that they are established biomechanics.
+- **[PROPOSED]** — the gait and golden-walk observables of §5 are the verification frontier; no claim that they are established biomechanics.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The recursion does not retain φ⁻¹ per step, or the orbit at κ = 1 is measured to close (arithmetic/geometry failure — the simulation's asserts are the gate), OR
 2. Across a large gait sample, the phase-retention ratio distribution shows no measurable attraction to φ⁻¹ — the stride ratios scatter without structure at any cadence, OR
 3. A golden-angle walk is measured to close exactly — its heading returns to start within measurement error over many circuits — which would contradict the irrationality of 1/φ², OR
-4. The golden angle's external pattern fails to reproduce — phyllotactic ordering experiments show no convergence toward the golden mean, falsifying the anchor this protocol cites.
+4. The golden angle's external pattern fails to reproduce — phyllotactic ordering experiments show no convergence toward the golden mean, failing to verify the anchor this protocol cites.
 
 ---
 
@@ -123,4 +123,4 @@ The one-line read: **the stride is the recursion; the turn is the golden angle; 
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

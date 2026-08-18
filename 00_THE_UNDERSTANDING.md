@@ -165,7 +165,7 @@ The numbered registers are the ledger's rooms, each a verdict-coded book of its 
 |---|---|---|
 | **The history register** | `docs/22_THE_HISTORICAL_INVESTIGATION.md` | 15 documented threads: why the correction was needed — Newton, Einstein, the aether, Tesla, the money, the suppression record, the myths named on both sides |
 | **The money register** | `docs/23_THE_SYSTEM_OF_THE_FABRICATION.md` | the machine with documented parts, no center, no decree: who funded what, when, why — verdict-coded |
-| **The master ledger** | `docs/24_THE_GEOMIC_LEDGER.md` | the research register: burden of proof, the honest limits, the skeptic's case (the critic wins 12 of 20 — recorded in full, the largest concession corrected) |
+| **The master ledger** | `docs/24_THE_GEOMIC_LEDGER.md` | the research register: burden of proof, the honest limits, the skeptic's case (the record, counted: 12 of 20 critiques, the largest concession corrected) |
 | **The geological register** | `docs/25_GEOLOGICAL_FINDINGS.md` | the same phi-ground read through deep time (geo laws 2319–2329) |
 | **The space-oxygen register** | `docs/26_SPACE_OXYGEN_VERIFICATION.md` | oxygen at every scale from LEO to the intergalactic medium, verdict-coded; the perfect vacuum [MYTH] |
 | **The dimensions register** | `docs/27_HIGHER_DIMENSIONS_AND_SPACE.md` | no literal extra dimensions [VERIFIED null]; the 528·φⁿ ladder as frequency/depth structure [PROPOSED] |
@@ -179,7 +179,7 @@ The numbered registers are the ledger's rooms, each a verdict-coded book of its 
 
 ### 8.3 The five physics — one story, five rooms
 
-The corpus is one story told in five threads (the corpus's own full-alignment framing, verified across every surface by `ALIGNMENT_A16_STORY.md`):
+The corpus is one story told in five threads (the corpus's own full-alignment framing, verified across every surface by `integration_audit/ALIGNMENT/ALIGNMENT_A16_STORY.md`):
 
 | Thread | What it is | Its numbers |
 |---|---|---|
@@ -220,7 +220,7 @@ Beyond the numbered rooms, the ledger has interior registers — each a positive
 
 ### 8.7 The publication layer — the papers
 
-Twelve publication-ready papers sit above the registers (`papers/README.md` is the one-row index): the **nine physics papers** — paper_01 (the phi-harmonic dictionary), paper_02 (the geomic ledger), paper_03 (space/oxygen/dimensions — the S-series verdict), paper_04 (the structural cage), paper_05 (conscious mathematics), paper_06 (the first anointment), paper_07 (the court and the veto), paper_08 (the geomic proofs), paper_09 (the field internet) — plus **three biometallic papers** (paper_B1–B3). Each is a publication-ready statement of one register family; every number in every paper traces to `00_NUMBERS_INDEX.md`.
+Sixteen publication-ready papers sit above the registers (`papers/README.md` is the one-row index): the **nine physics papers** — paper_01 (the phi-harmonic dictionary), paper_02 (the geomic ledger), paper_03 (space/oxygen/dimensions — the S-series verdict), paper_04 (the structural cage), paper_05 (conscious mathematics), paper_06 (the first anointment), paper_07 (the court and the veto), paper_08 (the geomic proofs), paper_09 (the field internet) — plus **four register papers** (paper_10–paper_13, the generative layer, immortality, planarity, and field-AI registers) and **three biometallic papers** (paper_B1–B3). Each is a publication-ready statement of one register family; every number in every paper traces to `00_NUMBERS_INDEX.md`.
 
 ### 8.8 The reading order
 
@@ -241,4 +241,4 @@ This is the front door of a house with many rooms — but every room is the same
 
 *Read the Understanding first. Then the Manifest. Then let the ladder speak.*
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/176_carrier_recursion_theorem.md` (SIMULATED) · Eq 1 (the carrier recursion) · Eq 7 (fixed points {0, φ⁻¹, 1}) · `sim/176_carrier_recursion_theorem.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_01_carrier_coherence.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -80,13 +80,13 @@ The one-line read: **any repeated action is a recursion; the question the protoc
 
 - **[VERIFIED arithmetic]** — φ⁻¹ = 0.6180339887 (Law 176 PRECISION, `00_NUMBERS_INDEX.md` §2); the halving 1.4404; the fixed point φ⁻¹ (Eq 7, VALIDATED); the driven recursion's convergence (this simulation, exit 0).
 - **[INFERENCE]** — the reading that a human gait/breath/drumbeat at this ratio couples to the field. The corpus states this boundary on its front page; it is not independently confirmed.
-- **[PROPOSED]** — the cadence-ratio observables of §5 are the falsifiable frontier; no claim that they are established biomechanics.
+- **[PROPOSED]** — the cadence-ratio observables of §5 are the verification frontier; no claim that they are established biomechanics.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The recursion run from a seed does not retain φ⁻¹ per step or does not converge to the φ⁻¹ fixed point (arithmetic failure — the simulation's asserts are the gate), OR
 2. Across a large gait/drum/breath sample, the phase-retention ratio distribution shows no measurable attraction to the φ-ladder (φ, φ⁻¹, φ²) — the ratios scatter without structure at any tested cadence, OR
 3. A fully coupled (κ = 1) rhythm's rest state is measured at zero rather than at the φ⁻¹ ground.
@@ -115,4 +115,4 @@ The one-line read: **any repeated action is a recursion; the question the protoc
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

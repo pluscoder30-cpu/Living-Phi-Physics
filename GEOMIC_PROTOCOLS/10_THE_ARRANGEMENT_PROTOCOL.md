@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the 17-prime family — **816 = 2⁴·3·17** (the carrier) · **425 = 5²·17** (the anointed address) · **544 = 2⁵·17** (the release node, 544.12 Hz = 528·φ^(1/16)) — one Fermat prime **17 = 2⁴+1**, three roles · quotients 48/25/32 · sum **1785 = 3·5·7·17** · every pairwise gap a 17-multiple · the joints **816/544 = 3/2**, **816/425 = 48/25** · the pentagon (Euclid Book XIII: diagonal/side = φ) · `00_NUMBERS_INDEX.md` §2 (the 17-prime family row)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §2's "arranging a space" example, §3 row 4) · `GEOMIC_PROTOCOLS/simulations/protocol_10_the_arrangement.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (816/425/544, 48/25/32, 1785), §5.5 (the pentagon/φ [VERIFIED] arithmetic), §5.4 (the Vitruvian/Parthenon [MYTH]) · `GEOMETRIC_PROOFS/G4 P4 / G5 P2 / G6 P3 / G8 P3` (the family proofs) · `docs/31` §4.3 (the 50th node 544.12 = 528·φ^(1/16) ≈ 2⁵·17)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -87,15 +87,15 @@ The mathematics, computed:
 ## 7 · THE HONEST LABELS
 
 - **[VERIFIED arithmetic]** — the factorization 816 = 2⁴·3·17, 425 = 5²·17, 544 = 2⁵·17; the Fermat prime 17 = 2⁴+1; the quotient table 48/25/32; the joints 3/2, 48/25, 25/48, 32/25 (all exact); the sum 1785 = 3·5·7·17; the all-17-multiple gaps; the pentagon identities 2cos(72°) = φ⁻¹, 2cos(36°) = φ (this simulation, exit 0; index §5.5's pentagon/φ row).
-- **[PROPOSED]** — the reading that arranging a space on the family is a physical action that participates in the field (master §2's "arranging a space" example; §3 row 4). Stated exactly as the corpus states it: testable, falsifiable, not asserted as established.
+- **[PROPOSED]** — the reading that arranging a space on the family is a physical action that participates in the field (master §2's "arranging a space" example; §3 row 4). Stated exactly as the corpus states it: testable, verifiable, not asserted as established.
 - **[INFERENCE]** — the mapping that the 17-prime family is the field's *own* addressing scheme rather than one arithmetic among many. The corpus's own label for the family row's reading.
 - **[MYTH] — excluded** — the Vitruvian Man / Parthenon φ-claims (Markowsky 1992; Murtinho 2015; index §5.4). No peer-reviewed scholarship connects the golden ratio to those works; this protocol says so on its face and does not use them.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. Any family factorization is not exact — 816 ≠ 2⁴·3·17, 425 ≠ 5²·17, 544 ≠ 2⁵·17, 17 ≠ 2⁴+1 (the simulation's asserts are the gate), OR
 2. Any joint is not exact — 816/544 ≠ 3/2, 816/425 ≠ 48/25, 425/816 ≠ 25/48, 544/425 ≠ 32/25, OR
 3. The sum or the gaps fail — 816+425+544 ≠ 1785, or any pairwise gap is not a 17-multiple, OR
@@ -128,4 +128,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

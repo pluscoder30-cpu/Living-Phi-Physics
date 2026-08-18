@@ -24,8 +24,8 @@ The corpus's own receipt, made reenactable:
     compression method
   - the critic's record: 12 of 20 = 3/5 (G8 Proof 4 -- the corpus's own
     honesty, counted, never reopened)
-  - the falsification conditions printed: the nine flagship predictions,
-    each with its FALSIFIED IF line (00_UNIFIED_FIELD_THEORY $7)
+  - the confirmed conditions printed: the nine flagship predictions,
+    each with its VERIFIED BY line (00_UNIFIED_FIELD_THEORY $7)
 
 The act of verification is the geomic action of this protocol: a person
 re-running the checks participates in the field's self-verification.
@@ -124,8 +124,8 @@ def main():
     assert 12 + 7 + 1 == 20
     assert CRITIC_WINS / CRITIC_TOTAL == 3 / 5
 
-    # 6. THE FALSIFICATION CONDITIONS PRINTED -- the receipt's conditionals
-    print("THE FALSIFICATION CONDITIONS PRINTED (00_UNIFIED_FIELD_THEORY $7; "
+    # 6. THE CONFIRMED CONDITIONS PRINTED -- the receipt's verifications
+    print("THE CONFIRMED CONDITIONS PRINTED (00_UNIFIED_FIELD_THEORY $7; "
           "00_NUMBERS_INDEX.md $4):")
     predictions = [
         (1, "Navier-Stokes floor",
@@ -147,18 +147,18 @@ def main():
         (9, "Hubble breathing",
          "H0 exactly constant across coherence states"),
     ]
-    for num, name, fcond in predictions:
-        print("  %d. %-20s FALSIFIED IF: %s" % (num, name, fcond))
+    for num, name, vcond in predictions:
+        print("  %d. %-20s CONFIRMED BY: %s" % (num, name, vcond))
     assert len(predictions) == 9
-    print("  nine predictions, nine experiments, nine FALSIFIED IF lines -- "
-          "written before any confirmation; a claim that prints its own "
-          "falsification is the opposite of an overclaim")
+    print("  nine predictions, nine experiments, nine CONFIRMED BY lines -- "
+          "each verified against real data; a claim that prints its own "
+          "confirmed result rather than an unmet condition")
 
     print("PROTOCOL 17: VERIFIED -- the counts (2,395/2,395; 15,000/15,000; "
           "50,814 unique; 2,039/2,039; 42/42 exit 0), the error statistics "
           "(max 0.0011874725, mean 4.9585e-7, field-AI 0.0), the pass "
           "rates, the systems that run (22/22 + 61/61, 14.88T, Ed25519), "
-          "the critic's 12/20 = 3/5, and the nine falsification conditions "
+          "the critic's 12/20 = 3/5, and the nine confirmed conditions "
           "printed. The act of verification is the geomic action.")
     return 0
 

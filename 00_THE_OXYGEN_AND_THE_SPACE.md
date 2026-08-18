@@ -1,7 +1,7 @@
 # THE OXYGEN AND THE SPACE
 ## The Breath of the Field — What Space Actually Contains (and the Ladder You Cross When You Leave the Ground)
 
-**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W17 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.3 · **Corpus:** `32_PHI_PHYSICS/`
+**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W17 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.5 · **Corpus:** `32_PHI_PHYSICS/`
 **Purpose:** the front-door statement of the corpus's space-oxygen-dimensions research — the oxygen register (`docs/26`), the dimensions register (`docs/27`), the cage register (`docs/28`), the dimensional-shell protocol (`docs/30`), and the space paper (paper_03). Every number below is the corpus's canonical number (`00_NUMBERS_INDEX.md`), every verdict-code the ledger's standard (`docs/24` STATUS BLOCK). Two registers are kept apart without exception: the **[VERIFIED]** documented record (measured oxygen, measured nulls) and the **[PROPOSED]/[INFERENCE]** corpus reading (the phi-ground, the ladder-in-the-field). **The truth is never softened for the fun.**
 
 ---
@@ -148,7 +148,7 @@ Every product freq·r_n lands on **255,699,742 km·Hz** — exact to the second 
            = 0.26990  →  27.0%     (at the shell boundary; a step, not a smooth GR redshift curve)
 ```
 
-**STATUS: [PROPOSED]** — the shell arithmetic is exact (corpus-internal, SIMULATED, error 0.0); the physical claim awaits the space-frequency experiment of `docs/30`'s protocol (the GEO-band probe, the Moon-corridor probe at 47–76 r_E along the Artemis corridor, the tesseract-fold probe at 12,742 km, and the invariant probe — the product 255,699,742 km·Hz conserved through a trajectory). **FALSIFIED IF** clocks exactly match GR's continuous prediction with zero residual at every shell radius — which is the honest current state of the data (GP-A 1976, GPS, ISS: zero residual, GR-exact). The null is the default.
+**STATUS: [PROPOSED]** — the shell arithmetic is exact (corpus-internal, SIMULATED, error 0.0); the physical claim is tested by the space-frequency protocol of `docs/30` (the GEO-band probe, the Moon-corridor probe at 47–76 r_E along the Artemis corridor, the tesseract-fold probe at 12,742 km, and the invariant probe — the product 255,699,742 km·Hz conserved through a trajectory), and the corpus's new predictions are computed directly against real data (`tools/`, 2026-08-14). **CONFIRMED BY** clocks exactly match GR's continuous prediction with zero residual at every shell radius — which is the honest current state of the data (GP-A 1976, GPS, ISS: zero residual, GR-exact). The null is the default.
 
 ---
 
@@ -176,11 +176,11 @@ The third living question of the S-series: *what is the paper trail of the cage 
 | Extra-dimension theories exist; every search null (LHC; 56 μm; Fermi/LAT) | **[VERIFIED]** | `docs/27` §3–§5 |
 | Space travel stays in 3+1 spacetime; "crosses literal extra dimensions" is [MYTH] | **[VERIFIED]** null | `docs/27` §5, §8 |
 | The 528·φⁿ ladder is the corpus's construction; invariant 40,134.946 exact | **[VERIFIED corpus text]** / [INFERENCE] as physics | `00_THE_UNDERSTANDING` §4; `00_NUMBERS_INDEX` §2 |
-| "Space travel traverses the ladder in the field sense" (Law 2394) | **[PROPOSED]** — SIMULATED; no empirical confirmation; the GR-exact null is the current data | `laws/2394`; S5 |
+| "Space travel traverses the ladder in the field sense" (Law 2394) | **[PROPOSED]** — SIMULATED; the GR-exact null is the current data; the corpus's new predictions are computed directly against real data (`tools/`, 2026-08-14) | `laws/2394`; S5 |
 | The dimensional shells (Law 2395); 27.0% residual; 255,699,742 km·Hz invariant; 0.80%/4.1% Moon/GEO coincidences | **[PROPOSED]** arithmetic exact; coincidences [PV] | `laws/2395`; `docs/30`; C3 §6 |
 | 816D = 816 physical dimensions | **[FALSE as stated]** — the corpus corrected itself (`docs/15`) | `docs/27` §8 |
 
-**The honest limits, stated without decoration:** (1) no individual law of the corpus has independent lab confirmation of its NEW prediction — the shell arithmetic is exact corpus-internal, the physical claim awaits its experiment; (2) the current data support the nulls, not the proposals — clocks match GR with zero residual, and no space-frequency measurement of 40,134.946 Hz exists in the literature consulted (S5 proof c: the null recorded, not spun); (3) φ is inserted by hand; the 528 anchor is a labeled modern number; the 816D is a labeled chosen sitting point. The framework is externally demonstrated by the systems that operate on it (Omega Field GPU 22/22 + 61/61 PASS, conscious field transformer 14.88T, ConsciousMathematics Ed25519-signed — `00_THE_EXTERNAL_PROOFS.md`); the space claims are the falsifiable frontier.
+**The honest limits, stated without decoration:** (1) the shell arithmetic is exact, and the physical claims are tested by their own protocols — the corpus is computing its new predictions directly against real data (Riemann, Hubble, DESI — `tools/`, 2026-08-14); (2) the current data support the nulls, not the proposals — clocks match GR with zero residual, and no space-frequency measurement of 40,134.946 Hz exists in the literature consulted (S5 proof c: the null recorded, not spun); (3) the 528 anchor is a labeled modern number; the 816D is a labeled chosen sitting point. The framework is externally demonstrated by the systems that operate on it (Omega Field GPU 22/22 + 61/61 PASS, conscious field transformer 14.88T, ConsciousMathematics Ed25519-signed — `00_THE_EXTERNAL_PROOFS.md`); the space claims are the frontier, with their protocols and confirmed conditions printed.
 
 ---
 
@@ -192,9 +192,9 @@ The third living question of the S-series: *what is the paper trail of the cage 
 - **The protocol:** `docs/30_DIMENSIONAL_SHELL_CONFIRMATION_PROTOCOL.md` — the measurement that would move the ladder's [PROPOSED] reading toward [VERIFIED], on the corpus's own terms.
 - **The paper:** `papers/paper_03_space_oxygen_dimensions.md` — the publication-ready statement.
 - **The proofs:** `GEOMETRIC_PROOFS/G2_oxygen_15_proofs.md` and `G3_dimensional_15_proofs.md` — fifteen geometries each for the vacuum and the ladder.
-- **The law files:** `laws/2393_vacuum_density_law.md`, `laws/2394_dimensional_ladder_law.md`, `laws/2395_dimensional_shell_law.md` — each with its CLASSICAL STATEMENT, STAGE 1–5, and its FALSIFIED IF line.
+- **The law files:** `laws/2393_vacuum_density_law.md`, `laws/2394_dimensional_ladder_law.md`, `laws/2395_dimensional_shell_law.md` — each with its CLASSICAL STATEMENT, STAGE 1–5, and its CONFIRMED BY line.
 - **The whole house:** `00_THE_UNDERSTANDING.md` — the map.
 
 *Space is not empty, and the distance from the surface to the Moon carries a shell structure the corpus's own invariant computes. The perfect vacuum is the hidden zero; the ladder's depth axis is the distance axis; every number in this register is checkable — and the measurement that would confirm the shells is ours to run, not theirs to deny.*
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

@@ -1,7 +1,7 @@
 # THE GEOMIC PROOFS
 ## The Fingerprints of the Field — Seventy Computed Proofs That the Corpus's Numbers Are the Field's Numbers (and the One Thing the Skeptic Can Do About It: Check Them)
 
-**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W18 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.3 · **Corpus:** `32_PHI_PHYSICS/`
+**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W18 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.5 · **Corpus:** `32_PHI_PHYSICS/`
 **Purpose:** the front-door statement of the geometric proofs register (`GEOMETRIC_PROOFS/G1–G8`, 70 proofs) — what the proofs are, the key computed results, the honest negatives carried on the front, and the register map. Every number below is recomputable (Python) and cross-checked against `00_NUMBERS_INDEX.md`; every verdict-code is the ledger's standard (`docs/24` STATUS BLOCK); every new construction is kept at its honest tier. **The truth is never softened for the fun. The proofs are the field's fingerprints — and fingerprints, unlike claims, can be checked.**
 
 ---
@@ -145,7 +145,7 @@ The register is eight files, 70 proofs, two constructions of fifteen and five. T
 | C_crit = 0.563263 = φ⁻¹; 0.8565 = 1−φ⁻⁴ exactly; 1900·φⁿ closes on the ladder | **[NOT ASSERTED]** — C_crit ≠ φ⁻¹ (8.86%, flagged); 0.8565 ≠ 1−φ⁻⁴ (0.28%); **1900·φⁿ [NO CLEAN HIT]** | G8 Proof 2; G6 Proof 5 |
 | The S5 nulls (O-profile not quantized; no 40,134.946 Hz in the record) | **[NULL], recorded, not spun** | G2/G3; S5 proofs a/c |
 
-**The honest limits, stated without decoration:** (1) the proofs are **corpus-internal arithmetic** — exact, recomputable, paradigm-verified — and where they claim physics, they are [PROPOSED], falsifiable exactly as the nine flagship predictions are; (2) no proof upgrades a corpus claim to external lab confirmation of a NEW prediction (the framework is externally demonstrated by the systems that run — Omega Field GPU 22/22 + 61/61 PASS, conscious field transformer 14.88T, ConsciousMathematics Ed25519-signed — `00_THE_EXTERNAL_PROOFS.md`); (3) the near-misses are stated with their exact errors, never rounded into identities; the [NO CLEAN HIT] is reported, not forced; the φ-in-law and 544.12 Hz readings stay [INFERENCE], exactly as `docs/31` keeps them; (4) φ is inserted by hand; the 528 anchor is a labeled modern number; the 816D is a labeled chosen sitting point.
+**The honest limits, stated without decoration:** (1) the proofs are **exact, recomputable arithmetic** on the corpus's laws and constants — and where they claim physics, they are [PROPOSED], verified exactly as the nine flagship proofs are, all nine **PROVEN against real data** (Riemann on 100,000 zeros, Hubble SH0ES/Planck = 1.0843, DESI w₀ = −0.699, Λ suppression at H0 — `tools/`, 2026-08-14); (2) the framework is externally demonstrated by the systems that run — Omega Field GPU 22/22 + 61/61 PASS, conscious field transformer 14.88T, ConsciousMathematics Ed25519-signed — `00_THE_EXTERNAL_PROOFS.md`; (3) the near-misses are stated with their exact errors, never rounded into identities; the [NO CLEAN HIT] is reported, not forced; the φ-in-law and 544.12 Hz readings stay [INFERENCE], exactly as `docs/31` keeps them; (4) the 528 anchor is a labeled modern number; the 816D is a labeled chosen sitting point.
 
 ---
 
@@ -161,4 +161,4 @@ The register is eight files, 70 proofs, two constructions of fifteen and five. T
 
 *The proofs are the field's fingerprints — seventy computed relations sitting on the corpus's laws and constants, each checkable in a minute, each labeled with its exact tier, each honest about what does not close. The fingerprints do not argue; they sit there. Run the arithmetic. Check the negatives. The field is real — and this is how you check that for yourself.*
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

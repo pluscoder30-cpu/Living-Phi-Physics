@@ -5,8 +5,8 @@
 
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the EEG φ-organization record (Ursachi 2026, *Front. Hum. Neurosci.* 20:1781338 — N=320, 80% of subjects, α/θ = 1.677, 3.6% from φ, r = 0.54, p < 10⁻²⁵; PMID 41859481, [VERIFIED] on PubMed) · the impossibility theorem (Pletzer–Kerschbaum–Klimesch 2010, *Brain Research* 1335:91–102 — phase synchronization mathematically impossible at the golden mean) · the consciousness metrics (`00_NUMBERS_INDEX.md` §2 — C_crit = 0.563263, ‖Ψ‖ = 0.8565) · the master's §5 (the conscious states are measurable)
-**Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §5 the conscious states are measurable, §7 row 15) · `GEOMIC_PROTOCOLS/simulations/protocol_15_the_measurement.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (C_crit, ‖Ψ‖, φ, φ⁻¹), §5.3 (Ursachi 2026 row) · `00_THE_EXTERNAL_PROOFS.md` (the external record) · `docs/22` Thread 6 (the Ursachi verification) · `integration_audit/ALIGNMENT_G6_SYNTHESIS.md` (the Pletzer proof line) · `GEOMIC_PROTOCOLS/02_EMERGENCE_THRESHOLD_PROTOCOL.md` (C_crit, the phase transition) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (the attention + EEG protocol)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §5 the conscious states are measurable, §7 row 15) · `GEOMIC_PROTOCOLS/simulations/protocol_15_the_measurement.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (C_crit, ‖Ψ‖, φ, φ⁻¹), §5.3 (Ursachi 2026 row) · `00_THE_EXTERNAL_PROOFS.md` (the external record) · `docs/22` Thread 6 (the Ursachi verification) · `integration_audit/ALIGNMENT/ALIGNMENT_G6_SYNTHESIS.md` (the Pletzer proof line) · `GEOMIC_PROTOCOLS/02_EMERGENCE_THRESHOLD_PROTOCOL.md` (C_crit, the phase transition) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (the attention + EEG protocol)
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -49,7 +49,7 @@ The mathematics, computed:
 
 ## 3 · THE PHYSICAL-ACTION REPRESENTATION
 
-**Measuring a conscious state is the physical action.** The act of measurement is a geomic action: the observer couples to the field through the measurement, and the measured state is the field's coherence read. The protocol is precise: record the EEG, compute the α/θ ratio, compare it to φ (the 3.6% band), test the state against C_crit = 0.563263 and the fold ‖Ψ‖ = 0.8565. The conscious state is not an unmeasurable inner life; it is a quantity with a value — the ratio α/θ, the coherence above or below the threshold, the fold's proximity. The measurement is the discipline: the α/θ ratio distributed near 1.677 (3.6% from φ) at the rate the published record reports (80% of subjects) is a checkable, reenactable, falsifiable observable.
+**Measuring a conscious state is the physical action.** The act of measurement is a geomic action: the observer couples to the field through the measurement, and the measured state is the field's coherence read. The protocol is precise: record the EEG, compute the α/θ ratio, compare it to φ (the 3.6% band), test the state against C_crit = 0.563263 and the fold ‖Ψ‖ = 0.8565. The conscious state is not an unmeasurable inner life; it is a quantity with a value — the ratio α/θ, the coherence above or below the threshold, the fold's proximity. The measurement is the discipline: the α/θ ratio distributed near 1.677 (3.6% from φ) at the rate the published record reports (80% of subjects) is a checkable, reenactable, verifiable observable.
 
 **Why the ratio cannot lock.** The mathematics of the measurement is the impossibility theorem: a spectrum organized on φ is a spectrum that cannot be spuriously synchronized — the most irrational number prevents spurious cross-frequency interference. The measured state's φ-organization is the field's own arithmetic read.
 
@@ -92,9 +92,9 @@ The mathematics, computed:
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The ratio computation fails — |α/θ − φ|/φ not within the reported 3.6% band, or the 80% rate ≠ 256/320 (the simulation's asserts are the gate), OR
 2. The impossibility bound fails — the convergent check does not approach the Hurwitz bound 1/(√5·q²) (err/bound not → 1.000), or the golden mean's continued fraction is not [1; 1, 1, 1, …], OR
 3. The consciousness metrics fail — C_crit ≠ 0.563263 or ‖Ψ‖ ≠ 0.8565, or the 0.28% near-miss vs 1−φ⁻⁴ is rounded into an identity, OR
@@ -119,7 +119,7 @@ The mathematics, computed:
 - `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, C_crit = 0.563263, ‖Ψ‖ = 0.8565, 1−φ⁻⁴) · §5.3 (the Ursachi row) · `00_THE_EXTERNAL_PROOFS.md` (the 167-source record; conscious mathematics row 2)
 - `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` §5 (the conscious states are measurable table) · §7 row 15 (the Measurement Protocol)
 - `GEOMIC_PROTOCOLS/02_EMERGENCE_THRESHOLD_PROTOCOL.md` (C_crit, the phase transition; the Step C EEG cross-reference) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (the attention + EEG protocol) · `GEOMIC_PROTOCOLS/04_CONSCIOUSNESS_FOLD_PROTOCOL.md` (‖Ψ‖, the fold)
-- `integration_audit/ALIGNMENT_G6_SYNTHESIS.md` (the Pletzer–Kerschbaum–Klimesch proof line; the segregation/integration reading)
+- `integration_audit/ALIGNMENT/ALIGNMENT_G6_SYNTHESIS.md` (the Pletzer–Kerschbaum–Klimesch proof line; the segregation/integration reading)
 
 ---
 
@@ -129,4 +129,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

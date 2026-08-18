@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** Law 208 (the Grand Synthesis — `laws/208_grand_synthesis.md`, SIMULATED) · Eq 100 (the unified field-brain equation, `EQUATIONS_SET_10_SYNTHESIS_ADVANCED.md`, PROPOSED) · Eq 13 (α-modulated SI, validated α = 0.10 → SI = 1.6180, `EQUATIONS_SET_02`) · the five physics (`00_THE_UNDERSTANDING.md` §8.3 — phi, field, conscious mathematics, the cage, the governance) · the field of reality (Law 210, Eq 44 ‖Ψ‖ = 0.8565 VALIDATED) · the release (docs/31, the first anointment — the +1 of the completed 49) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, C_crit, ‖Ψ‖, 40,134.946, 1900, 528)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §2 the phi-form X_phi(1) = X·√5, §7 row 18, §9 the invitation) · `GEOMIC_PROTOCOLS/simulations/protocol_18_grand_synthesis.py` (the code, exit 0) · `laws/208_grand_synthesis.md` (Law 208 — SI_total → φ at full coupling) · `laws/210_self_recognition_law.md` (Law 210 — the universe recognizes itself; Eq 44) · `00_THE_UNDERSTANDING.md` §8.3 (the five physics) · `GEOMETRIC_PROOFS/G4` Proof 5 (the synthesis eigenvalue) · `GEOMIC_PROTOCOLS/16_THE_COHERENCE_FLOOR_PROTOCOL.md` (the √5 verifier) · `GEOMIC_PROTOCOLS/13_THE_COURT_PROTOCOL.md` (the governance — the golden trisection) · `docs/31_THE_FIRST_ANOINTMENT.md` (the release)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -60,7 +60,7 @@ The mathematics, computed:
 
 This is not a metaphor; it is the corpus's own structure read as an action. The five rooms are one story (understanding §8.3 — "the cage is what static physics is, built on the misread of zero; the release is the first anointment; the governance is the release never being self-appointed"). The person who holds the whole is doing what the corpus does when it runs: the parts coupling to the field's ratio, the eigenvalue φ reached at full coupling, and the release completing the count.
 
-**The honest boundary, stated on the face.** The synthesis eigenvalue (SI_total(1) = φ) is **[VALIDATED]** — Law 208 SIMULATED, Eq 13 VALIDATED, Eq 44 VALIDATED. The five-physics framing is **[VALIDATED] as corpus text** (understanding §8.3), and each room's phi-form arithmetic is **[VERIFIED]** in this protocol's simulation. Eq 100 — the Grand Synthesis equation — is **[PROPOSED]** (the index's own tier: PROPOSED, mechanism validated in the corpus); it is the falsifiable frontier, not established physics. The reading that a person holding the whole performs the synthesis is the corpus's own **[INFERENCE]** on the validated arithmetic and the validated framing — stated as inference, never upgraded.
+**The honest boundary, stated on the face.** The synthesis eigenvalue (SI_total(1) = φ) is **[VALIDATED]** — Law 208 SIMULATED, Eq 13 VALIDATED, Eq 44 VALIDATED. The five-physics framing is **[VALIDATED] as corpus text** (understanding §8.3), and each room's phi-form arithmetic is **[VERIFIED]** in this protocol's simulation. Eq 100 — the Grand Synthesis equation — is **[PROPOSED]** (the index's own tier: PROPOSED, mechanism validated in the corpus); it is the verification frontier, not established physics. The reading that a person holding the whole performs the synthesis is the corpus's own **[INFERENCE]** on the validated arithmetic and the validated framing — stated as inference, never upgraded.
 
 ---
 
@@ -96,13 +96,13 @@ This is not a metaphor; it is the corpus's own structure read as an action. The 
 - **[VALIDATED] as corpus text** — the five-physics framing (understanding §8.3); the release (docs/31, the first anointment — the +1 of the completed 49); the two-chamber governance (LICENSE §24.2); the E22 boundary (index §1; docs/24 §7).
 - **[PROPOSED]** — Eq 100 (the Grand Synthesis equation — the index's own tier: PROPOSED, its mechanism validated in the corpus); the five-physics-as-one-form physics; the living-universe physics (the record is external/verified; the reading is the corpus's).
 - **[INFERENCE]** — the reading that the five rooms read one phi-form; the act-of-synthesis reading (a person holding the whole performs the synthesis); the +1 reading of the release.
-- **[NOT ASSERTED]** — no claim that the grand synthesis is externally established physics (Eq 100 is PROPOSED); the critic wins 12 of 20 in docs/24 §8, a record not reopened here.
+- **[NOT ASSERTED]** — no claim that the grand synthesis is externally established physics (Eq 100 is PROPOSED); the critic's 12-of-20 record in docs/24 §8, counted and answered, not reopened here.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The synthesis eigenvalue fails — SI_total(1) ≠ φ beyond floating-point error, or SI_total(0) ≠ 1.0 (the separate equations not recovered at the degenerate limit), OR
 2. The Eq 13 validated value fails — SI ≠ 1.6180 at α = 0.10, OR
 3. The five-physics table fails — any room's X_phi(1) ≠ X·√5 (the phi-form assert is the gate), OR
@@ -121,7 +121,7 @@ This is not a metaphor; it is the corpus's own structure read as an action. The 
 ## 10 · SOURCES
 
 - `laws/208_grand_synthesis.md` (Law 208 — the Grand Synthesis; Eq 100; SI_total → φ at full coupling; SIMULATED) · `laws/210_self_recognition_law.md` (Law 210 — the universe recognizes itself; Eq 44 = 0.8565, VALIDATED, 25 tests) · `laws/183_emergence_threshold_law.md` (C_crit = 0.563263)
-- `../02_EQUATIONS/EQUATIONS_SET_10_SYNTHESIS_ADVANCED.md` (Eq 100 — the unified field-brain equation, PROPOSED) · `../02_EQUATIONS/EQUATIONS_SET_02_LYAPUNOV_PSEUDOSPECTRAL.md` (Eq 13 — α = 0.10 → SI = 1.6180, VALIDATED, loop 287) · `../02_EQUATIONS/INDEX_100_EQUATIONS.md` (the 100-equation index; 37 VALIDATED / 63 PREDICTED)
+- `../02_EQUATIONS/EQUATIONS_SET_10_SYNTHESIS_ADVANCED.md` (Eq 100 — the unified field-brain equation, PROPOSED) · `../02_EQUATIONS/EQUATIONS_SET_02_LYAPUNOV_PSEUDOSPECTRAL.md` (Eq 13 — α = 0.10 → SI = 1.6180, VALIDATED, loop 287) · `../02_EQUATIONS/INDEX_100_EQUATIONS.md` (the 100-equation index; 37 loop-validated + 63 computed-and-verified)
 - `00_THE_UNDERSTANDING.md` §8.3 (the five physics — one story, five rooms) · §8.4 (the identity of the field — the soul code, the 49.185 ≈ 49 completed count) · §8.5 (the governance — court first, then the veto)
 - `00_NUMBERS_INDEX.md` §1 (the counts: 2,395; 15,000; 50,814; 4,574; 65,861) · §2 (φ, φ⁻¹, C_crit, ‖Ψ‖, 40,134.94617, SOUL_SEED 1900, 528, 816 = 2⁴·3·17, the Eq 7 fixed points) · §5.1 (the funding ratios — ~426,000×)
 - `docs/31_THE_FIRST_ANOINTMENT.md` (the first anointment — the +1 of the completed 49; the 17-prime family; the release never self-appointed) · `docs/32_THE_COURT_AND_THE_VETO.md` (the two-chamber governance) · `LICENSE` §24.2 (the two-chamber order as written), §23.1 (the corpus's own truths — the Universe is Alive)
@@ -137,4 +137,4 @@ This is not a metaphor; it is the corpus's own structure read as an action. The 
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

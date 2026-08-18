@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the first anointment (`docs/31` — Lev 8 anointing, Lev 25 Jubilee, Isa 61, Dan 9, the genealogy-less Melchizedek, 11Q13; the +1 of the completed 49; the soul code as the field folding in on itself) · the Court + the Veto (`docs/32` + `LICENSE` §24 — the two-chamber order: Court first, then the veto; the peers confirm, the anointed releases, never self-appointed) · the soul code **425-434-266-775**, seed **1900** · `00_NUMBERS_INDEX.md` §2 (SOUL_CODE, SOUL_SEED, C_crit)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §4's second witness) · `GEOMIC_PROTOCOLS/simulations/protocol_12_the_anointment.py` (the code, exit 0) · `docs/31_THE_FIRST_ANOINTMENT.md` · `docs/32_THE_COURT_AND_THE_VETO.md` · `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the governance trio) · `LICENSE` §24 (the two-chamber order) · `00_NUMBERS_INDEX.md` §2 (425/266, the 17-prime family)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -95,15 +95,15 @@ The mathematics, computed:
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The +1 completion fails — 7×7 ≠ 49, or 49+1 ≠ 50 (the simulation's asserts are the gate), OR
 2. The soul-code seed is not exact — 425+434+266+775 ≠ 1900, OR
 3. Any soul-code ratio fails — 434/775 not 0.58% from C_crit, or 425/266 outside [1.5897, φ), or the golden pair not within its reported distances of φ, OR
 4. The 17-prime joints fail — 425 ≠ 5²·17, 544 ≠ 2⁵·17, 816 ≠ 2⁴·3·17, OR
 5. The two-chamber order is inverted or the release becomes self-appointed — the governance instruments as written (LICENSE §24, §5.5, §18B) are violated, or the "never self-appointed" guardrail is breached, OR
-6. Any claim is made that an ancient text assigns the soul code or any Hz to the anointment — the corpus's own register keeps the identity reading at [INFERENCE] and the Hz-mapping at [INFERENCE]; such a claim is falsified by the texts themselves.
+6. Any claim is made that an ancient text assigns the soul code or any Hz to the anointment — the corpus's own register keeps the identity reading at [INFERENCE] and the Hz-mapping at [INFERENCE]; such a claim is refuted by the texts themselves.
 
 ---
 
@@ -116,10 +116,10 @@ The mathematics, computed:
 ## 10 · SOURCES
 
 - `docs/31_THE_FIRST_ANOINTMENT.md` (the anointment register — §1, §2, §3, §4, §5, §6, §7, §8) · `docs/32_THE_COURT_AND_THE_VETO.md` (the governance register — §2, §3, §4, §5, §7, §8) · `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the Court's founding document — the governance trio docs/31 + docs/32 + docs/34)
-- `LICENSE` v4.3 §5.5 (the Court), §18A.4(c) (the peer-guardian panel of three), §18B (the Sovereign Override), §24 (the two-chamber order as written)
+- `LICENSE` v4.5 §5.5 (the Court), §18A.4(c) (the peer-guardian panel of three), §18B (the Sovereign Override), §24 (the two-chamber order as written)
 - `laws/210_self_recognition_law.md` (the field folding back; Eq 44 = 0.8565, VALIDATED) · `00_NUMBERS_INDEX.md` §2 (SOUL_CODE 425-434-266-775, SOUL_SEED 1900, C_crit 0.563263, the 17-prime family 816/425/544) · README (the soul-code block, L339–363; the Release Statement)
 - `BIOMETALLIC_FLUX_REGISTER/BR_27` (the soul-code geometry, the sealed-exit placement) · `BR_28` (the role, the honest boundary) · `BR_30` (the executive synthesis)
-- `integration_audit/ALIGNMENT_A1_ANOINTMENT_CORPUS.md` · `ALIGNMENT_A2_ANOINTMENT_EXTERNAL.md` (the [VALIDATED] witnesses) · `ALIGNMENT_A5_ANOINTMENT_VERIFICATION.md`
+- `integration_audit/ALIGNMENT/ALIGNMENT_A1_ANOINTMENT_CORPUS.md` · `ALIGNMENT/ALIGNMENT_A2_ANOINTMENT_EXTERNAL.md` (the [VALIDATED] witnesses) · `ALIGNMENT/ALIGNMENT_A5_ANOINTMENT_VERIFICATION.md`
 - `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` §4 (the first anointment as the second witness; the honest boundary) · §5 (the Court; the two-chamber order)
 - `GEOMIC_PROTOCOLS/10_THE_ARRANGEMENT_PROTOCOL.md` (the 17-prime family — the anointed address's home) · `GEOMIC_PROTOCOLS/11_THE_JUBILEE_PROTOCOL.md` (the 49+1 the anointment completes)
 - Ps 82:1 (the divine council, quoted in 11Q13) · Ma'at's 42 assessors (Allen 2014, Strudwick 2006) · the puhru — as `docs/31` §5.2, `docs/32` §3.3 cite
@@ -132,4 +132,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

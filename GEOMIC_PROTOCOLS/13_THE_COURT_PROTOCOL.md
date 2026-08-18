@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the Court + the Veto (`docs/32` + `docs/34` + `LICENSE` §5.5, §18A, §18B, §24 — the two-chamber governance: the peers confirm, the anointed releases, never self-appointed; the peer panel of three §18A.4(c)) · the golden trisection (G6 Proof 4; `00_THE_GEOMIC_PROOFS` §3.5) · the golden angle (G1 Proof 13; protocol 08's golden-angle walk) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, the 17-prime family, C_crit)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §4's governance sentence, §7 row 13) · `GEOMIC_PROTOCOLS/simulations/protocol_13_the_court.py` (the code, exit 0) · `docs/31_THE_FIRST_ANOINTMENT.md` · `docs/32_THE_COURT_AND_THE_VETO.md` · `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the governance trio) · `LICENSE` §5.5 (the Court), §18A.4(c) (the panel of three), §18B (the Sovereign Override), §24 (the two-chamber order) · `00_THE_GEOMIC_PROOFS.md` §3.5 (the golden trisection) · `GEOMETRIC_PROOFS/G6` Proof 4 (the peer-panel proof) · `GEOMETRIC_PROOFS/G5` Proof 3 (the peers) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, C_crit)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -88,19 +88,19 @@ The mathematics, computed:
 - **[VALIDATED] as LICENSE text** — the two-chamber governance order, the Court's constitution (§5.5), the peer-guardian succession (§18A.4(c) — the panel of three), the Sovereign Override (§18B), and `LICENSE` §24's two-chamber language, all quoted as written (docs/32 §2, §8).
 - **[INTERPRETIVE]** — the Court as a legal concept (no external namesake; nearest: Ps 82's divine council quoted in 11Q13, Ma'at's 42 assessors); the two-chamber reading of the governance model; the reading that the threefold confirmation performs the court's geometry.
 - **[SPECULATIVE]** — the puhru two-chamber/quorum procedure, on the **[VALIDATED]** puhru institution (no council transcript survives, D8) — the corpus's own flag, kept verbatim (docs/31 §5.2, docs/32 §3.3).
-- **[NOT ASSERTED]** — no ancient namesake for the Court; no destiny for the Licensor; the critic wins 12 of 20 in `docs/24` §8, a record not reopened here.
+- **[NOT ASSERTED]** — no ancient namesake for the Court; no destiny for the Licensor; the critic's 12-of-20 record in `docs/24` §8, counted and answered, not reopened here.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The trisection fails — 3×120° ≠ 360°, or 120° ≠ 2π/3 (the simulation's asserts are the gate), OR
 2. The golden trisection identity fails — 3/φ² ≠ 1+φ⁻⁴ beyond floating-point error (diff 0.0 is the gate), OR
 3. The golden angle fails — 360°/φ² ≠ 137.5078°, or 120°·(1+φ⁻⁴) ≠ 137.5078° beyond floating-point error, OR
 4. The quorum is not three — any peer-panel number other than the LICENSE's one fixed three (§18A.4(c)) is asserted, OR
 5. The two-chamber order is inverted or the release becomes self-appointed — the governance instruments as written (LICENSE §24, §5.5, §18B) are violated, or the "never self-appointed" guardrail is breached, OR
-6. Any claim is made that the Court has an external namesake, or that any ancient text prescribes the corpus's governance procedure — the puhru procedure is [SPECULATIVE] and the Court is [INTERPRETIVE]; such claims are falsified by the corpus's own labels (docs/32 §8).
+6. Any claim is made that the Court has an external namesake, or that any ancient text prescribes the corpus's governance procedure — the puhru procedure is [SPECULATIVE] and the Court is [INTERPRETIVE]; such claims are refuted by the corpus's own labels (docs/32 §8).
 
 ---
 
@@ -113,10 +113,10 @@ The mathematics, computed:
 ## 10 · SOURCES
 
 - `docs/31_THE_FIRST_ANOINTMENT.md` (the anointment register — §3, §5, §6, §7, §8) · `docs/32_THE_COURT_AND_THE_VETO.md` (the governance register — §2, §3, §4, §5, §7, §8) · `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the Court's founding document — the governance trio docs/31 + docs/32 + docs/34)
-- `LICENSE` v4.3 §2.7 (the Court's definition), §5.5 (the full constitution), §5.5.4 (composition), §18A.4(c) (the peer panel of three), §18B (the Sovereign Override), §24 (the two-chamber order as written)
+- `LICENSE` v4.5 §2.7 (the Court's definition), §5.5 (the full constitution), §5.5.4 (composition), §18A.4(c) (the peer panel of three), §18B (the Sovereign Override), §24 (the two-chamber order as written)
 - `laws/210_self_recognition_law.md` (the field folding back; Eq 44 = 0.8565, VALIDATED) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, C_crit, SOUL_CODE 425-434-266-775, ‖Ψ‖)
 - `00_THE_GEOMIC_PROOFS.md` §3.5 (the golden trisection — 3/φ² = 1+φ⁻⁴ = 1.145898, diff 0.0) · `GEOMETRIC_PROOFS/G6` Proof 4 (the peer-panel proof) · `GEOMETRIC_PROOFS/G5` Proof 3 (the peers' triangle) · `GEOMETRIC_PROOFS/G1` Proof 13 (the golden angle that never closes)
-- `integration_audit/ALIGNMENT_A2_ANOINTMENT_EXTERNAL.md` (Ps 82:1, Ma'at's 42 assessors, the puhru) · `ALIGNMENT_A5_ANOINTMENT_VERIFICATION.md`
+- `integration_audit/ALIGNMENT/ALIGNMENT_A2_ANOINTMENT_EXTERNAL.md` (Ps 82:1, Ma'at's 42 assessors, the puhru) · `ALIGNMENT/ALIGNMENT_A5_ANOINTMENT_VERIFICATION.md`
 - `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` §4 (the first anointment as the second witness; the honest boundary) · §5 (the Court; the two-chamber order) · §7 row 13 (the Court Protocol)
 - `GEOMIC_PROTOCOLS/08_THE_GAIT_PROTOCOL.md` (the golden-angle walk 137.5078°) · `GEOMIC_PROTOCOLS/12_THE_ANOINTMENT_PROTOCOL.md` (the release the Court confirms)
 - Ps 82:1 (the divine council, quoted in 11Q13) · Ma'at's 42 assessors (Allen 2014, Strudwick 2006) · the puhru — as `docs/31` §5.2, `docs/32` §3.3 cite
@@ -129,4 +129,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

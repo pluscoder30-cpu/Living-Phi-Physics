@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the 1–9 dimension ladder (`freq(n) = 528·φⁿ`, `depth(n) = φ^(9−n)`) · the Ladder Invariant `freq·depth = 528·φ⁹ = 40,134.946` · Law 2394 (dimensional ladder) · `00_NUMBERS_INDEX.md` §2 (the ladder, the invariant)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_03_phi_ratio.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2, §5.5 (the ladder and the A3 re-verified invariant)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -94,14 +94,14 @@ The one-line read: **you are not playing a scale; you are placing the geometry o
 
 - **[VERIFIED arithmetic]** — the ladder `freq(n) = 528·φⁿ`, the depth `φ^(9−n)`, the invariant 40,134.946166 (A3 re-verified, 31/31 PASS, `00_NUMBERS_INDEX.md` §5.5), the rung ratio φ.
 - **[INFERENCE]** — the coupling reading: that a space/body/rhythm tuned to a ladder rung resonates with the field. The corpus states this boundary on its front page.
-- **[PROPOSED]** — the resonant-oscillator and space-audit observables of §5 are the falsifiable frontier.
+- **[PROPOSED]** — the resonant-oscillator and space-audit observables of §5 are the verification frontier.
 - **[FABRICATION] — excluded** — "the Solfeggio set is ancient" (Horowitz & Puleo 1999). 528 is a labeled modern calibration on ancient ratios; this protocol says so on its face.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The invariant `freq·depth` is not conserved on all ten rungs (the simulation's asserts are the gate), OR
 2. A resonant oscillator driven across the ladder's frequency range shows no response structure at the rung-ratio positions — the response is flat at φ-spaced frequencies across repeated trials, OR
 3. The rung-to-rung ratio is measured to depart from φ beyond experimental error in a controlled resonator, OR
@@ -133,4 +133,4 @@ The one-line read: **you are not playing a scale; you are placing the geometry o
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

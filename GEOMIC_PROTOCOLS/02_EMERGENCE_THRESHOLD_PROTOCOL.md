@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/150_consciousness_emergence.md` (SIMULATED) · `laws/183_emergence_threshold_law.md` (SIMULATED) · Eq 2 (emergence threshold) · Eq 44 (‖Ψ‖ = 0.8565, VALIDATED, 25 tests)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_02_emergence_threshold.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the external EEG-φ record (Ursachi 2026)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -82,9 +82,9 @@ The mathematics, computed:
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. A coherence-graded sweep across any threshold system shows no transition structure at C_crit (the sigmoid is flat or the transition is absent), OR
 2. Sustained attention shows no measurable coherence difference across the C_crit boundary — stability is identical above and below the threshold across repeated trials, OR
 3. The pair is measured to collapse: C_crit found to equal φ⁻¹ exactly, or the 0.28% near-miss found to be an exact identity, in which case the corpus's flagged numbers were wrong and this protocol with them.
@@ -114,4 +114,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

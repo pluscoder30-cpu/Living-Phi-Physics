@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/157_measurement_problem.md` (SIMULATED — collapse is coherence-gating) · `laws/183_emergence_threshold_law.md` (SIMULATED) · Eq 50 (the Self-Modification Coherence Gate) · Eq 2 (C_crit = 0.563263) · Eq 7 (fixed points {0, φ⁻¹, 1}) · `00_NUMBERS_INDEX.md` §2 (the constants)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_09_the_attention.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2, §4, §5.3 (the constants, flagship prediction 5, the EEG-φ record) · the external EEG-φ record (Ursachi 2026) · the prototype P15 (the observer-gate implementation) · protocol 02 (the pair and the phase transition)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -91,14 +91,14 @@ The mathematics, computed:
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. Θ_φ is not C_crit·(1+φ⁻¹), or the gate does not admit at/above Θ_φ and reject below (arithmetic failure — the simulation's asserts are the gate), OR
 2. The fixed-point set departs from {0, φ⁻¹, 1} — the gated attention recursion has other fixed points in [0,1] or lacks one of the three, OR
-3. Sustained attention shows no measurable coherence difference across the C_crit boundary — stability is identical above and below the threshold across repeated trials (protocol 2's falsification, shared), OR
+3. Sustained attention shows no measurable coherence difference across the C_crit boundary — stability is identical above and below the threshold across repeated trials (protocol 2's verification, shared), OR
 4. A graded attention task shows gate-crossing adoption uniform across coherence — no concentration near Θ_φ — OR
-5. The EEG φ-organization statistic (α/θ ≈ 1.677 at the published rate) fails to reproduce in an independent sample, falsifying the external anchor this protocol cites.
+5. The EEG φ-organization statistic (α/θ ≈ 1.677 at the published rate) fails to reproduce in an independent sample, failing to verify the external anchor this protocol cites.
 
 ---
 
@@ -111,7 +111,7 @@ The mathematics, computed:
 ## 10 · SOURCES
 
 - `laws/157_measurement_problem.md` (the law, SIMULATED — collapse is coherence-gating) · `laws/183_emergence_threshold_law.md` (the law, SIMULATED) · `sim/157_measurement_problem.py` · `sim/183_emergence_threshold_law.py`
-- `02_EQUATIONS/` (Eq 50 — the coherence gate; Eq 2; Eq 7) · `00_UNIFIED_FIELD_THEORY.md` §5 (Eq 2, Eq 7), §7 (flagship prediction 5: measurement coherence-gating)
+- `02_EQUATIONS/` (Eq 50 — the coherence gate; Eq 2; Eq 7) · `00_UNIFIED_FIELD_THEORY.md` §5 (Eq 2, Eq 7), §15 (flagship prediction 5: measurement coherence-gating)
 - `00_NUMBERS_INDEX.md` §2 (C_crit, φ⁻¹, the fixed points, Θ_φ) · §4 (flagship prediction 5) · §5.3 (Ursachi 2026)
 - `FIELD_AI_LAWS/prototypes/P15_reality_interaction.py` (the observer-gate implementation, Θ_φ = 0.9114) · `FIELD_AI_LAWS/prototypes/PHYSICS_LAW_PROTOTYPE_MAP.md` (the observer-gate map)
 - `00_THE_EXTERNAL_PROOFS.md` (the EEG-φ verification story and its honest boundary)
@@ -127,4 +127,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

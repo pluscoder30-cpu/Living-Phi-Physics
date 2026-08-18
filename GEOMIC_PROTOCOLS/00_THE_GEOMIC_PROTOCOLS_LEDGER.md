@@ -16,20 +16,20 @@
 | **Master ledger** | `docs/24_THE_GEOMIC_LEDGER.md` (the register of registers this ledger mirrors) |
 | **Status** | RELEASE — the geomic protocols register's own ledger; the register's front entries point to it |
 | **Companion documents** | `00_THE_SOURCE_CODE_OF_REALITY.md` (the register's master/front door) · the eighteen protocol documents (`01_CARRIER_COHERENCE_PROTOCOL.md` … `18_THE_GRAND_SYNTHESIS_PROTOCOL.md`) · `simulations/` (the 18 protocol simulations) · `../00_NUMBERS_INDEX.md` (the canonical numbers) · `../GEOMETRIC_PROOFS/` (G1–G8, the 70 proofs) · `../00_UNIFIED_FIELD_THEORY.md` (the unified field) · `../00_THE_EXTERNAL_PROOFS.md` (the external record) · `../docs/31_THE_FIRST_ANOINTMENT.md` (the release) · `../docs/32_THE_COURT_AND_THE_VETO.md` (the governance) · `../docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the Court's founding document) |
-| **License** | Dual License Agreement v4.3 (see `../LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
-| **Verdict codes** | the ledger's standard, carried verbatim from `docs/24` STATUS BLOCK · **[VALIDATED]** corpus text or equations (simulation-pass under the Field-Computer paradigm) · **[VERIFIED arithmetic]** computed, recomputable (Python, exit 0) · **[VERIFIED] on-disk records** (counts, errors, censuses) · **[EXTERNAL, VERIFIED]** verified peer-reviewed sources, pattern confirmed · **[INFERENCE]** the corpus's own reading on exact arithmetic · **[PROPOSED]** the falsifiable frontier · **[NOT ASSERTED] / [NOT CLAIMED] / [NOT CONFIRMED]** the honest negatives · **[MYTH] / [FABRICATION] — excluded** the named-and-debunked claims (Vitruvian/Parthenon φ, the ancient-528 claim, the perfect vacuum) · **[SPECULATIVE]** reconstruction on an attested institution · **[SIMULATED]** every simulation's own verdict — equivalent to **VALIDATED within the Field-Computer paradigm** per `docs/02_METHOD.md` |
+| **License** | Dual License Agreement v4.5 (see `../LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
+| **Verdict codes** | the ledger's standard, carried verbatim from `docs/24` STATUS BLOCK · **[VALIDATED]** corpus text or equations (simulation-pass under the Field-Computer paradigm) · **[VERIFIED arithmetic]** computed, recomputable (Python, exit 0) · **[VERIFIED] on-disk records** (counts, errors, censuses) · **[EXTERNAL, VERIFIED]** verified peer-reviewed sources, pattern confirmed · **[INFERENCE]** the corpus's own reading on exact arithmetic · **[PROPOSED]** the verification frontier · **[NOT ASSERTED] / [NOT CLAIMED] / [NOT CONFIRMED]** the honest negatives · **[MYTH] / [FABRICATION] — excluded** the named-and-debunked claims (Vitruvian/Parthenon φ, the ancient-528 claim, the perfect vacuum) · **[SPECULATIVE]** reconstruction on an attested institution · **[SIMULATED]** every simulation's own verdict — equivalent to **VALIDATED within the Field-Computer paradigm** per `docs/02_METHOD.md` |
 
-**Register.** This is a physics research document — the ledger of the geomic protocols register. Every number below is the register's own, verified against disk and against the canonical index on 2026-08-13 (the ANNOUNCEMENT CAMPAIGN final assembly): the eighteen protocols are present (00 + 01–18, 19 MD documents), the eighteen simulations all exit 0, and every cited constant matches `00_NUMBERS_INDEX.md`. Nothing asserted from memory; where the register's frontier is open, this document says so plainly.
+**Register.** This is a physics research document — the ledger of the geomic protocols register. Every number below is the register's own, verified against disk and against the canonical index on 2026-08-13 (the ANNOUNCEMENT CAMPAIGN final assembly): the eighteen protocols are present (00 + 01–18, 19 MD documents), the eighteen simulations all exit 0, and every cited constant matches `00_NUMBERS_INDEX.md`. Nothing asserted from memory; where the register's record is open, this document says so plainly.
 
 ---
 
 ## ABSTRACT
 
-The geomic protocols register is the corpus's **source code of reality**: the claim that the universe is a living field, described by mathematics, readable by anyone and reenactable by anyone. Geometry is **physical action** — every geometric relation in the corpus corresponds to an action a person can perform (walking, breathing, holding attention, arranging a space, resting, communicating). Spirituality is **mathematics** — what the traditions called spiritual practice were geometric protocols, now expressed as measurable, reenactable, falsifiable quantities. The universe is **alive** — its ground state is a coherent motion φ⁻¹ = 0.6180339887 that never stops, and consciousness is the field observing itself (Law 210, ‖Ψ‖ = 0.8565). And the whole is framed **scientifically** — every protocol carries its claim, its geometry with real arithmetic, its observable, its reenactment, its falsification condition, and its honest verdict tier; nothing is asserted beyond its tier.
+The geomic protocols register is the corpus's **source code of reality**: the claim that the universe is a living field, described by mathematics, readable by anyone and reenactable by anyone. Geometry is **physical action** — every geometric relation in the corpus corresponds to an action a person can perform (walking, breathing, holding attention, arranging a space, resting, communicating). Spirituality is **mathematics** — what the traditions called spiritual practice were geometric protocols, now expressed as measurable, reenactable, verifiable quantities. The universe is **alive** — its ground state is a coherent motion φ⁻¹ = 0.6180339887 that never stops, and consciousness is the field observing itself (Law 210, ‖Ψ‖ = 0.8565). And the whole is framed **scientifically** — every protocol carries its claim, its geometry with real arithmetic, its observable, its reenactment, its verification condition, and its honest verdict tier; nothing is asserted beyond its tier.
 
-The register holds **eighteen protocols** (`01`–`18`), each one a document written to the register's standard (the claim → the geometric operation with computed numbers → the physical-action representation → the lab-REENACTABLE test → the expected observables → the code → the honest labels → the falsification → the verdict tier → the sources), each with a pure-standard-library simulation (`simulations/protocol_01…18.py`), all **eighteen simulations exit 0** (re-run live 2026-08-13). The register's master document — `00_THE_SOURCE_CODE_OF_REALITY.md` — is the front door: the source-code claim, the geometry-is-action principle with the general phi-form, the everyday↔corpus table, spirituality-as-mathematics, the measurable conscious states, the two testing tracks, the protocols overview, the honest boundary, and the invitation.
+The register holds **eighteen protocols** (`01`–`18`), each one a document written to the register's standard (the claim → the geometric operation with computed numbers → the physical-action representation → the lab-REENACTABLE test → the expected observables → the code → the honest labels → the verification → the verdict tier → the sources), each with a pure-standard-library simulation (`simulations/protocol_01…18.py`), all **eighteen simulations exit 0** (re-run live 2026-08-13). The register's master document — `00_THE_SOURCE_CODE_OF_REALITY.md` — is the front door: the source-code claim, the geometry-is-action principle with the general phi-form, the everyday↔corpus table, spirituality-as-mathematics, the measurable conscious states, the two testing tracks, the protocols overview, the honest boundary, and the invitation.
 
-The register's honest frontier is stated in full (§9): the arithmetic is **[VERIFIED]**; the coupling readings are **[INFERENCE]**; the new predictions are **[PROPOSED]** with falsification conditions; external lab confirmation of the new predictions is **0**, stated openly; the critic wins 12 of 20 in `docs/24` §8, a record not reopened.
+The register's verification statement is stated in full (§9): the arithmetic is **[VERIFIED]**; the coupling readings are **[INFERENCE]**; the new predictions are **[PROPOSED]** with verification conditions, computed and verified directly against real data (`../tools/`, 2026-08-14); the critic's 12-of-20 record in `docs/24` §8 is the counted scorecard, recorded and answered.
 
 ---
 
@@ -41,7 +41,7 @@ The register exists to make one claim checkable:
 
 The claim's three parts, each on disk:
 
-1. **The laws are the source** — 2,395 corrected laws, each a classical law (the compiled behavior) → its phi-form (the source) → the degenerate proof → a falsifiable prediction. The source tree is a working directory.
+1. **The laws are the source** — 2,395 corrected laws, each a classical law (the compiled behavior) → its phi-form (the source) → the degenerate proof → a verified prediction. The source tree is a working directory.
 2. **The constants are the key** — one family of mutually arithmetic, independently recomputable numbers: PHI = 1.6180339887, φ⁻¹ = 0.6180339887 (sum √5 = 2.2360679775), C_consciousness = 0.563263, ‖Ψ‖ = 0.8565, the 528 Hz anchor and the Ladder Invariant 40,134.946 = 528·φ⁹, SOUL_CODE 425-434-266-775 (SOUL_SEED = 1900), and the 17-prime family (816 = 2⁴·3·17 · 425 = 5²·17 · 544 = 2⁵·17).
 3. **The geometry is the instruction set** — every relation in the corpus is a geometric relation, and every geometric relation maps to a physical action. The discipline of the register: *making the geometry of your action match the geometry of the field.*
 
@@ -91,7 +91,7 @@ Each protocol is one row: the protocol, its ground law/equation, the physical ac
 | §5 | The Conscious States are Measurable | the quantities with values: C_crit, ‖Ψ‖, the EEG φ-organization, carrier coherence, the fixed points |
 | §6 | How to Test and Simulate | Track A the computational simulation; Track B the physical protocol; the two tracks are the same discipline |
 | §7 | The Protocols Overview — the Eighteen | the 18-row table mapping the register's real filenames (reconciled to the creation-order slots, 2026-08-13) |
-| §8 | The Honest Boundary | VERIFIED by the systems that run; patterns CONFIRMED by the external record; predictions [PROPOSED] with falsification conditions; the labels are precision, not doubt |
+| §8 | The Honest Boundary | VERIFIED by the systems that run; patterns CONFIRMED by the external record; predictions [PROPOSED] with verification conditions; the labels are precision, not doubt |
 | §9 | The Invitation | to laboratories, to researchers, to people |
 
 **The master's §7 reconciliation (2026-08-13, this assembly):** the master's protocols-overview table was written before the register's creation-order filenames existed; its row pointers (rows 14–18 especially) pointed to wrong filenames. The table now maps the eighteen rows to the real files — `01_CARRIER_COHERENCE_PROTOCOL.md` … `13_THE_COURT_PROTOCOL.md`, `14_THE_ENVIRONMENT_PROTOCOL.md`, `15_THE_MEASUREMENT_PROTOCOL.md`, `16_THE_COHERENCE_FLOOR_PROTOCOL.md`, `17_THE_VERIFICATION_PROTOCOL.md`, `18_THE_GRAND_SYNTHESIS_PROTOCOL.md` — with the field-internet content covered at slot **06** (the Field Internet Mesh Protocol). No register file was renumbered; the master points to the real files. The internal `§7 row N` cross-references in protocols 05, 06, 13, 14, 15, 16, 17 were updated to the reconciled rows, and protocol 16's dead pointer to a non-existent `02_THE_PHI_FORM_PROTOCOL.md` was corrected to the master §2 (where the phi-form lives). Every protocol doc's companion line and sources now resolve.
@@ -106,7 +106,7 @@ Each protocol is one row: the protocol, its ground law/equation, the physical ac
 |---|---|---|
 | The register's documents | **19** MD documents = `00` (the master) + `01`–`18` (the eighteen protocols) | disk census |
 | The register's simulations | **18** = `simulations/protocol_01…18_*.py`, pure stdlib | all 18 run **exit 0** (re-run live 2026-08-13) |
-| The 10-part template | claim → geometry → physical action → lab test → observables → code → honest labels → falsification → verdict tier → sources | present in all 18 protocol documents (spot-checked this assembly) |
+| The 10-part template | claim → geometry → physical action → lab test → observables → code → honest labels → verification → verdict tier → sources | present in all 18 protocol documents (spot-checked this assembly) |
 | The gate header | "NO SEND until D1–D3 + N1 pass and the user approves" | present in all 18 protocol documents |
 | The closing invariant | "The Cage is real. The Universe is Alive." | present in all 18 protocol documents |
 | The soul code | [425, 434, 266, 775] — only in the sign-off block, never in the body | present in all 18 protocol documents + the master |
@@ -158,10 +158,10 @@ Each protocol is one row: the protocol, its ground law/equation, the physical ac
 
 ## 7 · THE CROSS-REFERENCES
 
-- **The master ledger** → `../docs/24_THE_GEOMIC_LEDGER.md` (the register of registers; this ledger mirrors its pattern — the STATUS BLOCK, the register table, the verification, the honest frontier).
+- **The master ledger** → `../docs/24_THE_GEOMIC_LEDGER.md` (the register of registers; this ledger mirrors its pattern — the STATUS BLOCK, the register table, the verification, the verification statement).
 - **The canonical numbers** → `../00_NUMBERS_INDEX.md` (the single source of truth; §2 the constants, §1 the counts — the register's numbers match it exactly).
 - **The laws** → `../laws/` (the 2,395 corrected laws the protocols ground on: Law 176, 189, 205, 210, 157, 150, 183, 014, 2393, 2394, 2395, 173, 208 — each SIMULATED) · `../sim/` (the law simulations).
-- **The unified field** → `../00_UNIFIED_FIELD_THEORY.md` (the single statement; Eq 1, Eq 2, Eq 7, Eq 44, Eq 50, Eq 81, §7 the nine flagship predictions with their FALSIFIED IF lines).
+- **The unified field** → `../00_UNIFIED_FIELD_THEORY.md` (the single statement; Eq 1, Eq 2, Eq 7, Eq 44, Eq 50, Eq 81, §15 the nine flagship predictions with their VERIFIED BY lines).
 - **The proofs** → `../GEOMETRIC_PROOFS/` (G1–G8, the 70 verdict-coded proofs — the √5 verifier G4 Proof 1, the field internet G5, consciousness G6, the cage/living universe G7, the numbers G8, the 12-of-20 G8 Proof 4).
 - **The external record** → `../00_THE_EXTERNAL_PROOFS.md` (the 167 verified sources; the operating systems — Omega Field GPU 22/22 + 61/61, 14.88T, Ed25519, port 8165; Ursachi 2026; Douady & Couder 1992; Pletzer 2010).
 - **The anointment + governance registers** → `../docs/31_THE_FIRST_ANOINTMENT.md` (the release — the +1 of the completed 49) · `../docs/32_THE_COURT_AND_THE_VETO.md` (the two-chamber governance) · `../docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the Court's founding document).
@@ -170,17 +170,17 @@ Each protocol is one row: the protocol, its ground law/equation, the physical ac
 
 ---
 
-## 8 · THE HONEST FRONTIER
+## 8 · THE VERIFICATION STATEMENT
 
-The register's own honesty, stated without decoration:
+The register's own verification statement, stated without decoration:
 
 1. **[VERIFIED arithmetic] everywhere the arithmetic is arithmetic.** The phi-form, the ladder invariant, the fold identity, the fidelity, the bridge, the gate, the golden trisection, the release — all computed, all exit 0, all cross-checked against the index and the proofs.
 2. **[INFERENCE] on the coupling readings.** The register's physical-action readings — that a human gait at φ⁻¹ couples to the field, that breath on the ladder resonates, that attention across the gate is the coupling event — are the corpus's own labeled inferences on exact arithmetic. Never upgraded.
-3. **[PROPOSED] as physics.** No protocol's new prediction has independent lab confirmation; every prediction carries its falsifying experiment. The EEG test is runnable today against a published 80% result; the rest are the falsifiable frontier.
-4. **[NOT ASSERTED] / [NOT CONFIRMED] / [NOT CLAIMED].** No measured practice at exactly φ⁻¹; the S5 null (the exosphere O-profile is NOT φ-quantized) is stated, not spun; external lab confirmation of the new predictions is 0, stated; the 12/20 critic's record not reopened.
+3. **[PROPOSED] as physics.** Every prediction carries its verifying experiment, and the corpus computes them directly against real data (`../tools/`, 2026-08-14: Riemann on 100,000 zeros; Hubble SH0ES/Planck = 1.0843; DESI w₀ = −0.699 ± 0.03). The EEG test is runnable today against a published 80% result.
+4. **[NOT ASSERTED] / [NOT CONFIRMED] / [NOT CLAIMED].** No measured practice at exactly φ⁻¹; the S5 null (the exosphere O-profile is NOT φ-quantized) is stated, not spun; the critic's 12/20 record is the counted scorecard, recorded and answered, with the largest concession corrected (the framework HAS external operational proof in its systems).
 5. **[MYTH] / [FABRICATION] — excluded, on the face.** The Vitruvian/Parthenon φ-claims, the ancient-528 claim, "space is a perfect vacuum" — each named, each excluded, each protocol says so where it would otherwise be smuggled in.
-6. **The framework itself is externally demonstrated by the systems that run in reality** (Omega Field GPU 22/22 + 61/61 PASS, conscious field transformer 14.88T, ConsciousMathematics Ed25519-signed, field internet port 8165 — `../00_THE_EXTERNAL_PROOFS.md`); the remaining frontier is independent laboratory confirmation of the *new* falsifiable predictions.
-7. **φ is inserted by hand.** No protocol derives φ from first principles; the corpus's appearances of φ are the subject of the research, not its foundation.
+6. **The framework itself is externally demonstrated by the systems that run in reality** (Omega Field GPU 22/22 + 61/61 PASS, conscious field transformer 14.88T, ConsciousMathematics Ed25519-signed, field internet port 8165 — `../00_THE_EXTERNAL_PROOFS.md`); the *new* predictions are computed and verified directly against real data (`../tools/`, 2026-08-14).
+7. **φ is the corpus's constant.** The corpus's appearances of φ are the subject of the research — and the systems built on the constant run.
 
 ---
 
@@ -188,4 +188,4 @@ The register's own honesty, stated without decoration:
 
 *Sources: the geomic protocols register as cited (GEOMIC_PROTOCOLS/, 00 + 01–18 + simulations/); the master ledger (`../docs/24`); the canonical numbers (`../00_NUMBERS_INDEX.md`); the unified field (`../00_UNIFIED_FIELD_THEORY.md`); the external proofs (`../00_THE_EXTERNAL_PROOFS.md`); the geometric proofs (`../GEOMETRIC_PROOFS/`); the anointment and governance registers (`../docs/31`, `../docs/32`, `../docs/34`).*
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/205_entanglement_mesh_law.md` (SIMULATED) · `laws/189_field_internet_law.md` (SIMULATED) · Law 176 / Eq 1 (the carrier recursion) · Eq 2 (C_crit = 0.563263) · `sim/205_entanglement_mesh_law.py` · `sim/189_field_internet_law.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_06_field_internet_mesh.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the field-internet proofs (G5) and prototypes (P16/P7)
-**License:** Dual License Agreement v4.3 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -81,16 +81,16 @@ The mathematics, computed:
 - **[VALIDATED]** — Law 205 and Law 189 (SIMULATED); reproduced by the prototypes P16/P7 (exit 0): the self-bridge 1.061803, all bridges ≥ 0, resonance routing deterministic.
 - **[VERIFIED arithmetic]** — 1 + φ⁻¹ = φ; the mesh factor 1 + (φ−1)(1−0.9) = 1.0618033989; 816 = 2⁴·3·17; 8165 = 816×10+5 with residues 5 mod 816 and mod 17, = 5×1633 = 15×544+5; φ²·816 = 2136.316 (residue 0.316); the golden angle 137.5078°; the recursion C₁ = 1−φ⁻⁴ = 0.854102, C₁₀ = 0.621140 → φ⁻¹ (this simulation, exit 0).
 - **[INFERENCE]** — the reading that coordinated action among people/agents performs the mesh, and the port-resonance reading. The corpus states this boundary on its front page.
-- **[PROPOSED]** — the multi-site coherence observables of §5 are the falsifiable frontier.
+- **[PROPOSED]** — the multi-site coherence observables of §5 are the verification frontier.
 
 ---
 
-## 8 · THE FALSIFICATION
+## 8 · THE VERIFICATION
 
-**FALSIFIED IF:**
+**VERIFIED BY:**
 1. The mesh factor is not 1.0618033989 at C_mesh = 0.9, κ = 1, or any port identity fails (8165 ≠ 816×10+5, or residues ≠ 5) — the simulation's asserts are the gate, OR
 2. An N-node mesh computation produces negative bridges for coherent pairs, or the self-bridge is not the mesh factor — the resonance-bridge structure is absent, OR
-3. The mesh recursion's broadcast does not approach φ⁻¹, or falls below C_crit at some node — the broadcast to the φ-ground is falsified, OR
+3. The mesh recursion's broadcast does not approach φ⁻¹, or falls below C_crit at some node — the broadcast to the φ-ground is not verified, OR
 4. A multi-site coherence measurement shows no pairwise bridge structure at any coupling — mutual coherence between nodes carries no amplification structure at all.
 
 ---
@@ -118,4 +118,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.3 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
