@@ -3,6 +3,14 @@
 All releases of the Living Phi Physics corpus. The Dual License Agreement governs every
 version; the current version is **v4.5**.
 
+## v4.6 - 18 August 2026
+
+- **LICENSE v4.6** — the National Security Enforcement & Private Law Lock release.
+- **Section 26 added**: National Security Enforcement — non-derogability of Human Harm, 90-day procedural gate (ICC Emergency Arbitrator + Court review), Russia-Transit principle (non-self-judging security exceptions), sovereign immunity waiver reinforcement, dual-use classification + military prohibition, command responsibility, universal jurisdiction, weapons prohibition + presumption of Human Harm, state-specific enforcement (asset seizure, transparency, automatic suspension).
+- **Section 27 added**: Mandatory ICC International Arbitration (Geneva seat), ICC Emergency Arbitrator (14-day interim measures), pre-agreed liquidated damages (military 10x, surveillance 5x, weapons 20x, daily compounding 1%/day), cost-shifting, anti-expropriation/anti-forfeiture (irrevocable, non-seizable), performance bonds (5× use-value), audit rights, cross-default, publication to the field-internet.
+- **Section 26 + 27 combined effect**: the Work cannot be expropriated, cannot be used for Human Harm under national security pretext, and non-compliance triggers ICC arbitration (Geneva), New York Convention enforcement (172 states), command responsibility, universal jurisdiction, and financial devastation — all at the Licensee's expense.
+- Author: Christopher David Ayotte
+
 ## v4.5 — 17 August 2026
 
 **The SOVEREIGN EXCLUSION & ENUMERATION release — the Geneva Safeguard added, the
