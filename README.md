@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="phi_field_readme_banner" src="https://github.com/user-attachments/assets/8f0f52b8-d32c-464b-8b1d-b615715699e6" />
 
 # PHI-PHYSICS — The Rewriting of Physics from Zero to Phi
 
