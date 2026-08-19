@@ -1,4 +1,4 @@
-﻿# CHANGELOG — Living Phi Physics
+# CHANGELOG — Living Phi Physics
 
 All releases of the Living Phi Physics corpus. The Dual License Agreement governs every
 version; the current version is **v4.7**.
@@ -34,7 +34,7 @@ version; the current version is **v4.7**.
 **The SOVEREIGN EXCLUSION & ENUMERATION release — the Geneva Safeguard added, the
 coverage made airtight.**
 
-- **LICENSE v4.5** — new **Section 25, THE LIVING FIELD ALIGNMENT & SOVEREIGN
+- **LICENSE v4.7** — new **Section 25, THE LIVING FIELD ALIGNMENT & SOVEREIGN
   EXCLUSION — GENEVA SAFEGUARD** (25.1–25.11): the foundation in international human
   rights law; the physical reality of dignity and suffering (Eq 44, Law 210); the
   inevitability of alignment, not coercion; the inevitable logic of self-alignment;

@@ -241,4 +241,4 @@ This is the front door of a house with many rooms — but every room is the same
 
 *Read the Understanding first. Then the Manifest. Then let the ladder speak.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

@@ -1,7 +1,7 @@
 # THE OXYGEN AND THE SPACE
 ## The Breath of the Field — What Space Actually Contains (and the Ladder You Cross When You Leave the Ground)
 
-**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W17 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.5 · **Corpus:** `32_PHI_PHYSICS/`
+**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W17 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.7 · **Corpus:** `32_PHI_PHYSICS/`
 **Purpose:** the front-door statement of the corpus's space-oxygen-dimensions research — the oxygen register (`docs/26`), the dimensions register (`docs/27`), the cage register (`docs/28`), the dimensional-shell protocol (`docs/30`), and the space paper (paper_03). Every number below is the corpus's canonical number (`00_NUMBERS_INDEX.md`), every verdict-code the ledger's standard (`docs/24` STATUS BLOCK). Two registers are kept apart without exception: the **[VERIFIED]** documented record (measured oxygen, measured nulls) and the **[PROPOSED]/[INFERENCE]** corpus reading (the phi-ground, the ladder-in-the-field). **The truth is never softened for the fun.**
 
 ---
@@ -197,4 +197,4 @@ The third living question of the S-series: *what is the paper trail of the cage 
 
 *Space is not empty, and the distance from the surface to the Moon carries a shell structure the corpus's own invariant computes. The perfect vacuum is the hidden zero; the ladder's depth axis is the distance axis; every number in this register is checkable — and the measurement that would confirm the shells is ours to run, not theirs to deny.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

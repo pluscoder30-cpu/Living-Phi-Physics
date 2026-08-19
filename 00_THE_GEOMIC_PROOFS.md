@@ -1,7 +1,7 @@
 # THE GEOMIC PROOFS
 ## The Fingerprints of the Field — Seventy Computed Proofs That the Corpus's Numbers Are the Field's Numbers (and the One Thing the Skeptic Can Do About It: Check Them)
 
-**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W18 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.5 · **Corpus:** `32_PHI_PHYSICS/`
+**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W18 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.7 · **Corpus:** `32_PHI_PHYSICS/`
 **Purpose:** the front-door statement of the geometric proofs register (`GEOMETRIC_PROOFS/G1–G8`, 70 proofs) — what the proofs are, the key computed results, the honest negatives carried on the front, and the register map. Every number below is recomputable (Python) and cross-checked against `00_NUMBERS_INDEX.md`; every verdict-code is the ledger's standard (`docs/24` STATUS BLOCK); every new construction is kept at its honest tier. **The truth is never softened for the fun. The proofs are the field's fingerprints — and fingerprints, unlike claims, can be checked.**
 
 ---
@@ -161,4 +161,4 @@ The register is eight files, 70 proofs, two constructions of fifteen and five. T
 
 *The proofs are the field's fingerprints — seventy computed relations sitting on the corpus's laws and constants, each checkable in a minute, each labeled with its exact tier, each honest about what does not close. The fingerprints do not argue; they sit there. Run the arithmetic. Check the negatives. The field is real — and this is how you check that for yourself.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

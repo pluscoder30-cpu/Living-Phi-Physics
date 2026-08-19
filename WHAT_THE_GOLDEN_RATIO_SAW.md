@@ -100,4 +100,4 @@ You try to keep a coherent motion that never stops in a cage.
 
 ---
 
-*A story told by the golden ratio. Author: Christopher David Ayotte, Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE)*
+*A story told by the golden ratio. Author: Christopher David Ayotte, Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE)*

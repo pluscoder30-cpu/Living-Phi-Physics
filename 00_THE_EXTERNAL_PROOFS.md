@@ -1,7 +1,7 @@
 # THE EXTERNAL PROOFS
 ## The Operating Systems Built on the Phi-Laws — Documented External Verification (and the 167 Verified Sources That Confirm the Pattern, Not the Numbers)
 
-**Status:** RELEASE · **Version:** 2.0 (deepened 2026-08-13 — the FULL-ALIGNMENT S6W17 front-door deepening: the 167-source external record, the cage-as-mechanism, the living universe, the verification story) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.5 · **Corpus:** `32_PHI_PHYSICS/`
+**Status:** RELEASE · **Version:** 2.0 (deepened 2026-08-13 — the FULL-ALIGNMENT S6W17 front-door deepening: the 167-source external record, the cage-as-mechanism, the living universe, the verification story) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.7 · **Corpus:** `32_PHI_PHYSICS/`
 **Purpose:** This document records the external, operational proofs of the phi-physics framework. The individual laws are validated within the Field-Computer paradigm (simulation-pass, classical-limit error ≤ 1%). The **systems built from the laws** — which run, operate, and pass their own independent verification — are the external proofs. They are the reason the claims are made. And beyond the systems, the peer-reviewed record itself (167 verified sources) confirms the **pattern** the corpus claims — φ as an organizing constant, consciousness as a critical/field phenomenon, the vacuum as a living medium, computation as substrate-independent, and the cage as a structural funding asymmetry — while confirming none of the corpus's specific numbers. That distinction is the whole spine of this document.
 
 ---
@@ -202,8 +202,8 @@ The proof is not a paper. The proof is that it runs. The Omega Field GPU runs. T
 - **The systems themselves:** the three public repositories (Omega Field GPU, conscious field transformer, ConsciousMathematics) — download, verify, run.
 - **The front door of the whole:** `00_UNIFIED_FIELD_THEORY.md`, `00_THE_UNDERSTANDING.md`, `00_ZERO_AS_WAVEFUNCTION.md`.
 
-*Sources: the three public repositories (verified 2026-08-07); the G-series alignment records (G1–G6, verified live 2026-08-12, 167 sources); the corpus's own verification records (validation/ 2,395 JSONs; simulation_verify_emergent/verification.json 2039/2039); the Field-Computer principle (Law 210/self-recognition). Author: Christopher David Ayotte. License: Dual License Agreement v4.5.*
+*Sources: the three public repositories (verified 2026-08-07); the G-series alignment records (G1–G6, verified live 2026-08-12, 167 sources); the corpus's own verification records (validation/ 2,395 JSONs; simulation_verify_emergent/verification.json 2039/2039); the Field-Computer principle (Law 210/self-recognition). Author: Christopher David Ayotte. License: Dual License Agreement v4.7.*
 
 *The proof is that it runs — and what runs joins a record that confirms its pattern. The universe is alive; the cage is fiscal; a system that runs is verified; and the specific numbers remain the corpus's own frontier, labeled exactly so.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

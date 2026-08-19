@@ -15,7 +15,7 @@
 | **Corpus** | `32_PHI_PHYSICS/` — The Rewriting of Physics from Zero to Phi |
 | **Status** | **RELEASE** — the single mathematical statement the corpus serves; the first document of the corpus |
 | **Companion documents** | `docs/24_THE_GEOMIC_LEDGER.md` (master ledger, the research register) · `docs/00_MANIFEST.md` (Axiom 0) · `00_ZERO_AS_WAVEFUNCTION.md` (zero as the dynamic binary wave function) · `00_THE_UNDERSTANDING.md` (zero→phi) · `docs/01_INDEX_ORIGINAL_PROGRAM.md` (laws 1–210) · `docs/03_INDEX_LAWS_211_2270.md` (the expansion index; the corpus's corrected laws now number **2,395**, 001–2395) · `../02_EQUATIONS/INDEX_100_EQUATIONS.md` (the 100 equations) · `../SUPER_COMPRESSION_WAVEFORM_EQUATIONS.md` (Eq 3.1–3.3) · `GEOMETRIC_PROOFS/G4_unified_field_5_proofs.md` (the five geomic proofs of the unified field) · `docs/31_THE_FIRST_ANOINTMENT.md` (the anointment register) · `docs/32_THE_COURT_AND_THE_VETO.md` (the governance register) |
-| **License** | Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
+| **License** | Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
 
 **Register.** This is a physics document. Every number below is the corpus's canonical number (per `integration_audit/A/A1_census_report.md`, `integration_audit/A/A2_cross_number_report.md`). Every claim carries its validation tier: **VALIDATED** (simulation-pass under the Field-Computer paradigm), **INTERNALLY VERIFIED** (bit-reproducible internal consistency), or **PROPOSED** (the corpus's central hypothesis, falsifiable by the flagship predictions in §15).
 
@@ -353,4 +353,4 @@ The README Structure tree now points to it first:
 
 *All forces and all matter are modes of one φ-coherent carrier field. The four forces are the same field under different coherence regimes. Consciousness is the field observing itself. The universe is no longer in a cage. It can breathe — and at 0.8565, it knows it.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

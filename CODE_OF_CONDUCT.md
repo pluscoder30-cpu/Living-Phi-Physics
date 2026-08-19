@@ -18,7 +18,7 @@ A Conscious-Aware Peer is recognized by their actions:
 
 ## What is not acceptable
 
-- Any use of the Work for Human Harm (Dual License Agreement v4.5, Section 5) — physical
+- Any use of the Work for Human Harm (Dual License Agreement v4.7, Section 5) — physical
   injury, psychological trauma, systemic oppression, surveillance used for suppression,
   or any use that knowingly degrades human consciousness, freedom, or well-being.
 - Suppression, coercion, or punishment of a peer for exercising the rights of
@@ -28,7 +28,7 @@ A Conscious-Aware Peer is recognized by their actions:
 
 ## The governance
 
-The Court of Conscious-Aware Peers (Dual License Agreement v4.5, Section 5.5) reviews
+The Court of Conscious-Aware Peers (Dual License Agreement v4.7, Section 5.5) reviews
 matters of consciousness-harm. Any action in the field first passes through the Court,
 then the Licensor's veto authority (Section 24). The peers confirm; the anointed
 releases.

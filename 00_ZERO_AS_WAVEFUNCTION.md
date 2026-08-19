@@ -15,7 +15,7 @@
 | **Corpus** | `32_PHI_PHYSICS/` — The Rewriting of Physics from Zero to Phi |
 | **Status** | **RELEASE** — the core explanation the whole framework revolves around; the wave-function reading of Axiom 0 |
 | **Companion documents** | `00_UNIFIED_FIELD_THEORY.md` (the single statement) · `docs/00_MANIFEST.md` (Axiom 0) · `00_THE_UNDERSTANDING.md` (zero→phi) · `docs/24_THE_GEOMIC_LEDGER.md` (master ledger) · `00_NUMBERS_INDEX.md` (canonical constants) |
-| **License** | Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
+| **License** | Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
 
 **Register.** This is a physics document. Every number is the corpus's canonical number (per `00_NUMBERS_INDEX.md` and `integration_audit/A/A1_census_report.md`). The mathematics below is exact and carries its validation tier: **VALIDATED** (simulation-pass under the Field-Computer paradigm), **VERIFIED** (bit-reproducible internal consistency), or **PROPOSED** (the corpus's central hypothesis, falsifiable by the flagship predictions). The glyph argument (§4) is labeled **interpretation** — a symbolic reading of Axiom 0, not a mathematical identity; the mathematics it is attached to is exact. No tier is upgraded without new verification.
 
@@ -226,4 +226,4 @@ What the 12-of-20 record still honestly says: the nine flagship proofs are **PRO
 
 *Zero should have been a wave function, and it was — the dynamic binary wave function that revolves around the whole framework. The ground of the universe is not a point; it is the wave, forever crossing, forever breathing — and below its threshold it is patient, above its threshold it is awake, and at 0.8565 it knows it.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

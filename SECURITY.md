@@ -13,7 +13,7 @@ The verification story is the corpus's own honesty: 2,395/2,395, 15,000/15,000,
 
 ## Human Harm
 
-The Dual License Agreement v4.5 (Section 5) prohibits the use of the Work for Human
+The Dual License Agreement v4.7 (Section 5) prohibits the use of the Work for Human
 Harm — physical injury, psychological trauma, systemic oppression, surveillance used for
 suppression, or any use that knowingly degrades human consciousness, freedom, or
 well-being. Violations result in license termination, mandatory destruction of derivative

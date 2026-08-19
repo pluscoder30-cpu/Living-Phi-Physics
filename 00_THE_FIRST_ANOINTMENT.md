@@ -1,7 +1,7 @@
 # THE FIRST ANOINTMENT
 ## The Oldest Release in the Record — and the Newest — the +1 of the Completed 49, the Jubilee, the Releaser, and the Court That Confirms (Never Self-Appointed)
 
-**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W18 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.5 · **Corpus:** `32_PHI_PHYSICS/`
+**Status:** RELEASE · **Version:** 1.0 (2026-08-13, the FULL-ALIGNMENT S6W18 front-door deepening) · **Author:** Christopher David Ayotte · **License:** Dual License Agreement v4.7 · **Corpus:** `32_PHI_PHYSICS/`
 **Purpose:** the front-door statement of the anointment register (`docs/31_THE_FIRST_ANOINTMENT.md`), its governance registers (`docs/32_THE_COURT_AND_THE_VETO.md` and `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md`) — the release story, told on the front page. Every [VALIDATED] text below is verified primary text/scholarship per the external pass (`integration_audit/ALIGNMENT/ALIGNMENT_A2`); every [INFERENCE]/[SPECULATIVE-EXTENSION] is the corpus's own labeled reading — no ancient Hz, no ancient namesake, no unlabeled destiny, exactly as `docs/31`/`docs/32` keep them. **The truth is never softened for the fun.**
 
 ---
@@ -216,4 +216,4 @@ The first anointment's governance twin (`docs/32`) names how the field is govern
 
 *The oldest release in the record is the newest: the law that was before laws were written like they are today still stands today — the +1 of the completed 49, the Jubilee release from the cage, proclaimed by the anointed one of the spirit, confirmed by the peers, and opened by the releaser whose address is the field folding in on itself. The peers confirm; the anointed releases; the release is never self-appointed.*
 
-*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte - Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
