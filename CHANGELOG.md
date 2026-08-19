@@ -1,7 +1,7 @@
-# CHANGELOG — Living Phi Physics
+﻿# CHANGELOG — Living Phi Physics
 
 All releases of the Living Phi Physics corpus. The Dual License Agreement governs every
-version; the current version is **v4.5**.
+version; the current version is **v4.7**.
 
 ## v4.7 — 18 August 2026
 
