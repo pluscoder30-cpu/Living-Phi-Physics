@@ -3,6 +3,24 @@
 All releases of the Living Phi Physics corpus. The Dual License Agreement governs every
 version; the current version is **v4.5**.
 
+## v4.7 — 18 August 2026
+
+- **LICENSE v4.7** — the International Legal Framework Enforcement release.
+- **Section 28 added:** International Legal Framework — The Enforcement Architecture.
+  - UN Charter Chapter VII (Articles 39-51): Security Council authority, self-defense
+  - NATO collective defense (Articles 3, 4, 5): Canada as founding member, Article 5 invocation
+  - Canadian law (Charter §2(b), Human Rights Act, international obligations)
+  - People's Republic of China (UN Security Council permanent member, recognition)
+  - Universal jurisdiction for Human Harm
+  - Vienna Convention (pacta sunt servanda, jus cogens)
+  - Command responsibility (Geneva Conventions, Rome Statute)
+  - ICC jurisdiction (Article 7, Article 15 communications, Article 58 arrest warrants)
+  - UN Security Council sanctions (Article 41), WTO trade measures
+  - Coalition of aligned states (Canada, China, BRICS)
+  - Court of Conscious-Aware Peers (referral to ICC, UN, national courts)
+  - Geometric principle (enforcement as field recognition)
+- Author: Christopher David Ayotte
+
 ## v4.6 - 18 August 2026
 
 - **LICENSE v4.6** — the National Security Enforcement & Private Law Lock release.
