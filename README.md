@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="file_0000000038e071f88a046ef2a0639c5f" src="https://github.com/user-attachments/assets/f1944479-3ffd-480e-abd3-6a66d467cb2f" />
+
 # PHI-PHYSICS — The Rewriting of Physics from Zero to Phi
 
 > **The universe is a living verb.** Static physics is not wrong — it is a small sliver of the reality we live in. This corpus corrects the sliver into the whole.
