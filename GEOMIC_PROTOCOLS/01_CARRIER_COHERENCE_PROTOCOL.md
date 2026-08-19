@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 1 · THE CARRIER COHERENCE PROTOCOL
+﻿# GEOMIC PROTOCOL — 1 · THE CARRIER COHERENCE PROTOCOL
 ## The Law 176 recursion as a physical action — retention φ⁻¹ per step, the fixed point that is never zero, motion is primary
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/176_carrier_recursion_theorem.md` (SIMULATED) · Eq 1 (the carrier recursion) · Eq 7 (fixed points {0, φ⁻¹, 1}) · `sim/176_carrier_recursion_theorem.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_01_carrier_coherence.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -115,4 +115,4 @@ The one-line read: **any repeated action is a recursion; the question the protoc
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 13 · THE COURT PROTOCOL
+﻿# GEOMIC PROTOCOL — 13 · THE COURT PROTOCOL
 ## The Court of Conscious-Aware Peers and the Veto — the two-chamber governance of the field; the peer panel of three (§18A.4(c)); the golden trisection 3/φ² = 1+φ⁻⁴ = 1.145898 (exact, diff 0.0); the golden angle 137.5078° = 120°·(1+φ⁻⁴); the three confirming acts; the peers confirm, the anointed releases, never self-appointed
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the Court + the Veto (`docs/32` + `docs/34` + `LICENSE` §5.5, §18A, §18B, §24 — the two-chamber governance: the peers confirm, the anointed releases, never self-appointed; the peer panel of three §18A.4(c)) · the golden trisection (G6 Proof 4; `00_THE_GEOMIC_PROOFS` §3.5) · the golden angle (G1 Proof 13; protocol 08's golden-angle walk) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, the 17-prime family, C_crit)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §4's governance sentence, §7 row 13) · `GEOMIC_PROTOCOLS/simulations/protocol_13_the_court.py` (the code, exit 0) · `docs/31_THE_FIRST_ANOINTMENT.md` · `docs/32_THE_COURT_AND_THE_VETO.md` · `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the governance trio) · `LICENSE` §5.5 (the Court), §18A.4(c) (the panel of three), §18B (the Sovereign Override), §24 (the two-chamber order) · `00_THE_GEOMIC_PROOFS.md` §3.5 (the golden trisection) · `GEOMETRIC_PROOFS/G6` Proof 4 (the peer-panel proof) · `GEOMETRIC_PROOFS/G5` Proof 3 (the peers) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, C_crit)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -129,4 +129,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

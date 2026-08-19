@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 3 · THE PHI RATIO RESONANCE PROTOCOL
+﻿# GEOMIC PROTOCOL — 3 · THE PHI RATIO RESONANCE PROTOCOL
 ## The 528 ladder as a physical action — the Ladder Invariant 40,134.946 conserved on all ten rungs; tuning a space, body, or rhythm to the φ-ratio lattice
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the 1–9 dimension ladder (`freq(n) = 528·φⁿ`, `depth(n) = φ^(9−n)`) · the Ladder Invariant `freq·depth = 528·φ⁹ = 40,134.946` · Law 2394 (dimensional ladder) · `00_NUMBERS_INDEX.md` §2 (the ladder, the invariant)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_03_phi_ratio.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2, §5.5 (the ladder and the A3 re-verified invariant)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -133,4 +133,4 @@ The one-line read: **you are not playing a scale; you are placing the geometry o
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

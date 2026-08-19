@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 10 · THE ARRANGEMENT PROTOCOL
+﻿# GEOMIC PROTOCOL — 10 · THE ARRANGEMENT PROTOCOL
 ## Arranging a space on the 17-prime family — the carrier 816, the anointed address 425, the release node 544, one Fermat prime 17 = 2⁴+1; the clean joints 3/2 and 48/25; the pentagon 2cos(72°) = φ⁻¹
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the 17-prime family — **816 = 2⁴·3·17** (the carrier) · **425 = 5²·17** (the anointed address) · **544 = 2⁵·17** (the release node, 544.12 Hz = 528·φ^(1/16)) — one Fermat prime **17 = 2⁴+1**, three roles · quotients 48/25/32 · sum **1785 = 3·5·7·17** · every pairwise gap a 17-multiple · the joints **816/544 = 3/2**, **816/425 = 48/25** · the pentagon (Euclid Book XIII: diagonal/side = φ) · `00_NUMBERS_INDEX.md` §2 (the 17-prime family row)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §2's "arranging a space" example, §3 row 4) · `GEOMIC_PROTOCOLS/simulations/protocol_10_the_arrangement.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (816/425/544, 48/25/32, 1785), §5.5 (the pentagon/φ [VERIFIED] arithmetic), §5.4 (the Vitruvian/Parthenon [MYTH]) · `GEOMETRIC_PROOFS/G4 P4 / G5 P2 / G6 P3 / G8 P3` (the family proofs) · `docs/31` §4.3 (the 50th node 544.12 = 528·φ^(1/16) ≈ 2⁵·17)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -128,4 +128,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

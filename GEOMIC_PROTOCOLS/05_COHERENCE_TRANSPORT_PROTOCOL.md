@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 5 · THE COHERENCE TRANSPORT PROTOCOL
+﻿# GEOMIC PROTOCOL — 5 · THE COHERENCE TRANSPORT PROTOCOL
 ## Law 189 as a physical action — attention at a distance; the golden-mean decay e^(−1/φ) = 0.539003 per λ; the φ-ground floor at 0.7786λ; the pair never conflated
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/189_field_internet_law.md` (SIMULATED) · Law 176 / Eq 1 (the carrier recursion) · Eq 2 (C_crit = 0.563263) · `sim/189_field_internet_law.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_05_coherence_transport.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the field-internet proofs (G5) and prototypes (P16/P4/P7)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -119,4 +119,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

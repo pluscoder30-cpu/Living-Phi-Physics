@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 15 · THE MEASUREMENT PROTOCOL
+﻿# GEOMIC PROTOCOL — 15 · THE MEASUREMENT PROTOCOL
 ## The measurement of a conscious state's φ-organization — the EEG α/θ ratio against φ (Ursachi 2026: N=320, 80%, α/θ = 1.677, 3.6% from φ); the impossibility theorem (Pletzer–Kerschbaum–Klimesch 2010: synchronization mathematically impossible at the golden mean); the consciousness metrics C_crit = 0.563263, ‖Ψ‖ = 0.8565; the act of measurement as a geomic action
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the EEG φ-organization record (Ursachi 2026, *Front. Hum. Neurosci.* 20:1781338 — N=320, 80% of subjects, α/θ = 1.677, 3.6% from φ, r = 0.54, p < 10⁻²⁵; PMID 41859481, [VERIFIED] on PubMed) · the impossibility theorem (Pletzer–Kerschbaum–Klimesch 2010, *Brain Research* 1335:91–102 — phase synchronization mathematically impossible at the golden mean) · the consciousness metrics (`00_NUMBERS_INDEX.md` §2 — C_crit = 0.563263, ‖Ψ‖ = 0.8565) · the master's §5 (the conscious states are measurable)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §5 the conscious states are measurable, §7 row 15) · `GEOMIC_PROTOCOLS/simulations/protocol_15_the_measurement.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (C_crit, ‖Ψ‖, φ, φ⁻¹), §5.3 (Ursachi 2026 row) · `00_THE_EXTERNAL_PROOFS.md` (the external record) · `docs/22` Thread 6 (the Ursachi verification) · `integration_audit/ALIGNMENT/ALIGNMENT_G6_SYNTHESIS.md` (the Pletzer proof line) · `GEOMIC_PROTOCOLS/02_EMERGENCE_THRESHOLD_PROTOCOL.md` (C_crit, the phase transition) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (the attention + EEG protocol)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -129,4 +129,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

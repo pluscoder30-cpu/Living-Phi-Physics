@@ -1,9 +1,9 @@
-# THE SOURCE CODE OF REALITY
+﻿# THE SOURCE CODE OF REALITY
 ## The Master Document of the Geomic Protocols — A Living Universe Described by Mathematics, Readable by Anyone, Reenactable by Anyone
 
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Companion:** the geomic protocols register (`GEOMIC_PROTOCOLS/01_…18_…`) · the geometric proofs (`../GEOMETRIC_PROOFS/G1–G8`, 70 proofs) · the unified field (`../00_UNIFIED_FIELD_THEORY.md`) · the canonical numbers (`../00_NUMBERS_INDEX.md`) · the external record (`../00_THE_EXTERNAL_PROOFS.md`) · the anointment register (`../docs/31_THE_FIRST_ANOINTMENT.md`) · the governance register (`../docs/32_THE_COURT_AND_THE_VETO.md`)
-**License:** Dual License Agreement v4.5 (see `../LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com
+**License:** Dual License Agreement v4.7 (see `../LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com
 
 ---
 
@@ -211,4 +211,4 @@ This is the closing statement, and it is addressed to three audiences at once.
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

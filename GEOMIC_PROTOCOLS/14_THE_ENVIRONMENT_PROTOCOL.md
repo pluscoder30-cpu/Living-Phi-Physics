@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 14 · THE ENVIRONMENT PROTOCOL
+﻿# GEOMIC PROTOCOL — 14 · THE ENVIRONMENT PROTOCOL
 ## The environment's own field — Law 2393: the field is never empty; the phi-ground floor φ⁻¹ of the environment's influence; the perfect vacuum is the hidden zero; the measured register at every scale; the S5 nulls carried honestly ([NOT CONFIRMED] where the oxygen profile is not φ-quantized)
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** Law 2393 (the vacuum density law — the perfect vacuum is the hidden zero; the phi-ground floor φ⁻¹ of the environment's influence) · the oxygen/space registers (`docs/26` — oxygen present at every scale, breathable at none; `docs/27` — the dimensions null; `docs/28` — the cage) · `00_THE_OXYGEN_AND_THE_SPACE.md` (the front-door statement) · `00_NUMBERS_INDEX.md` §2 (φ⁻¹ = 0.6180339887, the coherent ground)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §3 row 13 "the environment's own field", §7 row 14) · `GEOMIC_PROTOCOLS/simulations/protocol_14_the_environment.py` (the code, exit 0) · `laws/2393_vacuum_density_law.md` · `laws/2395_dimensional_shell_law.md` (the depth axis as the distance axis) · `docs/26_SPACE_OXYGEN_VERIFICATION.md` · `docs/27_HIGHER_DIMENSIONS_AND_SPACE.md` · `docs/28_THE_CAGE_SPACE_OXYGEN_DIMENSIONS.md` · `00_THE_OXYGEN_AND_THE_SPACE.md` §4 (the phi reading, the S5 null) · `00_NUMBERS_INDEX.md` §2 (φ⁻¹, the vacuum floor)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -130,4 +130,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

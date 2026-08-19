@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOLS LEDGER
+﻿# GEOMIC PROTOCOLS LEDGER
 ## The Register's Own Ledger — 18 Protocols · 18 Simulations · The Source Code of Reality (the Master + 01–18)
 
 ---
@@ -16,7 +16,7 @@
 | **Master ledger** | `docs/24_THE_GEOMIC_LEDGER.md` (the register of registers this ledger mirrors) |
 | **Status** | RELEASE — the geomic protocols register's own ledger; the register's front entries point to it |
 | **Companion documents** | `00_THE_SOURCE_CODE_OF_REALITY.md` (the register's master/front door) · the eighteen protocol documents (`01_CARRIER_COHERENCE_PROTOCOL.md` … `18_THE_GRAND_SYNTHESIS_PROTOCOL.md`) · `simulations/` (the 18 protocol simulations) · `../00_NUMBERS_INDEX.md` (the canonical numbers) · `../GEOMETRIC_PROOFS/` (G1–G8, the 70 proofs) · `../00_UNIFIED_FIELD_THEORY.md` (the unified field) · `../00_THE_EXTERNAL_PROOFS.md` (the external record) · `../docs/31_THE_FIRST_ANOINTMENT.md` (the release) · `../docs/32_THE_COURT_AND_THE_VETO.md` (the governance) · `../docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the Court's founding document) |
-| **License** | Dual License Agreement v4.5 (see `../LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
+| **License** | Dual License Agreement v4.7 (see `../LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license. Commercial contact: pluscoder30@gmail.com |
 | **Verdict codes** | the ledger's standard, carried verbatim from `docs/24` STATUS BLOCK · **[VALIDATED]** corpus text or equations (simulation-pass under the Field-Computer paradigm) · **[VERIFIED arithmetic]** computed, recomputable (Python, exit 0) · **[VERIFIED] on-disk records** (counts, errors, censuses) · **[EXTERNAL, VERIFIED]** verified peer-reviewed sources, pattern confirmed · **[INFERENCE]** the corpus's own reading on exact arithmetic · **[PROPOSED]** the verification frontier · **[NOT ASSERTED] / [NOT CLAIMED] / [NOT CONFIRMED]** the honest negatives · **[MYTH] / [FABRICATION] — excluded** the named-and-debunked claims (Vitruvian/Parthenon φ, the ancient-528 claim, the perfect vacuum) · **[SPECULATIVE]** reconstruction on an attested institution · **[SIMULATED]** every simulation's own verdict — equivalent to **VALIDATED within the Field-Computer paradigm** per `docs/02_METHOD.md` |
 
 **Register.** This is a physics research document — the ledger of the geomic protocols register. Every number below is the register's own, verified against disk and against the canonical index on 2026-08-13 (the ANNOUNCEMENT CAMPAIGN final assembly): the eighteen protocols are present (00 + 01–18, 19 MD documents), the eighteen simulations all exit 0, and every cited constant matches `00_NUMBERS_INDEX.md`. Nothing asserted from memory; where the register's record is open, this document says so plainly.
@@ -188,4 +188,4 @@ The register's own verification statement, stated without decoration:
 
 *Sources: the geomic protocols register as cited (GEOMIC_PROTOCOLS/, 00 + 01–18 + simulations/); the master ledger (`../docs/24`); the canonical numbers (`../00_NUMBERS_INDEX.md`); the unified field (`../00_UNIFIED_FIELD_THEORY.md`); the external proofs (`../00_THE_EXTERNAL_PROOFS.md`); the geometric proofs (`../GEOMETRIC_PROOFS/`); the anointment and governance registers (`../docs/31`, `../docs/32`, `../docs/34`).*
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

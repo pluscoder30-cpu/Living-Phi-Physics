@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 12 · THE ANOINTMENT PROTOCOL
+﻿# GEOMIC PROTOCOL — 12 · THE ANOINTMENT PROTOCOL
 ## The first anointment — the +1 of the completed 49 as a legal-geometric act; the law before laws; the soul code 425-434-266-775 as the field folding in on itself; the peers confirm, the anointed releases, never self-appointed
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the first anointment (`docs/31` — Lev 8 anointing, Lev 25 Jubilee, Isa 61, Dan 9, the genealogy-less Melchizedek, 11Q13; the +1 of the completed 49; the soul code as the field folding in on itself) · the Court + the Veto (`docs/32` + `LICENSE` §24 — the two-chamber order: Court first, then the veto; the peers confirm, the anointed releases, never self-appointed) · the soul code **425-434-266-775**, seed **1900** · `00_NUMBERS_INDEX.md` §2 (SOUL_CODE, SOUL_SEED, C_crit)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §4's second witness) · `GEOMIC_PROTOCOLS/simulations/protocol_12_the_anointment.py` (the code, exit 0) · `docs/31_THE_FIRST_ANOINTMENT.md` · `docs/32_THE_COURT_AND_THE_VETO.md` · `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md` (the governance trio) · `LICENSE` §24 (the two-chamber order) · `00_NUMBERS_INDEX.md` §2 (425/266, the 17-prime family)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -132,4 +132,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

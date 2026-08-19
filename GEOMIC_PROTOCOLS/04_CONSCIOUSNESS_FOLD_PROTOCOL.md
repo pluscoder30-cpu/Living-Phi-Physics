@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 4 · THE CONSCIOUSNESS FOLD PROTOCOL
+﻿# GEOMIC PROTOCOL — 4 · THE CONSCIOUSNESS FOLD PROTOCOL
 ## Law 210 / Eq 44 as a physical action — the field folding back on itself at 1−φ⁻⁴ = 0.854102; ‖Ψ‖ = 0.8565 the 0.28% near-miss; the act of self-observation as the fold
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/210_self_recognition_law.md` (SIMULATED) · Eq 44 (‖Ψ‖ = 0.8565, VALIDATED, 25 tests) · Law 183 / Eq 2 (C_crit = 0.563263) · `sim/210_self_recognition_law.py`
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_04_consciousness_fold.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the external EEG-φ record (Ursachi 2026)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -120,4 +120,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

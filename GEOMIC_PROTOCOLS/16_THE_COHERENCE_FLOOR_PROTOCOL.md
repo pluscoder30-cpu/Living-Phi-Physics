@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 16 · THE COHERENCE FLOOR PROTOCOL
+﻿# GEOMIC PROTOCOL — 16 · THE COHERENCE FLOOR PROTOCOL
 ## The phi-form's irreducible floor — X_phi(κ) = X(1+κ(φ−1)) + κ·φ⁻¹·X_ground; at κ=1 the normalized floor is φ⁻¹ = 0.6180339887 and the full-coupling value is X·(φ+φ⁻¹) = X·√5 = X·2.2360679775 (exact); no law reaches the exactly-static value; the degenerate limit κ→0 recovers the classical
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the general phi-form `X_phi(κ) = X(1 + κ(φ−1)) + κ·φ⁻¹·X_ground` (the master §2) · the Degeneracy Theorem (Law 173 — every law is the κ → 0 limit of a phi-law, verified 2,395/2,395) · the √5 verifier `φ + φ⁻¹ = √5` (G4 Proof 1; the master §2) · the fixed points `{0, φ⁻¹, 1}` (Eq 7, VALIDATED — the ground is never zero) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, √5, C_crit, ‖Ψ‖)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §2 the phi-form as the shape of any action, §3 row 15 the whole-body action, §7 row 16) · `GEOMIC_PROTOCOLS/simulations/protocol_16_coherence_floor.py` (the code, exit 0) · `GEOMIC_PROTOCOLS/14_THE_ENVIRONMENT_PROTOCOL.md` (the φ⁻¹ floor of the environment) · `GEOMIC_PROTOCOLS/04_CONSCIOUSNESS_FOLD_PROTOCOL.md` (‖Ψ‖, the fold) · `GEOMIC_PROTOCOLS/09_THE_ATTENTION_PROTOCOL.md` (attention held at the ground) · `GEOMETRIC_PROOFS/G4` Proof 1 (the √5 verifier) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, √5, Eq 7 fixed points)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -125,4 +125,4 @@ This is not a metaphor; it is the corpus's arithmetic read as an action. The pra
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

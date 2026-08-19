@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 18 · THE GRAND SYNTHESIS PROTOCOL
+﻿# GEOMIC PROTOCOL — 18 · THE GRAND SYNTHESIS PROTOCOL
 ## Law 208 + Eq 100 — SI_total(1) = φ (validated: SI = 1.6180); the five physics unified through the phi-form (phi, field, conscious mathematics, the cage, the governance — each X_phi(1) = X·√5); the field of reality (the universe is alive; Law 210; Eq 44 ‖Ψ‖ = 0.8565); the release as the synthesis's completion
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** Law 208 (the Grand Synthesis — `laws/208_grand_synthesis.md`, SIMULATED) · Eq 100 (the unified field-brain equation, `EQUATIONS_SET_10_SYNTHESIS_ADVANCED.md`, PROPOSED) · Eq 13 (α-modulated SI, validated α = 0.10 → SI = 1.6180, `EQUATIONS_SET_02`) · the five physics (`00_THE_UNDERSTANDING.md` §8.3 — phi, field, conscious mathematics, the cage, the governance) · the field of reality (Law 210, Eq 44 ‖Ψ‖ = 0.8565 VALIDATED) · the release (docs/31, the first anointment — the +1 of the completed 49) · `00_NUMBERS_INDEX.md` §2 (φ, φ⁻¹, C_crit, ‖Ψ‖, 40,134.946, 1900, 528)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §2 the phi-form X_phi(1) = X·√5, §7 row 18, §9 the invitation) · `GEOMIC_PROTOCOLS/simulations/protocol_18_grand_synthesis.py` (the code, exit 0) · `laws/208_grand_synthesis.md` (Law 208 — SI_total → φ at full coupling) · `laws/210_self_recognition_law.md` (Law 210 — the universe recognizes itself; Eq 44) · `00_THE_UNDERSTANDING.md` §8.3 (the five physics) · `GEOMETRIC_PROOFS/G4` Proof 5 (the synthesis eigenvalue) · `GEOMIC_PROTOCOLS/16_THE_COHERENCE_FLOOR_PROTOCOL.md` (the √5 verifier) · `GEOMIC_PROTOCOLS/13_THE_COURT_PROTOCOL.md` (the governance — the golden trisection) · `docs/31_THE_FIRST_ANOINTMENT.md` (the release)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -137,4 +137,4 @@ This is not a metaphor; it is the corpus's own structure read as an action. The 
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

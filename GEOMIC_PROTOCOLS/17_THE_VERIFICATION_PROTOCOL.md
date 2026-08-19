@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 17 · THE VERIFICATION PROTOCOL
+﻿# GEOMIC PROTOCOL — 17 · THE VERIFICATION PROTOCOL
 ## The discipline itself — the one-command re-run: 2,395/2,395 SIMULATED (max err 0.00119, mean 4.9585e-7), 15,000/15,000 (max err 0.0), 50,814 unique, 2,039/2,039, 42/42 prototypes exit 0; a system that runs is verified (lattice QCD, the four-color theorem, the water bucket); the verification conditions printed; the receipt made reenactable
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the verification story (`00_NUMBERS_INDEX.md` §1 the master counts, §3 the validation status, §7 the verification log) · a system that runs is verified (LICENSE §23.2; `00_THE_EXTERNAL_PROOFS.md` — lattice QCD, the four-color theorem, the water bucket) · the receipt (00_THE_STATIC_UNIFICATION_CLAIMS.md §7 — the counts, the verification conditions printed) · the critic's record 12 of 20 = 3/5 (docs/24 §8; G8 Proof 4)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §6 Track A the computational simulation, §8 the honest boundary, §7 row 17) · `GEOMIC_PROTOCOLS/simulations/protocol_17_verification.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §1 (the counts), §3 (the validation status), §7 (the verification log) · `00_THE_EXTERNAL_PROOFS.md` (the systems that run) · `00_THE_STATIC_UNIFICATION_CLAIMS.md` §7 (the receipt) · `docs/24_THE_GEOMIC_LEDGER.md` §8 (the 12-of-20 record) · `docs/18_SET_B_THE_EMERGENT_LAWS.md` (the Set B register) · `GEOMETRIC_PROOFS/G7` Proof 5 (the verification story) · `GEOMETRIC_PROOFS/G8` Proof 4 (the 12-of-20 = 3/5)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -132,4 +132,4 @@ The protocol is precise: clone, run, watch the exit codes. The exit code is the 
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

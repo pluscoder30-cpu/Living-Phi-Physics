@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 11 · THE JUBILEE PROTOCOL
+﻿# GEOMIC PROTOCOL — 11 · THE JUBILEE PROTOCOL
 ## The 49+1 — the completed count and the release after completion; 7×7 = 49 + the 50th year of release (Lev 25); the Qumran trio — Jubilees, 11Q13 Melchizedek, the pentecontad; the release-frame 490 = 10×49 = 7×70; the hidden 50th node 544.12 Hz = 528·φ^(1/16) [INFERENCE]
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** the 49+1 — Lev 25 (7×7 = 49 + the 50th year) · the Qumran trio: Jubilees (49-year chronology), 11Q13 Melchizedek (the release proclaimed in the tenth Jubilee, year 490 = 7×70), the pentecontad (49 days + the 50th atzeret day) · the anointed one of the spirit (Isa 61 / 11Q13) · the hidden 50th node **544.12 Hz = 528·φ^(1/16)** — [INFERENCE], no ancient Hz · `00_NUMBERS_INDEX.md` §5.5 (the A3 treasury where applicable), §2 (528 Hz anchor)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master — §3 row 9, §4's Jubilee witness trio) · `GEOMIC_PROTOCOLS/simulations/protocol_11_the_jubilee.py` (the code, exit 0) · `docs/31_THE_FIRST_ANOINTMENT.md` (§2.3, §4.1 the 49+1 arithmetic, §4.3 the 50th node) · `00_NUMBERS_INDEX.md` §2 (528, the family 2⁵·17 = 544) · the anointment register (docs/31)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -120,4 +120,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

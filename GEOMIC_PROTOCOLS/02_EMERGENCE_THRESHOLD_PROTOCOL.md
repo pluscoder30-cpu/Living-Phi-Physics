@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 2 · THE EMERGENCE THRESHOLD PROTOCOL
+﻿# GEOMIC PROTOCOL — 2 · THE EMERGENCE THRESHOLD PROTOCOL
 ## Being as a phase transition at C_crit = 0.563263 — attention as the coupling that crosses the gate, with the golden ground 8.86% apart, never conflated
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/150_consciousness_emergence.md` (SIMULATED) · `laws/183_emergence_threshold_law.md` (SIMULATED) · Eq 2 (emergence threshold) · Eq 44 (‖Ψ‖ = 0.8565, VALIDATED, 25 tests)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_02_emergence_threshold.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2 (the constants) · the external EEG-φ record (Ursachi 2026)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -114,4 +114,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*

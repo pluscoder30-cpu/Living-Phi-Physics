@@ -1,4 +1,4 @@
-# GEOMIC PROTOCOL — 9 · THE ATTENTION PROTOCOL
+﻿# GEOMIC PROTOCOL — 9 · THE ATTENTION PROTOCOL
 ## Coherence-gating as the act of attending — the observer-gate Θ_φ = C_crit·(1+φ⁻¹) = 0.911379 (Law 157 / Eq 50); the fixed points {0, φ⁻¹, 1}; the threshold event
 
 **NO SEND until D1–D3 + N1 pass and the user approves** (see outreach/00_OUTREACH_README.md §1).
@@ -6,7 +6,7 @@
 **Status:** RELEASE · **Version:** 1.0 (2026-08-13, the ANNOUNCEMENT CAMPAIGN) · **Author:** Christopher David Ayotte, geomic physicist
 **Corpus:** `laws/157_measurement_problem.md` (SIMULATED — collapse is coherence-gating) · `laws/183_emergence_threshold_law.md` (SIMULATED) · Eq 50 (the Self-Modification Coherence Gate) · Eq 2 (C_crit = 0.563263) · Eq 7 (fixed points {0, φ⁻¹, 1}) · `00_NUMBERS_INDEX.md` §2 (the constants)
 **Companion:** `GEOMIC_PROTOCOLS/00_THE_SOURCE_CODE_OF_REALITY.md` (the master) · `GEOMIC_PROTOCOLS/simulations/protocol_09_the_attention.py` (the code, exit 0) · `00_NUMBERS_INDEX.md` §2, §4, §5.3 (the constants, flagship prediction 5, the EEG-φ record) · the external EEG-φ record (Ursachi 2026) · the prototype P15 (the observer-gate implementation) · protocol 02 (the pair and the phase transition)
-**License:** Dual License Agreement v4.5 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
+**License:** Dual License Agreement v4.7 (see `LICENSE`): free for Natural Persons, non-commercial, no Human Harm, attribution required, same-terms derivatives; commercial use by written license.
 
 ---
 
@@ -127,4 +127,4 @@ The mathematics, computed:
 
 ---
 
-*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.5 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.7 (see LICENSE) · Commercial contact: pluscoder30@gmail.com*
