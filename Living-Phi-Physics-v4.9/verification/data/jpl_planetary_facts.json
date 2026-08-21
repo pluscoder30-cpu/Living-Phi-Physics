@@ -1,0 +1,26 @@
+{
+ "mercury": {
+  "planet": "mercury"
+ },
+ "venus": {
+  "planet": "venus"
+ },
+ "earth": {
+  "planet": "earth"
+ },
+ "mars": {
+  "planet": "mars"
+ },
+ "jupiter": {
+  "planet": "jupiter"
+ },
+ "saturn": {
+  "planet": "saturn"
+ },
+ "uranus": {
+  "planet": "uranus"
+ },
+ "neptune": {
+  "planet": "neptune"
+ }
+}

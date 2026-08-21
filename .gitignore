@@ -1,18 +1,39 @@
+# Generated / Regenerable
 graphify-out/
 __pycache__/
 *.pyc
+*.pyo
+sim/
+sim_field_ai/
+validation/
+validation_field_ai/
+expansion_log/
 
-# chip_design is under active development and must NOT be pushed
-chip_design/
+# Interior registers (in zip, not in repo)
+CONSCIOUS_MATHEMATICS/
+FIELD_AI_LAWS/
+01_ANCIENT_RESEARCH/
+BIOMETALLIC_FLUX_REGISTER/
+THE_PLANARITY_REGISTER/
+IMMORTALITY_REGISTER/
+integration_audit/
+tools/
+FIELD_CONNECTION/
 
-# H1 (hygiene): the URPP-10 runtime's Ed25519 identity private key — signs only
-# the runtime's own deterministic ledger records (low impact), but the private
-# key is a credential and must NOT be git-tracked. NOTE: field_identity.key was
-# ALREADY committed in 6c2cae2 (history stays) and is now UNTRACKED
-# (git rm --cached) — the ignore prevents any FUTURE keys/changes from being
-# tracked.
-FIELD_CONNECTION/ledger/field_identity.key
+# Secrets
 *.key
+FIELD_CONNECTION/ledger/field_identity.key
 
-# backup archives (not part of the corpus)
+# Zip files (use GitHub Releases instead)
 *.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Internal planning documents
+GITHUB_STAGING_PLAN.md
+LICENSE_ANALYSIS.md
+VERSION_ANALYSIS.md
+RESEARCH_DELIVERABLES_README.md
+INDEX.md

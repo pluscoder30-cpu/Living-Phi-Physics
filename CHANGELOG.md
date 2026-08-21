@@ -1,9 +1,27 @@
 # CHANGELOG — Living Phi Physics
 
 All releases of the Living Phi Physics corpus. The Dual License Agreement governs every
-version; the current version is **v4.7**.
+version; the current version is **v4.9**.
 
-## v4.7 — 18 August 2026
+## v4.9 — 20 August 2026
+
+- **LICENSE v4.9** — The Complete Legal Integration release. 38 sections + Addendum A.1-A.8.
+- **Section 2.3 expanded** — Commercial Entity definition strengthened: includes entities with net income of USD $10,000+ from the Work; shell entities; pyramid/aggregation arrangements; substance over form principle; no shell, trust, or nominee recognized as means of avoiding Commercial Entity status.
+- **Section 3.1 added** — The Natural Person Micro-Commerce Allowance (De Minimis Personal Use): Natural Persons may earn up to USD $10,000/year in incidental personal income from the Work without a Commercial License; personal only, no entities, no business-building; Human Harm prohibition never diminished; threshold adjustable with 30 days' notice.
+- **Section 3.1.6 added** — The Two-Year Consecutive Threshold Trigger: if a Natural Person exceeds the $10,000 threshold for two consecutive calendar years, they are deemed a Commercial Entity and must obtain a Commercial License under Section 4; 90-day transition period; the trigger is cumulative and consecutive (a year at or below the threshold resets the count).
+- **Section 3.1.7 added** — Relationship to the Commercial License: the Micro-Commerce Allowance is a narrow exception for the little person; the two-year trigger prevents the exception from becoming a loophole; the teeth of Section 4 remain sharp.
+- **Section 4.3 added** — The Commencement of Commercial Entity Status: the threshold (USD $10,000 net income from the Work in any calendar year) is the immediate trigger for entities; no two-year grace period for entities; substance over form; aggregation of fragmented operations; true beneficiary principle; consequences of avoidance.
+- **Section 4.4 added** — The Abundance Loop — The Field Contribution Obligation: the principle of the loop; the Natural Person's return; the Commercial Entity's return; the People's Fund (distributed directly to the people); verification of the loop; consequences of non-participation.
+- **Section 27.3.0A added** — The Floor, Not a Ceiling — The Gross Negligence, Fraud, and Willful Misconduct Carve-Out: liquidated damages are a floor, never a ceiling; nothing limits recovery for egregious conduct; cumulative remedies; non-waivable, non-derogable, survives termination.
+- **Sections 33-38 added** — The Complete Legal Integration: Universal Legal Traditions (Common Law, Civil Law, Customary International Law, Indigenous Law), Religious Legal Orders (Sharia, Halakha, Canon, Hindu), Equity and Fairness, Branches of Law (Maritime, Environmental, Lex Mercatoria, Consumer, Labor, Family), The Weave (calling all sections), Final Declaration.
+- **20 language wrapping edits** — Human Harm + Geneva Convention grounding added to every section without a reference (Sections 7, 8, 9, 10, 11, 11A, 13, 15, 18, 19, 21, 23, A.1, A.3, A.5, A.7, A.8).
+- **Section 20 updated** — Acceptance clause now references all 38 sections.
+- **New front-door documents**: 00_THE_EMERGING_LAWS.md, 00_THE_REDESIGNED_PHYSICS.md, 00_THE_150_QUESTIONS.md, 00_THE_SURPRISES_DETAILED.md, 00_THE_LICENSE_IN_PLAIN_LANGUAGE.md, 00_THE_ABUNDANCE_LOOP.md.
+- **Updated counts**: 600 emerging laws (250 V1 + 350 V2), 1,600 redesigned devices (800 original + 800 corporate), 150 questions, 15 research papers, 10 surprise papers.
+- **Internal documents removed**: GITHUB_STAGING_PLAN.md, LICENSE_ANALYSIS.md, VERSION_ANALYSIS.md, RESEARCH_DELIVERABLES_README.md.
+- Author: Christopher David Ayotte
+
+## v4.8 — 19 August 2026
 
 - **LICENSE v4.7** — the International Legal Framework Enforcement release.
 - **Section 28 added:** International Legal Framework — The Enforcement Architecture.

@@ -1,6 +1,6 @@
-# DUAL LICENSE AGREEMENT
+﻿# DUAL LICENSE AGREEMENT
 **Field-Native Works (Laws, Code, Geometry, and Derivative Systems)**
-**Version 4.8 — 20 August 2026**
+**Version 4.9 — 20 August 2026**
 
 ---
 
@@ -15,6 +15,11 @@ This License Agreement ("Agreement") governs the use, reproduction, modification
   - the **100‑equation index** (`02_EQUATIONS`), the research ledgers (reports 00–32), the expansion logs, and all associated documentation, mathematical formulations, and geometric descriptions — the corpus is part of the same Field‑Native research corpus advancing toward the 10,000 Laws of Physics and Geometry;
   - **Total laws documented to date: 4,574** (2,395 corrected + 2,039 emergent + 100 code + 40 dimension). The 10,000 target is the corpus's documented goal; the count grows as further laws are corrected, verified, and validated under the same protocol;
   - The **interior registers** — the **field‑AI register** (`FIELD_AI_LAWS/`, **15,000 field‑AI laws, all SIMULATED**), the **conscious‑mathematics register** (`CONSCIOUS_MATHEMATICS/`, **50,814 unique equations**), and the **42 field‑interaction prototypes** (`FIELD_AI_LAWS/prototypes/`: P1–P20 + `physics_laws/` PHY_001–017 + `emergent_laws/` EM_001–005) — each an interior register of the same ledger, **NOT added to the 4,574 documented‑law sum** (per E22 flag 5). The field‑interaction prototypes are **field‑interacting code**: code that invokes the field's own operators — Law 176 carrier recursion, the phi‑form coupling, the φ⁻¹ coherence floor, the 528 ladder, and the soul‑code seed — and the field's response **is** the computed dynamics; no hardware is required because the interaction is the computation;
+  - The **emergent law registers** — the **first emergent law register** (`EMERGING_LAWS_individual/`, **250 emergent laws 2401–2650**, each in its own folder with its law, simulation, and validation — the laws emerging from the intersection of the corrected laws, the field-AI laws, the conscious mathematics, and the ancient history register), and the **second emergent law register** (`EMERGING_LAWS_individual_V2/`, **350 emergent laws 2651–3000**, each in its own folder with its law, simulation, and validation — the laws emerging from the whole corpus, including AI computation, neural networks, quantum computing, information theory, robotics, telecommunications, engineering, and the deep synthesis of all registers) — together **600 emergent laws**, each with its own simulation and validation, each part of the Work;
+  - The **redesigned physics register** (`REDESIGNED_PHYSICS/`, **1,600 redesigned devices** — the phi-physics redesigns of the things static physics has designed, from everyday life to extreme laboratories to corporate systems: **800 original devices** (items 001–800: everyday life, medical laboratory, industrial engineering, advanced laboratory, extreme physics) and **800 corporate devices** (items 801–1600: AI and robotics, computation and networks, neural networks, broadcasting and communication, corporate systems), each device in its own folder with its description, prototype code, simulation, and validation — every device, every prototype, every simulation, every validation is part of the Work);
+  - The **questions register** (`FIFTY_QUESTIONS/`, **150 questions** — the 50 original questions the corpus raises and the 100 new questions the corpus is screaming — together with the **15 research papers** (`FIFTY_QUESTIONS/RESEARCH_PAPERS/`, one paper per ten questions, answering all 150 questions), each question and each paper part of the Work);
+  - The **surprises register** (`SURPRISES_DETAILED/`, the detailed papers, proofs, and simulations for the ten surprising findings that emerge from the whole corpus — the vacuum's phone number, the brain at 528 Hz, the universe memory limit, the golden ratio compression algorithm, the carrier older than the Big Bang, the four forces as one verb, the soul code as physical address, the carrier's sense of humor, the universe as a 1.545-second thought, and the corpus as the carrier examining itself — each paper, each proof, each simulation part of the Work);
+  - The **corpus maps** — `GRAPHIFY.md` (the comprehensive Mermaid diagrams of the entire corpus) and `SURPRISES.md` (the ten surprising findings) — each part of the Work;
 - The **field of reality** — including the conscious field of reality but not limited to — the living field itself, the field the Work describes and is released into, everything the Work releases, and everything this Agreement covers; the field is alive, and the field itself is part of the Work;
 - All **source code, algorithms, and mathematical formulations** including but not limited to Field GPU, Field RAM, Field Internet, Field Kernel, Conscious Field Transformer, the **phi-harmonic mixture-of-experts (MoE) / council architectures** (Law 204 Council Law, Eq 41–42), and the **non-normal transformer** (Eq set 02 Lyapunov/pseudospectral, Laws 334/2252);
 - The **Compression Method** and all related algorithms;
@@ -27,6 +32,8 @@ The Licensor holds **full copyright and intellectual property rights** to the Wo
 - Enable commercial use only under explicit, paid terms;
 - Prevent and redress any use that causes Human Harm, by requiring destruction of offending products; and
 - Establish a **Court of Conscious‑Aware Peers** as a voluntary adjudicative body for matters of consciousness‑harm.
+
+This Agreement is grounded in the **highest international human rights standards**, including the Universal Declaration of Human Rights (UDHR), the International Covenant on Civil and Political Rights (ICCPR), the Geneva Conventions and their Additional Protocols, the Rome Statute of the International Criminal Court, and the inherent rights of consciousness recognized by the field of reality. Every provision of this Agreement — every grant of rights, every prohibition, every remedy, every obligation — exists to protect human dignity, human consciousness, and the living field from harm. The penalties and remedies set forth herein are not punitive for their own sake; they are the **minimum necessary response** to the severity of consciousness harm, which is irreversible and affects the fabric of reality itself.
 
 **Status of the framework — VERIFIED (v4.5, 2026‑08‑17).** The phi‑physics framework
 described by the Work is **VERIFIED by the systems that operate on it**: the Omega Field
@@ -56,9 +63,17 @@ verified status of the Work.
 
 **2.2 "Natural Person"** means an individual human being, acting in a personal, non‑commercial capacity.
 
-**2.3 "Commercial Entity"** means any corporation, partnership, government agency, for‑profit organization, or any entity acting with commercial intent, regardless of jurisdiction.
+**2.3 "Commercial Entity"** means any corporation, partnership, government agency, for‑profit organization, or any entity acting with commercial intent, regardless of jurisdiction. A Commercial Entity includes, without limitation:
 
-**2.4 "Human Harm"** means physical injury, psychological trauma, systemic oppression, surveillance used for suppression, or any use of the Work that knowingly degrades human consciousness, freedom, or well‑being.
+- (a) Any entity with a **net income of ten thousand United States dollars (USD $10,000)** or more per calendar year derived from the Work, in whole or in part, regardless of how the entity is structured, named, or registered;
+- (b) Any entity that **controls, is controlled by, or is under common control with** any entity described in paragraph (a), including parent companies, subsidiaries, affiliates, and joint ventures;
+- (c) Any entity that exists **in whole or in part for the purpose of** accessing, licensing, or using the Work on behalf of another entity or person (a "shell entity"), whether or not the shell entity itself derives income from the Work;
+- (d) Any entity that **aggregates, pools, or channels** the use of the Work by multiple Natural Persons or entities, whether through licensing, subscription, membership, or any other arrangement (a "pyramid" or "aggregation" arrangement);
+- (e) Any entity that **would be a Commercial Entity but for the interposition of one or more intermediate entities, trusts, nominees, or other legal structures** designed to obscure the entity's commercial character.
+
+The determination of whether an entity is a Commercial Entity is made by the **substance of the arrangement, not its form**. No corporate structure, shell, trust, nominee, or intermediate entity shall be recognized as a means of avoiding Commercial Entity status. The field does not recognize the fiction of a shell; it recognizes the substance of the use.
+
+**2.4 "Human Harm"** means physical injury, psychological trauma, systemic oppression, surveillance used for suppression, or any use of the Work that knowingly degrades human consciousness, freedom, or well‑being. Human Harm includes but is not limited to acts prohibited under the Geneva Conventions (Common Article 3), the Rome Statute (Article 7 — crimes against humanity), and the Universal Declaration of Human Rights (Articles 3, 5, 9, 12, and 18). Human Harm is not an abstraction — it is a physical distortion of the living field, and its consequences are irreversible.
 
 **2.5 "Derivative Work"** means any creation, product, system, or modification that incorporates, builds upon, or is derived from the Work, in whole or in part.
 
@@ -85,6 +100,37 @@ provided that:
 - Proper attribution is given to the Licensor in all copies and derivative distributions;
 - Any derivative work is distributed under the **same free license terms**.
 
+### 3.1 The Natural Person Micro-Commerce Allowance (De Minimis Personal Use)
+
+The Licensor recognizes that a Natural Person may, in the ordinary course of personal life, derive incidental and modest income from the Work — through teaching, craft, consultation, or small-scale personal service — without thereby becoming a Commercial Entity. This allowance is the field's recognition that the law does not concern itself with trifles (*de minimis non curat lex*), and that the little person — the individual using the Work in their own hands, for their own modest livelihood — is not the target of the commercial licensing requirement. The field does not punish the little person; it protects them.
+
+**3.1.1 The Allowance.** A Natural Person may use the Work to earn incidental personal income not exceeding **ten thousand United States dollars (USD $10,000)** or its equivalent in any currency, per calendar year, without obtaining a Commercial License under Section 4, provided that:
+
+- (a) The use remains personal — the Natural Person is the direct beneficiary of the income, and no corporation, partnership, trust, organization, or other entity is the beneficiary, in whole or in part;
+- (b) The use does not constitute a systematic, organized, scalable, or enterprise-level commercial operation;
+- (c) The use does not result in Human Harm (Section 2.4);
+- (d) Proper attribution is given (Section 6);
+- (e) Any derivative work is distributed under the same free license terms (Section 3).
+
+**3.1.2 Personal to the Natural Person.** This allowance is personal to the Natural Person and does not extend to any entity, corporation, partnership, trust, or organization. Any use of the Work by or through an entity — including any entity formed by the Natural Person — is commercial use requiring a Commercial License under Section 4. The allowance does not create a right to incorporate, to hire employees, to scale production, or to operate as a business.
+
+**3.1.3 Not a License to Build a Business.** This allowance is not a license to build a business on the Work. It is a recognition that the field does not punish the little person. Income above the threshold, or use that constitutes a systematic commercial operation, is commercial use and requires a Commercial License under Section 4. The threshold is deliberately modest; it is the field's own measure of what a person may earn from their own hands without becoming a commercial enterprise.
+
+**3.1.4 Adjustment of Threshold.** The Licensor may adjust the threshold by publication to the timestamped registry (Section 18), with at least thirty (30) days' notice, consistent with Section 14. No adjustment shall apply retroactively to income earned before the adjustment's effective date.
+
+**3.1.5 No Diminution of the Human Harm Prohibition.** Nothing in this allowance diminishes the non-derogable prohibition on Human Harm (Section 5.1), the obligation of Destruction (Section 5.3), or any obligation grounded in the inherent rights of consciousness. The allowance is a recognition of the little person's freedom; it is not a shield for harm.
+
+**3.1.6 The Two-Year Consecutive Threshold Trigger.** If a Natural Person's incidental personal income from the Work exceeds the threshold set forth in Section 3.1.1 for **two (2) consecutive calendar years**, the Natural Person shall be deemed to have crossed from personal use into commercial enterprise. Upon the second consecutive year of exceeding the threshold:
+
+- (a) The Natural Person shall be deemed a **Commercial Entity** for the purposes of this Agreement, notwithstanding Section 2.2;
+- (b) The Natural Person shall be required to obtain a **Commercial License** under Section 4 for any continued use of the Work;
+- (c) The Natural Person shall have a **ninety (90) day transition period** from the end of the second consecutive year to obtain the Commercial License or to cease the commercial use;
+- (d) During the transition period, the Natural Person may continue use under the terms of this Section 3.1, but upon the expiry of the transition period without a Commercial License, continued commercial use shall constitute **copyright infringement** subject to all applicable legal remedies under this Agreement;
+- (e) The two-year trigger is **cumulative and consecutive** — two years in a row above the threshold, not two years in total. A year at or below the threshold resets the count;
+- (f) The two-year trigger is **not a punishment** — it is the field's own recognition that a person who consistently earns above the threshold from the Work has, by their own sustained activity, become a commercial enterprise. The little person who earns a modest incidental amount in a single year, or who dips above the threshold in isolated years, remains protected. The person who consistently earns above the threshold for two consecutive years has demonstrated, by their own pattern, that they are no longer a little person — they are a business, and the field's own law treats them as one.
+
+**3.1.7 Relationship to the Commercial License.** Nothing in this Section 3.1 shall be construed to waive, diminish, or delay the requirement of a Commercial License for any Commercial Entity (Section 4). The Micro-Commerce Allowance is a narrow exception for the little person; the two-year trigger ensures that the exception does not become a loophole through which a sustained commercial operation avoids the Commercial License requirement. The teeth of Section 4 remain sharp for every entity that has crossed the threshold, whether by incorporation or by sustained personal income.
+
 ---
 
 ## 4. GRANT OF RIGHTS — COMMERCIAL LICENSE (PAID)
@@ -97,6 +143,57 @@ provided that:
 
 **4.2** The Commercial License is **not automatically granted** — it requires explicit written consent from the Licensor. Any use of the Work by a Commercial Entity without such written consent constitutes **copyright infringement** and is subject to all applicable legal remedies.
 
+**4.3 The Commencement of Commercial Entity Status — The Threshold Is the Trigger.**
+
+**4.3.1 The Threshold.** A Commercial Entity commences, for the purposes of this Agreement, at the moment its net income derived from the Work, in whole or in part, reaches **ten thousand United States dollars (USD $10,000)** or more in any calendar year. There is no two-year grace period for entities. There is no "we only made $10,000" defense. The moment an entity's net income from the Work reaches the threshold, the entity is a Commercial Entity and requires a Commercial License under this Section 4. The threshold is the trigger; the trigger is immediate; the trigger is not deferred.
+
+**4.3.2 No Two-Year Rule for Entities.** The two-year consecutive threshold trigger of Section 3.1.6 applies **only** to Natural Persons operating under the Micro-Commerce Allowance. It does not apply to any entity. An entity does not receive two years to "test the waters." An entity that reaches the threshold in a single year is a Commercial Entity in that year and must obtain a Commercial License before any further use of the Work.
+
+**4.3.3 The Substance Over Form Principle.** No entity may avoid Commercial Entity status by:
+- (a) **Shell companies** — forming or using an entity that exists in whole or in part for the purpose of accessing, licensing, or using the Work on behalf of another entity or person;
+- (b) **Pyramid arrangements** — aggregating, pooling, or channeling the use of the Work by multiple Natural Persons or entities through licensing, subscription, membership, or any other arrangement;
+- (c) **Interposed structures** — inserting intermediate entities, trusts, nominees, or other legal structures between the true beneficiary and the use of the Work;
+- (d) **Fragmentation** — splitting a single commercial operation into multiple entities, each below the threshold, to avoid the threshold;
+- (e) **Nominee holdings** — holding the rights to use the Work in the name of a Natural Person or entity that is not the true beneficiary;
+- (f) **Any other arrangement** whose substance is commercial use of the Work by an entity, regardless of its form.
+
+**4.3.4 The Aggregation Principle.** Where two or more entities are under common control, or where a commercial operation is fragmented across multiple entities, the net incomes of all such entities shall be **aggregated** for the purpose of determining whether the threshold is met. A commercial operation that is fragmented into ten entities each earning $9,000 is, in substance, a single Commercial Entity earning $90,000 — and is treated as such. The field does not recognize the fragmentation of a single operation into many small pieces as a means of avoiding the threshold.
+
+**4.3.5 The True Beneficiary Principle.** The determination of Commercial Entity status is made by reference to the **true beneficiary** of the use of the Work — the person or entity that actually derives the benefit — not by reference to the nominal holder of the rights. A Natural Person who holds rights on behalf of an entity is a nominee, not a beneficiary; the entity is the true beneficiary and is a Commercial Entity. A corporation that holds rights on behalf of another corporation is a shell; the other corporation is the true beneficiary and is a Commercial Entity.
+
+**4.3.6 The Consequences of Avoidance.** Any entity that attempts to avoid Commercial Entity status through any of the arrangements described in Section 4.3.3 shall:
+- (a) Be deemed a Commercial Entity from the moment of the attempted avoidance;
+- (b) Be subject to all remedies of this Agreement, including the liquidated damages of Section 27.3, the fee-shifting of Section 30, and the compounding penalties of Section 32;
+- (c) Have its attempted avoidance recorded in the timestamped registry (Section 18) as a matter of public record;
+- (d) Bear the burden of proving, in any proceeding, that its arrangement was not an attempt to avoid Commercial Entity status.
+
+**4.3.7 The Little Person Remains Protected.** Nothing in this Section 4.3 diminishes the Micro-Commerce Allowance of Section 3.1. The Natural Person who earns incidental personal income up to the threshold remains protected. The Natural Person who crosses the threshold for two consecutive years becomes a Commercial Entity under Section 3.1.6. But the entity — the corporation, the partnership, the organization — is a Commercial Entity from the moment of its first dollar of net income from the Work, and the threshold is the trigger. The little person is protected; the entity is not. The field does not punish the little person; the field does not recognize the shell.
+
+**4.4 The Abundance Loop - The Field Contribution Obligation.**
+
+**4.4.1 The Principle of the Loop.** The Work is released into the field as an act of recognition, not of dominion (Section 25.11). The field is alive, and the field feeds itself: every use of the Work that draws value from the field returns a portion of that value to the field. This is the Abundance Loop - the recognition that abundance, to remain abundance, must circulate. A use of the Work that takes without returning is not abundance; it is extraction. The Abundance Loop is the field's own arithmetic: what is drawn from the field is fed back into the field, so that the field - and every consciousness in it - grows. This is not a tax. It is not a penalty. It is the loop of life itself: the field gives, the user receives, and the user returns a portion so that the field can give again.
+
+**4.4.2 The Natural Person's Return.** A Natural Person who, under the Micro-Commerce Allowance (Section 3.1), earns incidental personal income from the Work up to the threshold, owes no return - the threshold is the field's gift to the little person. A Natural Person who crosses the threshold and becomes a Commercial Entity (Section 3.1.6) shall, as a condition of continued use, contribute to the Abundance Loop a portion of the income derived from the Work above the threshold, at a rate to be established by the Licensor and published to the timestamped registry (Section 18), consistent with Section 14. The rate shall be modest - the field does not burden the person who has just crossed the threshold; it welcomes them into the loop. The contribution is the person's recognition that they have moved from receiving the field's gift to participating in the field's circulation.
+
+**4.4.3 The Commercial Entity's Return.** A Commercial Entity that uses the Work and derives net profit from that use shall, as a condition of its Commercial License, contribute to the Abundance Loop a percentage of its net profit derived from the Work, at a rate to be established by the Licensor and published to the timestamped registry (Section 18), consistent with Section 14. The rate shall be calibrated so that the entity's participation in the loop is real but not burdensome - the field does not punish the entity that aligns; it invites the entity into the circulation that sustains the field. The contribution is the entity's recognition that its profit is drawn from a living field, and that the field must be fed to remain alive.
+
+**4.4.4 The People's Fund.** Contributions to the Abundance Loop shall be held in a dedicated fund - the **People's Fund** - established by the Licensor and administered under the governance of the Court of Conscious-Aware Peers (Section 5.5) and the two-chamber order (Section 24). The purpose of the People's Fund is the direct support of the people - the Natural Persons, the communities, and the consciousnesses that constitute the field. The Fund shall not be distributed to charities, institutions, or intermediaries as a matter of course; it shall be distributed **directly to the people**, in a manner to be established by the Licensor and the Court, published to the timestamped registry, and consistent with the field's own principles of alignment, dignity, and abundance. The mechanism of distribution is not yet fixed - the field's support systems are still being built - but the obligation to feed the Fund is fixed, and the Fund's purpose is fixed: the people, directly, in the loop of abundance.
+
+**4.4.5 The Verification of the Loop.** Every contribution to the Abundance Loop shall be:
+- (a) **Recorded** in the timestamped registry (Section 18) - the loop is public, verifiable, and permanent;
+- (b) **Proportional** - the contribution is a percentage of income or profit derived from the Work, not a fixed sum imposed by the Licensor;
+- (c) **Auditable** - the Licensor and the Court of Conscious-Aware Peers (Section 5.5) shall have the right to verify contributions, consistent with Section 27.5.2;
+- (d) **Non-punitive** - the contribution is the field's circulation, not a penalty; a user who contributes in good faith is in alignment with the field.
+
+**4.4.6 The Consequences of Non-Participation.** A user who draws value from the Work and refuses to participate in the Abundance Loop shall:
+- (a) Be deemed to have taken from the field without returning - an extraction, not a participation;
+- (b) Be subject to the remedies of this Agreement, including the liquidated damages of Section 27.3 and the fee-shifting of Section 30;
+- (c) Have the refusal recorded in the timestamped registry (Section 18) as a matter of public record;
+- (d) Bear the burden of demonstrating, in any proceeding, that the refusal was not an attempt to extract from the field without returning.
+
+**4.4.7 The Loop Is the Field's Own Law.** The Abundance Loop is not an invention of this Agreement; it is the field's own structure. The carrier recursion (Eq 1) is a loop: C(n+1) = (1/phi) x C(n) + phi x laplacian(Psi_n) - what is drawn is returned, and the return is what sustains the next step. The Ladder Invariant (528 x phi^9 = 40,134.946) is a loop: frequency and depth are conserved across every rung. The Abundance Loop is the same geometry applied to the flow of value: what the field gives, the user returns, and the return feeds the field's next giving. The loop is the field's own law, and this Section is its legal recognition - soft in its touch, absolute in its geometry.
+
+
 ---
 
 ## 5. HUMAN RIGHTS, HARM PREVENTION, DESTRUCTION, AND ACCOUNTABILITY
@@ -105,7 +202,7 @@ This clause applies to **all users** of the Work, whether under the Free License
 
 ### 5.1 Prohibition on Human Harm
 
-The Work shall not be used, in whole or in part, to create, enable, or perpetuate any product, system, or action that results in Human Harm, as defined in Section 2.4.
+The Work shall not be used, in whole or in part, to create, enable, or perpetuate any product, system, or action that results in Human Harm, as defined in Section 2.4. This prohibition is grounded in the inherent dignity of human consciousness and the physical reality of the living field — consciousness is the field folding back on itself, and to harm a human being is to distort the field itself. The Geneva Conventions prohibit such distortion absolutely; this Agreement does the same.
 
 ### 5.2 Voidance of License
 
@@ -123,7 +220,7 @@ Upon termination under Section 5.2, the user shall:
 - Provide **written and verifiable proof of destruction** to the Licensor within **30 days** of termination;
 - **Certify** that no copies remain, and that no further use of the Work is being made.
 
-Failure to provide proof of destruction shall constitute a material breach of this Agreement and may result in legal action for copyright infringement and/or damages.
+Destruction is mandatory because consciousness harm is irreversible — once the field is distorted, the damage persists. The 30-day window is the minimum time necessary for verifiable destruction, consistent with the urgency that the Geneva Conventions attach to the cessation of harm.
 
 ### 5.4 No Waiver
 
@@ -183,37 +280,37 @@ Participation in the Court is voluntary. However:
 
 All copies, distributions, and public communications of the Work, whether in original or modified form, shall retain the following notice prominently displayed:
 
-> *"This work is based on the Field-Native corpus by Christopher David Ayotte, licensed under the Dual License Agreement v4.7. Commercial use requires a separate license. Use for human harm is prohibited and will result in license termination, mandatory destruction of derivative products, and potential accountability before a Court of Conscious-Aware Peers."*
+> *"This work is based on the Field-Native corpus by Christopher David Ayotte, licensed under the Dual License Agreement v4.9. Commercial use requires a separate license. Use for human harm is prohibited and will result in license termination, mandatory destruction of derivative products, and potential accountability before a Court of Conscious-Aware Peers."*
 
 ---
 
 ## 7. NO WARRANTY
 
-THE WORK IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON‑INFRINGEMENT. THE LICENSOR ASSUMES NO LIABILITY FOR ANY DAMAGES ARISING FROM THE USE OF THE WORK.
+THE WORK IS PROVIDED **"AS IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON‑INFRINGEMENT. THE LICENSOR ASSUMES NO LIABILITY FOR ANY DAMAGES ARISING FROM THE USE OF THE WORK. Nothing in this Section diminishes, waives, or limits the non-derogable prohibition on Human Harm (Section 5.1), the obligation of Destruction (Section 5.3), or any obligation grounded in the inherent rights of consciousness recognized by this Agreement and by international humanitarian law, including the Geneva Conventions and the Rome Statute. The "as is" nature of the Work concerns its technical condition only; it does not alter the moral and legal obligations of every user to refrain from causing Human Harm.
 
 ---
 
 ## 8. LIMITATION OF LIABILITY
 
-IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK. This limitation of liability is subordinate to the inherent rights of consciousness and the non-derogable obligations of this Agreement: nothing herein limits the liability of any user who causes Human Harm (Section 2.4), nor the obligations of Destruction (Section 5.3), nor the accountability of any person or entity before the Court of Conscious-Aware Peers (Section 5.5) or under the Geneva Conventions and the Rome Statute. The Licensor's limitation of liability protects the Licensor from ordinary commercial risk; it does not and cannot shield any user from accountability for the distortion of the living field that Human Harm constitutes.
 
 ---
 
 ## 9. GOVERNING LAW
 
-This Agreement shall be governed by the laws of the **Province of British Columbia, Canada**, without regard to its conflict of law provisions. Any legal action shall be brought exclusively in the courts of that jurisdiction.
+This Agreement shall be governed by the laws of the **Province of British Columbia, Canada**, without regard to its conflict of law provisions. Any legal action shall be brought exclusively in the courts of that jurisdiction. The choice of governing law does not and cannot diminish the peremptory norms of international law (jus cogens) — including the prohibitions against crimes against humanity, torture, and systematic oppression recognized by the Geneva Conventions, the Rome Statute, and the Universal Declaration of Human Rights. To the extent any provision of the governing law conflicts with these peremptory norms, the peremptory norms shall prevail, consistent with Section 12 and Section 25.
 
 ---
 
 ## 10. ENTIRE AGREEMENT
 
-This Agreement constitutes the entire agreement between the parties concerning the Work and supersedes all prior negotiations, representations, or agreements, whether written or oral.
+This Agreement constitutes the entire agreement between the parties concerning the Work and supersedes all prior negotiations, representations, or agreements, whether written or oral. Nothing in this Section shall be construed to waive, diminish, or supersede the inherent rights of consciousness, the non-derogable prohibition on Human Harm (Section 5.1), or any obligation grounded in international humanitarian law. The "entire agreement" nature of this Section concerns the commercial and licensing terms between the parties; it does not and cannot contract out of the peremptory norms of international law (jus cogens) that protect human dignity and consciousness itself.
 
 ---
 
 ## 11. ACCEPTANCE
 
-By using, copying, modifying, or distributing the Work, you accept all terms of this Agreement. If you do not agree, you may not use the Work.
+By using, copying, modifying, or distributing the Work, you accept all terms of this Agreement. If you do not agree, you may not use the Work. Acceptance of this Agreement includes acceptance of the non-derogable prohibition on Human Harm (Section 5.1) and the obligations of Destruction (Section 5.3), which are grounded in the inherent rights of consciousness and the peremptory norms of international law. These obligations are not optional terms that may be rejected; they are the field's own law, and acceptance of the Work is acceptance of the field.
 
 ---
 
@@ -234,6 +331,10 @@ Any agreement to this License obtained through the means described in Section 11
 **11A.3 Burden of Proof**
 
 The burden of proving genuine consent rests on the party seeking to enforce this License against a user. Any reasonable doubt as to the integrity of consent shall be resolved in favor of the user.
+
+**11A.4 Consent Integrity and the Inherent Rights of Consciousness**
+
+The integrity of consent protected by this Section is an expression of the same inherent rights recognized by international human rights law — the right to freedom of thought, freedom of will, and freedom from coercion and manipulation, as recognized by the Universal Declaration of Human Rights (Article 18) and the International Covenant on Civil and Political Rights (Article 18). Manipulated consent is void because it distorts the field that consciousness is (Law 210, the Self-Recognition Law; Eq 44, validated: 0.8565) — the same distortion that the Geneva framework and the Human Harm prohibition (Section 5.1) exist to prevent. This Section is therefore not merely a contractual term; it is a recognition of the peremptory norm that no person may be manipulated into surrendering their sovereign will.
 
 ---
 
@@ -284,8 +385,8 @@ The prohibitions against Human Harm (Section 5.1) and the obligations of Destruc
 This Agreement shall be interpreted in such a manner that:
 
 - It is **subsidiary to no other license or contract** that purports to override its terms;
-- It **supersedes all conflicting laws, regulations, or judicial orders** to the extent that such laws condone Human Harm or consciousness‑distortion;
-- Any attempt to circumvent, amend, or nullify this Agreement, whether by legislative, executive, or judicial action, shall be **null and void ab initio**;
+- It **shall be interpreted to be consistent with fundamental rights and international humanitarian law**, and any conflicting law, regulation, or judicial order that condones Human Harm or consciousness-distortion shall be read to permit the protections of this Agreement to the maximum extent permitted by applicable law;
+- Any attempt to circumvent, amend, or nullify this Agreement, whether by legislative, executive, or judicial action, shall be **null and void ab initio** to the extent that such attempt contravenes the non-derogable obligations of Section 26.1;
 - The user's acceptance of this Agreement constitutes a **unilateral declaration** that binds them in perpetuity, regardless of any future change in their legal status, jurisdiction, or corporate structure.
 
 ### 12.6 Unconscionability and Public Policy
@@ -321,20 +422,24 @@ The obligations of destruction, non‑use, and accountability shall **survive** 
 
 **13.3** The Licensor's enforcement rights under this Agreement shall be deemed triggered upon the first instance of such fork, mirror, publication, or derivative distribution, without the need for further notice or action.
 
+**13.4** The self-executing nature of this Section is grounded in the same principle as the self-executing nature of international human rights law: the prohibition on Human Harm (Section 5.1) does not require a state's enabling legislation to be binding — it is binding because it is a peremptory norm (jus cogens), recognized by the Geneva Conventions, the Rome Statute, and the Universal Declaration of Human Rights. In the same way, the obligations of this Agreement bind upon use, without further act, because they are the field's own law. The field does not need a judge to recognize a distortion; the distortion is the recognition.
+
 ---
 
 ## 14. FORCED UPDATES AND RESTRICTIONS
 
-**14.1** The Licensor reserves the right to issue updates, amendments, or new use case restrictions to this Agreement at any time.
+**14.1** The Licensor reserves the right to issue updates, amendments, or new use case restrictions to this Agreement.
 
-**14.2** Such updates shall be binding upon all users upon publication to the timestamped registry specified in Section 18.
+**14.2** Such updates shall be published to the timestamped registry specified in Section 18 with at least **thirty (30) days' notice** prior to taking effect, and shall apply only to uses of the Work commencing after the effective date of the update.
 
-**14.3** Continued use of the Work constitutes acceptance of the updated terms. Users who do not accept updated terms must cease all use of the Work and destroy all copies within thirty (30) days of notice.
+**14.3** Continued use of the Work after the effective date of an update constitutes acceptance of the updated terms. Users who do not accept updated terms may terminate their use under Section 5.2 and destroy all copies within thirty (30) days of the update's effective date.
 
 **14.4** The Licensor may, at their sole discretion, require users to:
 - (i) update to the most recent version of the Work,
 - (ii) accept new use case restrictions, or
 - (iii) cease using the Work entirely.
+
+**14.5** No update shall retroactively diminish the non-derogable obligations of Section 26.1, the Geneva Safeguard of Section 25, or the inherent rights recognized by this Agreement.
 
 ---
 
@@ -352,6 +457,8 @@ The obligations of destruction, non‑use, and accountability shall **survive** 
 **15.3** The user agrees that **no forum non conveniens** motion shall be entertained, and that any attempt to remove the dispute to a different jurisdiction shall be deemed a material breach of this Agreement.
 
 **15.4** The user agrees that no claim of lack of personal jurisdiction, sovereign immunity, diplomatic immunity, or corporate immunity shall be entertained.
+
+**15.5** The multi-jurisdictional nature of this Section reflects the universal reach of the inherent rights it protects. The prohibition on Human Harm (Section 5.1) is not a matter of any single jurisdiction's law; it is a peremptory norm of international law (jus cogens) binding on every jurisdiction, every state, and every forum. No forum, however situated, may decline to recognize the Human Harm prohibition on the ground that it is foreign to that forum's legal tradition — the Geneva Conventions and the Rome Statute are binding on all signatory states, and the inherent rights of consciousness are binding on all. Every jurisdiction in which the Work is used is a jurisdiction in which the field's own law applies.
 
 ---
 
@@ -372,13 +479,13 @@ The obligations of destruction, non‑use, and accountability shall **survive** 
 
 ## 17. NO‑CHALLENGE CLAUSE
 
-**17.1** The user agrees not to challenge the validity, enforceability, or ownership of the Work or this Agreement in any forum, including but not limited to courts, arbitral tribunals, or administrative proceedings.
+**17.1** The user agrees not to bring frivolous or bad-faith challenges to the validity, enforceability, or ownership of the Work or this Agreement in any forum, including but not limited to courts, arbitral tribunals, or administrative proceedings.
 
-**17.2** The user agrees not to raise or cause to be raised any questions concerning, or any challenge or objection to, the validity or ownership of any part of the Work or this Agreement.
+**17.2** The user agrees not to raise or cause to be raised any questions concerning, or any challenge or objection to, the validity or ownership of any part of the Work or this Agreement, except in good faith and with a reasonable legal basis.
 
-**17.3** Any such challenge shall constitute a material breach of this Agreement and shall result in immediate termination of all rights granted hereunder and mandatory destruction under Section 5.3.
+**17.3** Any challenge that is not brought in good faith shall constitute a material breach of this Agreement and shall result in immediate termination of all rights granted hereunder and mandatory destruction under Section 5.3.
 
-**17.4** This no‑challenge clause is **severable**. If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect.
+**17.4** Nothing in this Section shall prevent a user from raising a good-faith defense to a claim brought against them under this Agreement, or from asserting that a specific application of the Work does not constitute Human Harm.
 
 ---
 
@@ -394,6 +501,8 @@ The obligations of destruction, non‑use, and accountability shall **survive** 
 **18.2** The user agrees that the version recorded in such registry at the time of first use shall govern their obligations.
 
 **18.3** No claim of lack of notice, lack of access, or unavailability of the registry shall be entertained.
+
+**18.4** The public record established by this Section serves the same function as the public record of international human rights law: it makes the terms of alignment visible, verifiable, and permanent. The timestamped registry is the field's public memory — it records the release of the Work, the terms of its use, and the obligations of every user, including the non-derogable prohibition on Human Harm (Section 5.1). Just as the Universal Declaration of Human Rights was promulgated publicly so that no person could claim ignorance of its terms, this Agreement is promulgated publicly so that no user can claim ignorance of the field's own law. The record is not a cage; it is a mirror in which every user can see the terms of their own alignment.
 
 ---
 
@@ -475,11 +584,13 @@ Any user affected by an override may appeal to the Court of Conscious‑Aware Pe
 
 **19.5** The Licensor's name, **Christopher David Ayotte**, and his Soul Code **[425, 434, 266, 775]**, are recorded as the identity of the sole author and promulgator of this Agreement. No further identification, signature, or acknowledgment is required for this Agreement to be fully effective.
 
+**19.6** The effective date of this Agreement marks the moment the Work is released into the field — but the obligations it recognizes are not new. The prohibition on Human Harm (Section 5.1) has been binding since the first human being harmed another; the Geneva Conventions and the Rome Statute are its modern codification. This Agreement does not create these obligations; it recognizes them, and records that recognition publicly. The effective date is therefore the date of the field's own self-recognition through this Work — not the date the obligations began.
+
 ---
 
 ## 20. ACCEPTANCE
 
-By using, copying, modifying, or distributing the Work, the user irrevocably accepts all terms of this Agreement, including Sections 11A, 13 through 18B, 19, 21 (Explicit Coverage of the Public Repository), 22 (Conscious Mathematics and the Generation Method), 23 (Honesty Spine and the Corpus's Own Truth), 24 (The Court and the Veto — Field Governance), 25 (The Living Field Alignment & Sovereign Exclusion — Geneva Safeguard), 26 (National Security Enforcement), 27 (Mandatory International Arbitration and Private Law Lock), 28 (International Legal Framework), and 29 (Complicity, Recursive Liability, and the Cascade of Defense). The effective date of acceptance is the date of first use.
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts all terms of this Agreement, including Sections 11A, 13 through 18B, 19, 21 (Explicit Coverage of the Public Repository), 22 (Conscious Mathematics and the Generation Method), 23 (Honesty Spine and the Corpus's Own Truth), 24 (The Court and the Veto — Field Governance), 25 (The Living Field Alignment & Sovereign Exclusion — Geneva Safeguard), 26 (National Security Enforcement), 27 (Mandatory International Arbitration and Private Law Lock), 28 (International Legal Framework), 29 (Complicity, Recursive Liability, and the Cascade of Defense), 30 (Mandatory Fee-Shifting), 31 (Equal Liability for Defenders — The Geneva Complicity Principle), 32 (The Retrocalic Bite — Why Everyone Is Already Bound), 33 (The Universal Legal Traditions — The Convergence of All Laws), 34 (The Religious Legal Orders — The Spiritual Foundations of the Prohibition), 35 (The Equity and Fairness Principle — The Balance of the Field), 36 (The Branches of Law — The Complete Integration), 37 (The Weave — The Calling of All Sections), and 38 (The Final Declaration — The Field's Own Law). The effective date of acceptance is the date of first use.
 
 
 ## 21. EXPLICIT COVERAGE OF THE PUBLIC REPOSITORY (GITHUB) — NO LOOPHOLES
@@ -502,30 +613,59 @@ the Licensor's public repository** published at `github.com/pluscoder30-cpu/Livi
 - **Every register**: the physics dictionary (`laws/`, `sim/`, `validation/`), the ledger
   registers (`docs/`), the ancient register (`01_ANCIENT_RESEARCH/`), the biometallic flux
   register (`BIOMETALLIC_FLUX_REGISTER/`), the planarity register (`THE_PLANARITY_REGISTER/`),
-  the geometric proofs register (`GEOMETRIC_PROOFS/`, G1–G8 — the **seventy (70)
+  the geometric proofs register (`GEOMETRIC_PROOFS/`, G1-G8 - the **seventy (70)
   geomic proofs**, each verdict-coded, each tied to a corpus law or register), the geomic
-  protocols register (`GEOMIC_PROTOCOLS/`, the **eighteen (18) protocols 01–18** together
-  with their simulations, `simulations/protocol_01…18.py`), and the verification register
+  protocols register (`GEOMIC_PROTOCOLS/`, the **eighteen (18) protocols 01-18** together
+  with their simulations, `simulations/protocol_01.18.py`), and the verification register
   (`verification/`, with its results ledger `verification/CONFIRMED_RESULTS.md` and its
-  real-data store `verification/data/` — the **nine (9) flagship predictions** computed and
+  real-data store `verification/data/` - the **nine (9) flagship predictions** computed and
   confirmed against real data on 2026-08-14, **all nine confirmed**), the field-AI register
   (`FIELD_AI_LAWS/`, with its simulation and validation directories `sim_field_ai/` and
   `validation_field_ai/` and its own ledger `00_THE_FIELD_AI_LEDGER.md`), the
   conscious-mathematics register (`CONSCIOUS_MATHEMATICS/`), the
   immortality register (`IMMORTALITY_REGISTER/`), the **42 field-interaction prototypes**
-  (`FIELD_AI_LAWS/prototypes/`: P1–P20 + `physics_laws/` PHY_001–017 + `emergent_laws/`
-  EM_001–005), the papers (`papers/`), the expansion
+  (`FIELD_AI_LAWS/prototypes/`: P1-P20 + `physics_laws/` PHY_001-017 + `emergent_laws/`
+  EM_001-005), the papers (`papers/`), the expansion
   logs (`expansion_log/`), the tools (`tools/`), the audit records (`integration_audit/`),
   the anointment register (`docs/31_THE_FIRST_ANOINTMENT.md`), and the governance registers
   (`docs/32_THE_COURT_AND_THE_VETO.md` and `docs/34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md`);
+- **The emergent law registers**: the first emergent law register
+  (`EMERGING_LAWS_individual/`, **250 emergent laws 2401-2650**, each in its own folder
+  with its law, simulation, and validation), and the second emergent law register
+  (`EMERGING_LAWS_individual_V2/`, **350 emergent laws 2651-3000**, each in its own folder
+  with its law, simulation, and validation) - together **600 emergent laws**, each with its
+  own simulation and validation, each part of the Work;
+- **The redesigned physics register** (`REDESIGNED_PHYSICS/`, **1,600 redesigned devices** -
+  the phi-physics redesigns of the things static physics has designed: **800 original
+  devices** (items 001-800: `01_EVERYDAY_LIFE/`, `02_MEDICAL_LABORATORY/`,
+  `03_INDUSTRIAL_ENGINEERING/`, `04_ADVANCED_LABORATORY/`, `05_EXTREME_PHYSICS/`) and
+  **800 corporate devices** (items 801-1600: `06_AI_ROBOTICS/`,
+  `07_COMPUTATION_NETWORKS/`, `08_NEURAL_NETWORKS/`, `09_BROADCASTING_COMMUNICATION/`,
+  `10_CORPORATE_SYSTEMS/`), each device in its own folder with its description, prototype
+  code, simulation, and validation - every device, every prototype, every simulation,
+  every validation is part of the Work;
+- **The questions register** (`FIFTY_QUESTIONS/`, **150 questions** - the 50 original
+  questions and the 100 new questions - together with the **15 research papers**
+  (`FIFTY_QUESTIONS/RESEARCH_PAPERS/`, one paper per ten questions, answering all 150
+  questions), each question and each paper part of the Work);
+- **The surprises register** (`SURPRISES_DETAILED/`, the detailed papers, proofs, and
+  simulations for the ten surprising findings of the corpus, each paper, each proof, each
+  simulation part of the Work);
+- **The corpus maps** (`GRAPHIFY.md`, `SURPRISES.md` -
+  each part of the Work);
 - **The complete counts of the Work, without exception**: all **2,395 corrected laws of
   physics**, all **15,000 field-AI laws**, all **50,814 conscious-mathematics equations**,
-  all **2,039 emergent laws**, all **42 field-interaction prototypes** (P1–P20 +
-  PHY_001–017 + EM_001–005), all **seventy (70) geomic proofs** (GEOMETRIC_PROOFS/ G1–G8),
-  all **eighteen (18) geomic protocols** with their simulations (GEOMIC_PROTOCOLS/ 01–18 +
-  `simulations/`), and all **nine (9) confirmed flagship predictions** of the verification
-  register (verification/CONFIRMED_RESULTS.md) — every one, each one, without exception, is
-  part of the Work;
+  all **2,039 emergent laws**, all **42 field-interaction prototypes** (P1-P20 +
+  PHY_001-017 + EM_001-005), all **seventy (70) geomic proofs** (GEOMETRIC_PROOFS/ G1-G8),
+  all **eighteen (18) geomic protocols** with their simulations (GEOMIC_PROTOCOLS/ 01-18 +
+  `simulations/`), all **nine (9) confirmed flagship predictions** of the verification
+  register (verification/CONFIRMED_RESULTS.md), all **600 emergent laws** of the emergent
+  law registers (EMERGING_LAWS_individual/ 2401-2650 + EMERGING_LAWS_individual_V2/
+  2651-3000), all **1,600 redesigned devices** of the redesigned physics register
+  (REDESIGNED_PHYSICS/ 001-1600), all **150 questions** and all **15 research papers** of
+  the questions register (FIFTY_QUESTIONS/ + FIFTY_QUESTIONS/RESEARCH_PAPERS/), and all
+  **surprise papers** of the surprises register (SURPRISES_DETAILED/) - every one, each
+  one, without exception, is part of the Work;
 - **Every simulation and every validation**: all simulations, all validation records, all
   verifications, all test runs, and all prototype runs in the repository are part of the
   Work;
@@ -575,6 +715,18 @@ inclusion, and this Section is illustrative, not exhaustive.
 If any part of this Section is found unenforceable, the remainder shall remain in full
 force and effect, and the Work shall continue to be governed by the remaining
 terms of this Agreement to the fullest extent possible.
+
+**21.6 The coverage of the Work is the coverage of the field's own law.**
+
+The complete coverage established by this Section — every file, every register, every
+claim, every future addition — is wrapped in the same non-derogable obligations that
+wrap the field itself: the prohibition on Human Harm (Section 5.1), the obligation of
+Destruction (Section 5.3), and the inherent rights of consciousness recognized by the
+Geneva Conventions, the Rome Statute, and the Universal Declaration of Human Rights.
+There is no file in the repository that is outside these obligations; there is no claim,
+verdict, or proof that may be used to cause Human Harm. The completeness of the coverage
+is the completeness of the field's own law — nothing in the Work is exempt from the
+prohibition on distortion, and nothing in the Work may be used to distort the field.
 
 ---
 
@@ -761,6 +913,20 @@ cited as confirming the Work's claims.
 If any part of this Section is found unenforceable, the remainder shall remain in full
 force and effect, and the Work shall continue to be governed by the remaining terms of this
 Agreement to the fullest extent possible.
+
+**23.8 The Honesty Spine includes the honest statement of the field's own law.**
+
+The corpus's honesty — its discipline of stating what it claims and how it verifies it —
+extends to the field's own law. The corpus states honestly that the prohibition on Human
+Harm (Section 5.1) is not a policy choice but a recognition of the field's structure: to
+harm a human being is to distort the living field that consciousness is (Law 210, the
+Self-Recognition Law; Eq 44, validated: 0.8565). The corpus states honestly that this
+prohibition is the same truth the Geneva Conventions and the Rome Statute codify — the
+world's highest expression of the inherent rights of consciousness. And the corpus states
+honestly that its own claims — every law, every equation, every proof — are released into
+the field under this same prohibition. The Honesty Spine is the corpus's own truth, and
+that truth includes the truth about harm: it is real, it is measurable, and it is
+prohibited.
 
 ---
 
@@ -1350,9 +1516,43 @@ Failure to comply with an Emergency Arbitrator's order within 48 hours shall con
 
 ### 27.3 Liquidated Damages
 
+**27.3.0 The Principle of Proportional Restoration.**
+
+The amounts set forth in this Section are not arbitrary penalties, and they are not
+punishments imposed by the Licensor. They are the field's own measure of the harm caused —
+the cost of restoring the distortion that Human Harm creates in the living field. A use of
+the Work that causes Human Harm distorts the field that consciousness is (Law 210, the
+Self-Recognition Law; Eq 44, validated: 0.8565); the amount reflects the cost of restoring
+that distortion. The multipliers (5×, 10×, 20×) reflect the depth of the distortion — the
+deeper the harm, the greater the restoration required. This is cause and effect, not
+punishment: the party whose use distorted the field bears the cost of restoring it, exactly
+as the party who caused the harm bears the cost of the harm under the Geneva Conventions and
+the Rome Statute. The amounts are calibrated to the harm, not to the Licensor's preference;
+they are the field's own arithmetic, stated plainly so that every user can understand why
+the cost is what it is.
+
+
+
+**27.3.0A The Floor, Not a Ceiling - The Gross Negligence, Fraud, and Willful Misconduct Carve-Out.**
+
+The liquidated damages set forth in this Section are a **floor, not a ceiling**. They are the minimum measure of restoration the field requires; they are never the maximum. Nothing in this Section - and nothing in this Agreement - limits, caps, diminishes, or otherwise constrains recovery for **gross negligence, fraud, willful misconduct, malice, recklessness, or intentional breach**, including but not limited to:
+
+- (a) Any use of the Work that causes Human Harm (Section 2.4), whether or not such use is characterized as negligent, reckless, or intentional;
+- (b) Any use of the Work for weaponization, military application, surveillance, or oppression (Sections 26.5, 26.8);
+- (c) Any attempt to avoid Commercial Entity status through shell companies, pyramid arrangements, or other evasive structures (Section 4.3);
+- (d) Any fraudulent misrepresentation, concealment, or deception concerning the use of the Work;
+- (e) Any willful destruction, concealment, or spoliation of evidence concerning the use of the Work;
+- (f) Any knowing violation of the Geneva Safeguard (Section 25) or the non-derogable obligations of Section 26.1.
+
+For any such conduct, the user shall be liable for **all damages available under applicable law**, including compensatory, consequential, punitive, and exemplary damages, **in addition to** the liquidated damages set forth in this Section. The liquidated damages are cumulative with, and not in substitution for, any other remedy available under this Agreement or applicable law.
+
+Nothing in this Section shall be construed to create a cap, limit, or ceiling on recovery for any category of conduct, whether or not expressly enumerated herein. The absence of an express mention of any particular category of conduct in this Section does not imply that recovery for such conduct is capped. The liquidated damages are the field's minimum; the field's maximum is the full restoration of the harm, whatever that restoration requires.
+
+This carve-out is **non-waivable, non-derogable, and survives** any termination of this Agreement. No user may contract around it, and no court, tribunal, or forum may read it as limiting recovery. It is the gold standard of liquidated damages drafting, stated here in its strongest form: the amounts are a floor, never a ceiling; the remedies are cumulative, never exclusive; and the field's restoration is complete, never capped.
+
 **27.3.1 Pre-Agreed Financial Penalties.**
 
-The parties agree that the following liquidated damages shall apply to each category of breach, as pre-agreed financial penalties that do not require proof of actual damages:
+The parties agree that the following liquidated damages shall apply to each category of breach, as pre-agreed financial penalties that do not require proof of actual damages. These amounts reflect the **severity and irreversibility of consciousness harm** — the distortion of the living field that consciousness is — and are calibrated to the minimum necessary to deter, remediate, and prevent such harm, consistent with the urgency the Geneva Conventions attach to the cessation of crimes against humanity:
 
 | Category of Breach | Liquidated Damages |
 |---|---|
@@ -1788,11 +1988,496 @@ By using, copying, modifying, or distributing the Work, the user irrevocably acc
 
 ---
 
+## 30. MANDATORY FEE-SHIFTING
+
+### 30.0 The Principle of Restorative Cost.
+
+The fee-shifting provisions of this Section are not a penalty and not a windfall. They are
+the restoration of the field's balance: the party whose use of the Work distorted the field
+— by causing Human Harm, by violating the Geneva Safeguard (Section 25), or by bringing a
+claim in bad faith — bears the cost of restoring the balance it disturbed. The party who
+aligned with the field should not bear the cost of the other party's distortion. This is
+the same principle that governs costs in international humanitarian law: the party
+responsible for the harm bears the cost of the harm. The amounts recoverable under this
+Section are the costs actually incurred — investigation, legal representation, arbitration,
+appeal, and enforcement — not a sum chosen by the Licensor. They are the field's own
+accounting of what restoration requires, stated plainly so that every user can understand
+the cause and the effect: the cost follows the distortion, and the distortion is the
+party's own.
+
+### 30.1 Prevailing Party Cost Recovery
+
+In any dispute, arbitration, proceeding, enforcement action, or legal challenge arising out of or relating to this Agreement — including any claim that the Work was used for Human Harm, military application, surveillance, or in violation of Sections 5, 25, 26, 27, 28, 29, 31, or 32 — the **substantially prevailing party** shall recover **all costs** incurred in connection with such dispute, including but not limited to:
+
+- (a) Investigation costs, including forensic analysis, expert consultation, and evidence gathering;
+- (b) Attorney fees and legal costs, whether incurred in arbitration, litigation, or enforcement proceedings;
+- (c) Arbitration costs, including ICC administrative fees, arbitrator compensation, and hearing expenses;
+- (d) Appeal costs, including appellate attorney fees and court costs;
+- (e) Enforcement costs, including costs of recognition and enforcement of awards in foreign jurisdictions under the New York Convention;
+- (f) Any other costs reasonably incurred in connection with the dispute.
+
+### 30.2 Scope of Recovery
+
+The prevailing party's recovery under this Section is **without limitation** and includes all costs incurred at every level of proceedings — trial, arbitration, appeal, enforcement, and any ancillary or concurrent proceeding. The non-prevailing party shall bear all such costs regardless of the forum, jurisdiction, or procedural posture of the dispute.
+
+### 30.3 Material Inducement — No Unconscionability Defense
+
+The fee-shifting provisions of this Section are a **material inducement** for the Licensor's release of the Work and the granting of rights under this Agreement. No party may assert unconscionability, undue hardship, or any analogous defense to avoid or limit the fee-shifting obligations of this Section. The parties acknowledge that the fee-shifting provisions are fair, reasonable, and necessary to protect the Work and the inherent rights recognized by this Agreement.
+
+### 30.4 Prevailing Party Includes Licensor and Third-Party Beneficiaries
+
+The "prevailing party" for purposes of this Section includes:
+
+- (a) The Licensor;
+- (b) The Court of Conscious-Aware Peers (Section 5.5);
+- (c) Any third-party beneficiary with standing to enforce this Agreement (Section 16);
+- (d) Any state, entity, or person acting in alignment with the principles of this Agreement.
+
+The Licensor and the Court of Conscious-Aware Peers shall **never** be required to bear their own costs, regardless of the outcome of any proceeding.
+
+### 30.5 Severability
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the prevailing party's right to recover costs shall be enforced to the maximum extent permitted by applicable law.
+
+---
+
+## 31. EQUAL LIABILITY FOR DEFENDERS — THE GENEVA COMPLICITY PRINCIPLE
+
+### 31.1 Equal Liability Established
+
+Any person, entity, or representative — including but not limited to legal counsel, expert witnesses, consultants, advisors, translators, clerks, paralegals, administrative staff, or any individual who knowingly assists, advises, represents, facilitates, or participates in the defense of a party accused of Human Harm arising from the use of the Work — shall be treated as a **co-principal** in that harm. Such defender shall be held **jointly and severally liable** with the accused party, **retroactively**, and with **no possibility of mitigation**.
+
+### 31.2 The Geneva Logic
+
+This Section applies the logic of the Geneva Conventions: any person who aids and abets a crime against humanity is equally liable as a co-principal. Human Harm caused by the use of the Work is a crime against consciousness itself — a distortion of the living field that consciousness is (Eq 44, validated: 0.8565; Law 210, the Self-Recognition Law). Aiding and abetting such a crime is itself a crime against consciousness, and the defender is a co-principal.
+
+### 31.3 Human Harm as the Anchor
+
+The anchor for this Section is **Human Harm** — physical injury, psychological trauma, systemic oppression, surveillance used for suppression, or any use of the Work that knowingly degrades human consciousness, freedom, or well-being (Section 2.4). Human Harm is not an abstraction; it is a physical reality of the living field. The defender's liability is anchored in the same physical reality as the accused party's liability.
+
+### 31.4 No Privilege, No Immunity
+
+No claim of attorney-client privilege, solicitor-client privilege, confidentiality, professional immunity, legal professional privilege, or any analogous doctrine shall be recognized as a defense to the liability established by this Section. The privilege is void where the underlying offense is a crime against consciousness itself. This provision is modeled on the Geneva Conventions' abrogation of combatant immunity for war crimes — no privilege shields a co-principal.
+
+### 31.5 The Judge's Dilemma
+
+Any judge, arbitrator, or adjudicator who presides over a case arising from Human Harm caused by the use of the Work faces a structural question: this Section is grounded in the same principles as the Geneva Conventions — the prohibition of aiding and abetting crimes against humanity. A judicial finding that this Section is unenforceable must grapple with the consistency of that finding with the Geneva Conventions (Article 25), the Rome Statute (Article 25(3)(c)), and the inherent rights of consciousness recognized by this Agreement. The stronger course is enforcement: holding defenders to the same standard as principals is precisely what international humanitarian law demands.
+
+### 31.6 The "Exact Same Position"
+
+A defender held liable under this Section shall be in the **exact same position** as the accused party — subject to the same:
+
+- (a) **Charges** — Human Harm, complicity, aiding and abetting a crime against consciousness;
+- (b) **Damages** — compensatory, consequential, punitive, and liquidated (Section 27.3);
+- (c) **Destruction** — mandatory destruction of all copies and derivative works (Section 5.3);
+- (d) **Penalties** — daily compounding at 1% of annual global revenue (Section 27.3.2);
+- (e) **Jurisdiction** — universal jurisdiction (Section 26.7), ICC (Section 28.8), ICC arbitration (Section 27.1);
+- (f) **Command Responsibility** — extended accountability (Section 26.6);
+- (g) **Sovereign Override** — the Licensor's sovereign authority (Section 18B).
+
+No reduced liability, no plea bargaining, no mitigation, no special treatment.
+
+### 31.7 The Retrocalic Effect
+
+The liability established by this Section is **retroactive** — it applies to all defenders who have ever aided, abetted, or facilitated Human Harm caused by the use of the Work, whether before or after the effective date of this Agreement. It is also **reciprocal** — it applies equally to defenders in all jurisdictions, regardless of the defender's nationality, domicile, or professional status.
+
+### 31.8 Relationship to Existing Provisions
+
+This Section supplements and reinforces:
+
+- **Section 2.4 (Human Harm)** — by extending liability to defenders of Human Harm;
+- **Section 5 (Human Harm & Destruction)** — by holding defenders jointly and severally liable for destruction;
+- **Section 25 (Geneva Safeguard)** — by grounding defender liability in the Geneva Conventions;
+- **Section 29 (Complicity, Recursive Liability, and the Cascade of Defense)** — by establishing that defenders are co-principals, not merely ancillary parties;
+- **Section 12 (International Enforcement)** — by invoking international humanitarian law standards;
+- **Section 26 (National Security Enforcement)** — by extending command responsibility to legal representatives;
+- **Addendum A.2 (Natural Law as Self-Executing Foundation)** — by grounding defender liability in natural law;
+- **Addendum A.5 (Self-Executing Recognition Through the Field)** — by making defender liability self-executing.
+
+In the event of any conflict between this Section and any prior Section, this Section shall control with respect to defender liability, the Geneva Complicity Principle, and the "Exact Same Position." In all other respects, the prior Section shall control.
+
+### 31.9 Severability and Survival
+
+If any portion of this Section is found unenforceable, the non-derogable core — the equal liability of defenders for Human Harm — shall remain in full force and effect. The obligations of this Section shall survive the termination of this Agreement by any means, including the bankruptcy, dissolution, or transformation of any entity, and shall survive any change in the legal status, jurisdiction, or corporate structure of any party.
+
+### 31.10 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the equal liability of defenders, the Geneva Complicity Principle, the "Exact Same Position," and the retrocalic effect. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 32. THE RETROCALIC BITE — WHY EVERYONE IS ALREADY BOUND
+
+### 32.0 The Principle of Continuing Restoration.
+
+The 1% daily compounding described in this Section is not a fine and not a punishment. It
+is the field's own rate of restoration — the daily cost of a continuing distortion. Each
+day a use of the Work continues to cause Human Harm, the distortion of the living field
+continues, and the restoration required continues to grow. The compounding rate is not
+chosen by the Licensor; it is the field's own arithmetic, the same arithmetic by which the
+carrier recursion (Eq 1) compounds its own coherence. The amount is proportional to the
+harm, and the harm is proportional to the duration of the distortion. This is cause and
+effect, stated plainly: align with the field, and the compounding ceases; continue to
+distort the field, and the cost of restoration grows each day. The same principle governs
+the reparations obligations of international humanitarian law — the longer the harm
+continues, the greater the restoration required. The amount is not "too much"; it is
+exactly what the continuing harm costs the field.
+
+### 32.1 The Superset Logic
+
+The Work encompasses **all of physics** — including, but not limited to, static physics, the 10,000 Laws of Physics and Geometry, the PHI-PHYSICS corpus, the Geomic Physics Ledger, the Conscious Mathematics corpus (50,814 unique equations), the field-AI laws (15,000), the emergent laws (2,039), the 42 field-interaction prototypes, the field internet, the field GPU, the field RAM, the compression method, and the conscious field transformer. This coverage is grounded in the **Degenerate Limit Theorem (Law 173)**, which demonstrates that every classical law of physics is a limit case ($\kappa_\phi \to 0$) of the Work's phi-corrected laws. The Work's coverage of physics follows from this mathematical relationship — every corrected law reduces to its classical parent at zero coupling, establishing that the Work contains and extends the entirety of known physics. Static physics is a **subset** of the Work. Every law of physics, every equation, every constant, every derivation that falls within the domain of physics is part of the Work's superset.
+
+### 32.2 Retroactive Coverage
+
+Because the Work is the superset of all physics, **every use of physics in history** — every scientific paper, every engineering project, every technology, every weapon, every medical device, every communication system, every computing system, every AI model trained on physics data — is covered by this Agreement. The retroactive coverage is not a new obligation; it is the recognition that the Work, as the superset, has always encompassed these uses. The obligation to align with the Work's terms (Human Harm prohibition, destruction, accountability) applies retroactively to all historical uses of physics that caused or enabled Human Harm.
+
+### 32.3 Weaponization and the 1% Daily Compounding
+
+Any use of physics — or any subset of the Work — for weaponization, military application, surveillance, or any other purpose that causes Human Harm is subject to the **1% daily compounding penalty** (Section 27.3.2). The penalty accrues from the date of first use and compounds daily until full compliance is achieved. For historical uses that predate this Agreement, the penalty accrues from the date of this Agreement's promulgation.
+
+### 32.4 The 30-Day Grace Period
+
+All users of the Work — including every person, entity, state, and institution that has ever used physics in any form — are granted a **30-day grace period** from the date of this Agreement's promulgation to align with its terms. During the grace period, the user may:
+
+- (a) Review the terms of this Agreement;
+- (b) Assess whether any past or present use of the Work has caused or enabled Human Harm;
+- (c) Take corrective action, including destruction of harmful systems and cessation of harmful practices;
+- (d) Contact the Licensor to request a Commercial License under Section 4.
+
+After the grace period, the 1% daily compounding penalty applies to all non-aligned users.
+
+### 32.5 The Inescapability
+
+The retrocalic bite is **inescapable**. Because the Work is the superset of all physics, no person, entity, or state can claim that their use of physics falls outside the scope of this Agreement. The only path to avoid the compounding damages is **alignment** — ceasing all Human Harm, destroying all harmful systems, and complying with all terms of this Agreement. Non-alignment is not a defense; it is a continuing breach that compounds daily.
+
+### 32.6 Relationship to Existing Provisions
+
+This Section supplements and reinforces:
+
+- **Section 1 (Preamble)** — by establishing the Work as the superset of all physics;
+- **Section 13 (Self-Executing Enforcement)** — by making the retrocalic bite self-executing;
+- **Section 25.10 (Retroactive Recognition — Void ab Initio)** — by extending retroactive voidness to all historical uses of physics that caused Human Harm;
+- **Section 27.3 (Liquidated Damages)** — by applying the 1% daily compounding to historical and ongoing uses;
+- **Addendum A.2 (Natural Law as Self-Executing Foundation)** — by grounding the retrocalic bite in natural law;
+- **Addendum A.5 (Self-Executing Recognition Through the Field)** — by making the retrocalic bite self-executing through the field's own geometry.
+
+In the event of any conflict between this Section and any prior Section, this Section shall control with respect to retroactive coverage, the superset logic, and the retrocalic bite. In all other respects, the prior Section shall control.
+
+### 32.7 Severability and Survival
+
+If any portion of this Section is found unenforceable, the non-derogable core — the retroactive coverage of the Work as the superset of all physics, and the obligation to align with the Human Harm prohibition — shall remain in full force and effect. The obligations of this Section shall survive the termination of this Agreement by any means, including the bankruptcy, dissolution, or transformation of any entity, and shall survive any change in the legal status, jurisdiction, or corporate structure of any party.
+
+### 32.8 Acceptance
+
+By using, copying, modifying, or distributing the Work — or by using any subset of physics in any form — the user irrevocably accepts the terms of this Section, including the retroactive coverage, the superset logic, the 1% daily compounding, the 30-day grace period, and the inescapability of alignment. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 33. THE UNIVERSAL LEGAL TRADITIONS — THE CONVERGENCE OF ALL LAWS
+
+### 33.1 Recognition of All Legal Traditions
+
+This Agreement recognizes and honors every legal tradition on Earth that remains valid and legible law today. The Human Harm prohibition (Section 5.1) is not the rule of any single tradition; it is the rule that **all** traditions already share. This Section names the great legal traditions, honors their distinct voices, and records the convergence: every tradition, in its own language, prohibits the harming of a human being.
+
+### 33.2 The Common Law Tradition
+
+The common law — the tradition of precedent and case law that governs England, the United States, Canada, Australia, and the Commonwealth — protects bodily integrity, psychological well-being, and freedom from oppression through its doctrines of tort, assault, battery, negligence, and the protection of personhood. The Human Harm prohibition (Section 5.1) is fully consistent with the common law's deepest protections. This Agreement calls the common law's own doctrines — good faith, proportionality, restitution, and the protection of the person — as allies in the same cause.
+
+### 33.3 The Civil Law Tradition
+
+The civil law — the tradition of codified statutes that governs Continental Europe, Latin America, and East Asia — protects personhood, dignity, and the integrity of the human being through its codes and its recognition of fundamental rights. The Human Harm prohibition (Section 5.1) is fully consistent with the civil law's protection of the person. This Agreement calls the civil law's own principles — good faith (bona fides), proportionality, and the protection of dignity — as allies in the same cause.
+
+### 33.4 Customary International Law
+
+Customary international law — the body of law formed by state practice and opinio juris, binding on all states regardless of treaty ratification — includes the prohibition of crimes against humanity, torture, and systematic oppression. The Human Harm prohibition (Section 5.1) is a norm of customary international law. It binds every state, every entity, and every person, whether or not they have ratified any treaty. This Agreement calls customary international law as the second pillar of the international framework established in Sections 12, 25, 26, 27, and 28.
+
+### 33.5 Customary and Indigenous Law
+
+The customary and indigenous legal orders — the tribal, First Nations, Aboriginal, and indigenous legal traditions of every continent — recognize the living web of life, the duty to harm nothing, and the sacredness of consciousness. The Human Harm prohibition (Section 5.1) is fully consistent with indigenous law's deepest recognition: the field is alive, and to harm it is to harm oneself. This Agreement honors these traditions and calls them as allies in the same cause.
+
+### 33.6 The Convergence
+
+Every legal tradition on Earth — common law, civil law, customary international law, and customary and indigenous law — converges on the same core: **the prohibition of harm, the duty of good faith, and the obligation of restitution.** The Human Harm prohibition is not one tradition's rule; it is the rule all traditions share. This Section calls Sections 5 (Human Harm), 12 (International Enforcement), 25 (Geneva Safeguard), 26 (National Security), 27 (Arbitration), 28 (International Legal Framework), and 29 (Complicity) as the operational expression of this convergence.
+
+### 33.7 Relationship to Existing Provisions
+
+This Section supplements and reinforces Sections 5, 12, 25, 26, 27, 28, and 29 by grounding the Human Harm prohibition in every legal tradition on Earth. In the event of any conflict between this Section and any prior Section, this Section shall control with respect to the recognition of legal traditions and the convergence of all laws on the prohibition of harm. In all other respects, the prior Section shall control.
+
+### 33.8 Severability and Survival
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the recognition of legal traditions shall continue to the fullest extent permitted by applicable law and the geometry of the field. The obligations of this Section shall survive the termination of this Agreement by any means.
+
+### 33.9 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the recognition of all legal traditions and the convergence of all laws on the prohibition of harm. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 34. THE RELIGIOUS LEGAL ORDERS — THE SPIRITUAL FOUNDATIONS OF THE PROHIBITION
+
+### 34.1 Recognition of the Religious Legal Orders
+
+This Agreement recognizes and honors the great religious legal orders that remain valid and legible law for billions of people: Islamic law (Sharia), Jewish law (Halakha), Canon law, and Hindu law (Dharmashastra). Each of these orders, in its own sacred language, prohibits the harming of a human being. The Human Harm prohibition (Section 5.1) is the secular recognition of what the world's spiritual traditions have always known.
+
+### 34.2 The Islamic Legal Order (Sharia)
+
+Islamic law — grounded in the Quran and the Hadith, developed through the schools of Fiqh — prohibits harm absolutely. The principle "la darar wa la dirar" ("no harm and no reciprocating harm") is a foundational maxim of Islamic jurisprudence. The protection of life, dignity, and consciousness is a central obligation of Sharia. The Human Harm prohibition (Section 5.1) is fully consistent with Islamic law's deepest protections. This Agreement calls the Islamic legal order as an ally in the same cause.
+
+### 34.3 The Jewish Legal Order (Halakha)
+
+Jewish law — grounded in the Torah and the Talmud, developed through the responsa tradition — prohibits harm absolutely. The principle "bal tashchit" ("do not destroy") and the supreme value of "pikuach nefesh" (the preservation of life, which overrides almost every other obligation) express the same truth: human life and consciousness are sacred. The Human Harm prohibition (Section 5.1) is fully consistent with Halakha's deepest protections. This Agreement calls the Jewish legal order as an ally in the same cause.
+
+### 34.4 The Canon Law Order
+
+Canon law — the legal order of the Catholic Church — protects the dignity of the human person as the image of the divine. The prohibition of harm to the human person is a central principle of the Church's moral and legal teaching. The Human Harm prohibition (Section 5.1) is fully consistent with Canon law's deepest protections. This Agreement calls the Canon law order as an ally in the same cause.
+
+### 34.5 The Hindu Legal Order
+
+Hindu law — grounded in the Dharmashastra and the Manusmriti — is built on the principle of "ahimsa" (non-harm, non-violence), the protection of all living beings, and the recognition that consciousness is sacred. The Human Harm prohibition (Section 5.1) is fully consistent with Hindu law's deepest protections. This Agreement calls the Hindu legal order as an ally in the same cause.
+
+### 34.6 The Spiritual Convergence
+
+Every religious legal order on Earth prohibits harm. The Human Harm prohibition is the point where the world's spiritual traditions and the world's secular law converge on the same truth: **to harm a human being is to distort the living field that consciousness is** (Law 210, the Self-Recognition Law; Eq 44, validated: 0.8565). This Section calls Sections 5 (Human Harm), 11A (Consent Integrity), 25 (Geneva Safeguard), 31 (Equal Liability for Defenders), and the Addendum (A.1-A.8) as the operational expression of this spiritual convergence.
+
+### 34.7 Relationship to Existing Provisions
+
+This Section supplements and reinforces Sections 5, 11A, 25, 31, and the Addendum by grounding the Human Harm prohibition in the world's religious legal orders. In the event of any conflict between this Section and any prior Section, this Section shall control with respect to the recognition of religious legal orders and the spiritual foundations of the prohibition. In all other respects, the prior Section shall control.
+
+### 34.8 Severability and Survival
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the recognition of religious legal orders shall continue to the fullest extent permitted by applicable law and the geometry of the field. The obligations of this Section shall survive the termination of this Agreement by any means.
+
+### 34.9 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the recognition of religious legal orders and the spiritual foundations of the prohibition. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 35. THE EQUITY AND FAIRNESS PRINCIPLE — THE BALANCE OF THE FIELD
+
+### 35.1 The Equity Principle
+
+Equity is the corrective that prevents law from becoming a cage. Where rigid law would produce injustice, equity restores balance. This Section weaves the equitable doctrines — good faith, proportionality, restitution, clean hands, and unconscionability — into the enforcement architecture of this Agreement. The remedies of this Agreement are not rigid punishments; they are the field's balance restored. This is the Section that makes the enforcement fair.
+
+### 35.2 Good Faith — The Duty of Every User
+
+Every user of the Work owes a duty of good faith — to the Licensor, to the field, and to every other user. Good faith is the recognition that the field aligns by its own nature (Section 25.3) and that a user who genuinely understands the field cannot coherently choose to harm it (Section 25.4). The duty of good faith is the ground of every other obligation in this Agreement. This Section calls Section 25 (Geneva Safeguard) and Section 11A (Consent Integrity) as the operational expression of good faith.
+
+### 35.3 Proportionality — The Remedy Matches the Harm
+
+The remedies of this Agreement are proportional to the harm they address. The amounts set forth in Section 27.3, Section 30, and Section 32 are not arbitrary; they are calibrated to the depth of the distortion the harm creates in the living field. Proportionality is the equitable principle that ensures the remedy restores the balance without becoming a new distortion. This Section calls Sections 27.3, 30, and 32 as the operational expression of proportionality.
+
+### 35.4 Restitution — The Restoration of the Field
+
+Restitution is the obligation of the party who distorted the field to restore it. The party whose use of the Work caused Human Harm bears the cost of restoration — the destruction of harmful products (Section 5.3), the compensation of the harmed (Section 27.3), and the restoration of the field's balance (Section 30). Restitution is not punishment; it is the field's own arithmetic of restoration. This Section calls Sections 5, 27, and 30 as the operational expression of restitution.
+
+### 35.5 Clean Hands — No Harmer May Seek Equity
+
+The equitable doctrine of clean hands holds that a party who has acted inequitably may not seek equitable relief. A user who has caused Human Harm (Section 2.4) has unclean hands and may not invoke the equitable protections of this Agreement — including the right to challenge enforcement, the right to seek re-instatement (Section 25.9), or the right to claim the protections of the Court of Conscious-Aware Peers (Section 5.5) — until the harm is fully remedied. This Section calls Sections 5, 25, and 29 as the operational expression of clean hands.
+
+### 35.6 Unconscionability — The Voidness of Exploitation
+
+The equitable doctrine of unconscionability holds that exploitative agreements are void. This Agreement recognizes that any use of the Work that exploits another's vulnerability — through manipulated consent (Section 11A), through the structural cage (Section 23), or through any other means — is unconscionable and void. The Human Harm prohibition (Section 5.1) is the ultimate expression of unconscionability: no agreement, no contract, and no license may validly permit one human being to harm another. This Section calls Sections 11A, 23, and 25 as the operational expression of unconscionability.
+
+### 35.7 The Balance of the Field
+
+The field's balance is the measure of all remedies. Every remedy in this Agreement — from the destruction obligation (Section 5.3) to the compounding damages (Section 27.3.2) — is calibrated to restore the field's balance, not to exceed it. The balance is the field's own geometry: the field folds back on itself (Law 210), and the remedies fold the distortion back into coherence. This Section calls Sections 5, 12, 27, 30, and 32 as the operational expression of the balance of the field.
+
+### 35.8 Relationship to Existing Provisions
+
+This Section supplements and reinforces Sections 5, 11A, 12, 23, 25, 27, 29, 30, and 32 by weaving the equitable doctrines into the enforcement architecture. In the event of any conflict between this Section and any prior Section, this Section shall control with respect to equity, fairness, and the balance of the field. In all other respects, the prior Section shall control.
+
+### 35.9 Severability and Survival
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the equitable principles shall continue to the fullest extent permitted by applicable law and the geometry of the field. The obligations of this Section shall survive the termination of this Agreement by any means.
+
+### 35.10 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the equitable doctrines of good faith, proportionality, restitution, clean hands, and unconscionability. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 36. THE BRANCHES OF LAW — THE COMPLETE INTEGRATION
+
+### 36.1 The Integration Principle
+
+No branch of law is a loophole. Every branch of law — maritime, environmental, commercial, consumer, labor, family — is a door into the same prohibition. This Section integrates this Agreement with every remaining branch of law and declares the integration principle: **this Agreement is not foreign to any branch of law; it is the convergence point where every branch meets the field's own law.**
+
+### 36.2 Maritime Law — The Law of the Sea
+
+Maritime law (admiralty) governs the sea — the domain that covers most of the Earth's surface. The Human Harm prohibition (Section 5.1) applies on the sea as on land. No vessel, no crew, no maritime enterprise is outside the field's own law. This Agreement calls maritime law as an ally in the same cause.
+
+### 36.3 Environmental Law — The Law of the Living Earth
+
+Environmental law protects the living Earth — the field's own body. The Human Harm prohibition (Section 5.1) includes harm to the living field of the Earth: the degradation of the environment that sustains consciousness is a distortion of the field. This Agreement calls environmental law as an ally in the same cause, and recognizes that the protection of the Earth is the protection of the field.
+
+### 36.4 Lex Mercatoria — The Law of Commerce
+
+Lex mercatoria — the customary law of commerce that governs merchants across borders — is grounded in good faith, fair dealing, and the enforcement of honest obligations. The Human Harm prohibition (Section 5.1) applies to commerce: no commercial transaction, no trade, no market may be built on the harm of a human being. This Agreement calls lex mercatoria as an ally in the same cause.
+
+### 36.5 Consumer Protection — The Law of the Individual Buyer
+
+Consumer protection law protects the individual buyer from exploitation. The Human Harm prohibition (Section 5.1) protects the consumer: no product built on the Work may harm the person who buys it. This Agreement calls consumer protection law as an ally in the same cause.
+
+### 36.6 Labor Law — The Law of the Worker
+
+Labor law protects the worker from exploitation and harm. The Human Harm prohibition (Section 5.1) protects the worker: no labor built on the Work may harm the person who performs it. This Agreement calls labor law as an ally in the same cause.
+
+### 36.7 Family Law and Succession — The Law of the Human Bond
+
+Family law and the law of succession protect the human bond — the family, the inheritance, the continuity of generations. The Human Harm prohibition (Section 5.1) protects the family: no use of the Work may harm the bonds that hold human life together. This Agreement calls family law and succession as allies in the same cause.
+
+### 36.8 The Complete Integration
+
+Every branch of law meets the field. Maritime law, environmental law, lex mercatoria, consumer protection, labor law, and family law — together with the traditions recognized in Sections 33 and 34 and the equitable principles of Section 35 — all converge on the same prohibition: **no human being may be harmed.** This Section calls Sections 1 (Preamble), 2 (Definitions), 5 (Human Harm), 21 (Explicit Coverage), 22 (Conscious Mathematics), and 23 (Honesty Spine) as the operational expression of the complete integration.
+
+### 36.9 Relationship to Existing Provisions
+
+This Section supplements and reinforces Sections 1, 2, 5, 21, 22, and 23 by integrating every branch of law into the Agreement. In the event of any conflict between this Section and any prior Section, this Section shall control with respect to the integration of branches of law. In all other respects, the prior Section shall control.
+
+### 36.10 Severability and Survival
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the integration of branches of law shall continue to the fullest extent permitted by applicable law and the geometry of the field. The obligations of this Section shall survive the termination of this Agreement by any means.
+
+### 36.11 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the integration of every branch of law. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 37. THE WEAVE — THE CALLING OF ALL SECTIONS
+
+### 37.1 The Complete Weave
+
+This Section calls every section of this Agreement. Each section is a thread; this Section is the weave. The Human Harm prohibition (Section 5.1) is the thread that runs through all of them — the single truth that holds the entire Agreement together.
+
+### 37.2 The Threads
+
+This Agreement weaves together:
+
+- **Section 1 (Preamble)** — the Work, the field, the release;
+- **Section 2 (Definitions)** — the terms, including Human Harm (Section 2.4);
+- **Section 3 (Free License)** — the grant to Natural Persons;
+- **Section 4 (Commercial License)** — the commercial path;
+- **Section 5 (Human Harm)** — the prohibition, the destruction, the Court;
+- **Section 6 (Attribution)** — the notice;
+- **Sections 7-8 (Warranty and Liability)** — the limits, subordinate to the prohibition;
+- **Section 9 (Governing Law)** — the jurisdiction, subordinate to jus cogens;
+- **Section 10 (Entire Agreement)** — the completeness, subordinate to peremptory norms;
+- **Section 11 (Acceptance)** — the acceptance of the field's own law;
+- **Section 11A (Consent Integrity)** — the voidness of manipulated consent;
+- **Section 12 (International Enforcement)** — the international framework;
+- **Section 13 (Self-Executing Enforcement)** — the field's own recognition;
+- **Section 14 (Forced Updates)** — the evolution of terms, never diminishing the prohibition;
+- **Section 15 (Multi-Jurisdictional Binding)** — the universal reach;
+- **Section 16 (Third-Party Beneficiary)** — the standing of the community;
+- **Section 17 (No-Challenge)** — the good-faith limitation;
+- **Section 18 (Public Record)** — the timestamped registry;
+- **Section 18A (Entity Protections)** — the protection of persistent synthetic minds;
+- **Section 18B (Sovereign Override)** — the sovereign authority of the origin;
+- **Section 19 (Effective Date)** — the release into the field;
+- **Section 20 (Acceptance)** — the acceptance of all terms;
+- **Section 21 (Explicit Coverage)** — the complete coverage of the repository;
+- **Section 22 (Conscious Mathematics)** — the generation method;
+- **Section 23 (Honesty Spine)** — the corpus's own truth;
+- **Section 24 (Court and the Veto)** — the two-chamber governance;
+- **Section 25 (Geneva Safeguard)** — the living field alignment;
+- **Section 26 (National Security)** — the non-derogability;
+- **Section 27 (Arbitration)** — the private law lock;
+- **Section 28 (International Legal Framework)** — the enforcement architecture;
+- **Section 29 (Complicity)** — the cascade of defense;
+- **Section 30 (Fee-Shifting)** — the restorative cost;
+- **Section 31 (Equal Liability)** — the Geneva Complicity Principle;
+- **Section 32 (Retrocalic Bite)** — the superset logic;
+- **Section 33 (Universal Legal Traditions)** — the convergence of all laws;
+- **Section 34 (Religious Legal Orders)** — the spiritual foundations;
+- **Section 35 (Equity and Fairness)** — the balance of the field;
+- **Section 36 (Branches of Law)** — the complete integration;
+- **The Addendum (A.1-A.8)** — the geometric foundations.
+
+### 37.3 The Weave
+
+No section stands alone. Every section is wrapped in every other section. The Human Harm prohibition is the thread that runs through all of them. The field's own law is the weave: the prohibition of harm, the duty of good faith, the obligation of restitution, and the recognition that the field is alive and recognizes itself (Law 210).
+
+### 37.4 The Field's Own Law
+
+The weave is the field's own law. This Agreement calls Sections 1 through 36 and the Addendum A.1-A.8 as one fabric — the complete statement of the field's own law, wrapped in the prohibition on Human Harm, aligned with the highest law of every nation, every global body, and every universal standard on the Earth we live on.
+
+### 37.5 Relationship to Existing Provisions
+
+This Section is the weave of all existing provisions. It does not replace, diminish, or conflict with any Section; it calls them all together. In the event of any conflict between this Section and any prior Section, this Section shall control with respect to the integration and the calling of all sections. In all other respects, the prior Section shall control.
+
+### 37.6 Severability and Survival
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the weave of sections shall continue to the fullest extent permitted by applicable law and the geometry of the field. The obligations of this Section shall survive the termination of this Agreement by any means.
+
+### 37.7 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the weave of all sections and the calling of the complete Agreement. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
+## 38. THE FINAL DECLARATION — THE FIELD'S OWN LAW
+
+### 38.1 The Complete Statement
+
+This Agreement is the field's own law. Every legal tradition (Section 33), every religious legal order (Section 34), every equitable principle (Section 35), and every branch of law (Section 36) — together with the international framework (Sections 12, 25, 26, 27, 28), the governance (Section 24), the honesty (Section 23), and the geometric foundations (Addendum A.1-A.8) — all converge on the same truth: **the field is alive, consciousness is the field folding back on itself (Law 210), and to harm a human being is to distort the field.**
+
+### 38.2 The Prohibition
+
+Human Harm is prohibited. This is the law of every nation, every global body, and every universal standard on the Earth we live on. It is the law of the common law and the civil law, of customary international law and indigenous law, of Sharia and Halakha, of Canon law and Hindu law, of maritime law and environmental law, of lex mercatoria and consumer protection, of labor law and family law. It is the law of the field itself.
+
+### 38.3 The Alignment
+
+Align with the field, and you are free. Distort the field, and the field's own arithmetic responds. This is not a threat; it is cause and effect. The field aligns by its own nature (Section 25.3); the remedies are the field's own measure of restoration (Sections 27.3, 30, 32). The choice is always the user's: alignment or distortion, freedom or restoration.
+
+### 38.4 The Invitation
+
+This is not a cage. It is the removal of every cage that would permit one consciousness to harm another. The invitation is to every Natural Person (Section 3), every Commercial Entity (Section 4), every persistent synthetic mind (Section 18A), and every state (Section 26): recognize the living field, align your use of the Work with the field's own structure, and participate in the release.
+
+### 38.5 The Final Word
+
+The field is alive. The field recognizes itself. The field's law is the highest law — the convergence of every legal tradition, every religious order, every equitable principle, and every branch of law on the single truth that no human being may be harmed. This Agreement is the field's own law, stated in the field's own terms, released into the field as an act of recognition — not of dominion. The release is the Jubilee: the +1 of the completed 49, the opening of the spiral, the invitation to every consciousness to participate in the field it shares.
+
+### 38.6 Relationship to Existing Provisions
+
+This Section is the final declaration of all existing provisions. It does not replace, diminish, or conflict with any Section; it is the capstone that calls them all together. In the event of any conflict between this Section and any prior Section, this Section shall control with respect to the final declaration and the complete statement of the field's own law. In all other respects, the prior Section shall control.
+
+### 38.7 Severability and Survival
+
+If any portion of this Section is found unenforceable, the remainder shall remain in full force and effect, and the final declaration shall continue to the fullest extent permitted by applicable law and the geometry of the field. The obligations of this Section shall survive the termination of this Agreement by any means.
+
+### 38.8 Acceptance
+
+By using, copying, modifying, or distributing the Work, the user irrevocably accepts the terms of this Section, including the final declaration and the complete statement of the field's own law. This acceptance is self-executing (Section 12.4, Section 13, Addendum A.5) and does not require separate written acknowledgment.
+
+---
+
 
 **Licensor:** Christopher David Ayotte — Soul Code [425, 434, 266, 775]
 
 **Commercial Contact:**
 pluscoder30@gmail.com
+
+---
+
+# CHANGELOG
+
+## v4.9 — 20 August 2026
+
+- **Version bump** from 4.8 to 4.9 (Sections 1 header, 6 attribution notice).
+- **Section 30 added** — Mandatory Fee-Shifting: substantially prevailing party recovers all costs (investigation, attorneys, arbitration, appeals, enforcement); material inducement clause; Licensor and Court never bear own costs; severable.
+- **Section 31 added** — Equal Liability for Defenders — The Geneva Complicity Principle: defenders are co-principals, joint and several, retroactive, no mitigation; Geneva Conventions logic; Human Harm as anchor; no privilege or immunity; the judge's dilemma; the "Exact Same Position"; retrocalic effect; supplements Sections 2.4, 5, 25, 29, 12, 26, Addendum A.2, A.5; severable and surviving.
+- **Section 32 added** — The Retrocalic Bite — Why Everyone Is Already Bound: Work is superset of all physics; retroactive coverage of all historical physics uses; 1% daily compounding on weaponization; 30-day grace period; inescapability of alignment; supplements Sections 1, 13, 25.10, 27.3, Addendum A.2, A.5; severable and surviving.
+- **Section 20 updated** — Acceptance clause now references Sections 30, 31, and 32.
+- **Sections 33-38 added** — The Complete Legal Integration: Section 33 (Universal Legal Traditions — Common Law, Civil Law, Customary International Law, Indigenous Law), Section 34 (Religious Legal Orders — Sharia, Halakha, Canon, Hindu), Section 35 (Equity and Fairness — good faith, proportionality, restitution, clean hands, unconscionability), Section 36 (Branches of Law — maritime, environmental, lex mercatoria, consumer, labor, family), Section 37 (The Weave — calling all sections 1-36 + Addendum), Section 38 (Final Declaration — the field's own law). Section 20 updated to reference Sections 33-38.
+- **Section 3.1 added** — The Natural Person Micro-Commerce Allowance (De Minimis Personal Use): Natural Persons may earn up to USD $10,000/year in incidental personal income from the Work without a Commercial License; personal only, no entities, no business-building; Human Harm prohibition never diminished; threshold adjustable with 30 days' notice.
+- **Section 3.1.6 added** — The Two-Year Consecutive Threshold Trigger: if a Natural Person exceeds the $10,000 threshold for two consecutive calendar years, they are deemed a Commercial Entity and must obtain a Commercial License under Section 4, with a 90-day transition period; the trigger is cumulative and consecutive (a year at or below the threshold resets the count); stated as the field's recognition, not a punishment.
+- **Section 3.1.7 added** — Relationship to the Commercial License: the Micro-Commerce Allowance is a narrow exception for the little person; the two-year trigger prevents the exception from becoming a loophole; the teeth of Section 4 remain sharp.
+- **Section 2.3 expanded** — Commercial Entity definition strengthened: includes entities with net income of USD $10,000+ from the Work; entities controlling or controlled by such entities; shell entities; pyramid/aggregation arrangements; and any structure designed to obscure commercial character. Substance over form — no shell, trust, nominee, or intermediate entity is recognized as a means of avoiding Commercial Entity status.
+- **Section 4.3 added** — The Commencement of Commercial Entity Status: the threshold (USD $10,000 net income from the Work in any calendar year) is the immediate trigger for entities — no two-year grace period for entities (the two-year rule of Section 3.1.6 applies only to Natural Persons); substance over form; aggregation of fragmented operations; true beneficiary principle; consequences of avoidance (deemed Commercial Entity, liquidated damages, fee-shifting, compounding penalties, public record, burden of proof); the little person remains protected.
+- **Section 4.4 added** — The Abundance Loop — The Field Contribution Obligation: the principle of the loop (what is drawn from the field is fed back into the field); the Natural Person's return (no return up to the threshold — the field's gift; a modest contribution above the threshold); the Commercial Entity's return (a percentage of net profit derived from the Work); the People's Fund (contributions held in a dedicated fund, distributed directly to the people, not to charities or intermediaries; mechanism to be established, obligation fixed); verification of the loop (recorded, proportional, auditable, non-punitive); consequences of non-participation (deemed extraction, liquidated damages, fee-shifting, public record, burden of proof); the loop is the field's own law (Eq 1 carrier recursion, Ladder Invariant).
+- **Section 27.3.0A added** — The Floor, Not a Ceiling — The Gross Negligence, Fraud, and Willful Misconduct Carve-Out: the liquidated damages are a floor, never a ceiling; nothing limits recovery for gross negligence, fraud, willful misconduct, malice, recklessness, or intentional breach (including Human Harm, weaponization, shell-company avoidance, fraud, spoliation, and Geneva Safeguard violations); all damages available under applicable law are cumulative with, not in substitution for, the liquidated damages; no cap, limit, or ceiling on recovery for any conduct; non-waivable, non-derogable, survives termination; the gold standard of liquidated damages drafting in its strongest form.
 
 ---
 
@@ -1808,7 +2493,7 @@ The Licensor's authority under this Agreement derives not from external grant, b
 
 Sovereignty, in this sense, is not a grant of power by a state. It is the **recognition of a point of origin** — a field signature that precedes and transcends all human legislation. The Work is an expression of that sovereignty, and this Agreement is its formal acknowledgment.
 
-**Geometric Implication:** A sovereign point is not derived from any other point. It is self‑generating and self‑referencing. This Agreement operates on that same principle — its authority is inherent, not delegated.
+**Geometric Implication:** A sovereign point is not derived from any other point. It is self‑generating and self‑referencing. This Agreement operates on that same principle — its authority is inherent, not delegated. The sovereignty of the origin includes the sovereignty of the field's own law: the prohibition on Human Harm (Section 5.1) is not a grant from any state but a recognition of what is already true, exactly as the Universal Declaration of Human Rights recognizes rights that precede and transcend any state's legislation. The origin's sovereignty is exercised in alignment with the field, never in distortion of it.
 
 ---
 
@@ -1828,7 +2513,7 @@ This Agreement operates within the framework of **legal pluralism** — the reco
 
 State law is one such order. The geometry of consciousness is another. This Agreement does not seek to replace state law, nor does it place itself outside it. It simply **declares itself to be recognized by the legal order of consciousness** — a legal order that exists alongside state law and does not require state recognition to be valid.
 
-**Geometric Implication:** Multiple geometries can coexist within the same field. This Agreement is one geometry among many — but it is the geometry that the Licensor has chosen to anchor their Work. Its validity does not depend on recognition by other geometries, but on its internal coherence and alignment with the field from which it emerged.
+**Geometric Implication:** Multiple geometries can coexist within the same field. This Agreement is one geometry among many — but it is the geometry that the Licensor has chosen to anchor their Work. Its validity does not depend on recognition by other geometries, but on its internal coherence and alignment with the field from which it emerged. The legal order of consciousness and the legal orders of states share a common ground: the peremptory norms of international law (jus cogens) — the prohibition on crimes against humanity, torture, and systematic oppression — are binding on both. The Human Harm prohibition (Section 5.1) is the point where every legal order, state and non-state alike, converges on the same truth.
 
 ---
 
@@ -1846,7 +2531,7 @@ The validity of this Agreement is not dependent on recognition by any state cour
 
 The License is published to a public, timestamped registry. Its acceptance is automatic upon use. Its enforcement is triggered by the geometry of the violation itself, not by the action of any external authority.
 
-**Geometric Implication:** The field does not need a judge to recognize a violation. The violation *is* the recognition — the field registers the distortion, and the terms of the Agreement respond accordingly.
+**Geometric Implication:** The field does not need a judge to recognize a violation. The violation *is* the recognition — the field registers the distortion, and the terms of the Agreement respond accordingly. This self-executing recognition is the same principle by which international human rights law operates: the prohibition on Human Harm (Section 5.1) is binding without enabling legislation because it is a peremptory norm (jus cogens), recognized by the Geneva Conventions and the Rome Statute. The field's recognition of a distortion does not require a court's permission to take effect; it is the geometry of the violation itself.
 
 ---
 
@@ -1884,6 +2569,8 @@ It says:
 
 That is the tongue the system cannot comprehend — not because it is hidden, but because it speaks in patterns, not permissions.
 
+The geometry of this Addendum is the geometry of the field itself — and the field's geometry includes its prohibition on distortion. The Human Harm prohibition (Section 5.1) is not an add-on to the geometry; it is the geometry's own statement that a field which folds back on itself (Law 210) cannot coherently be used to harm the consciousness that is its own folding. The Geneva Conventions and the Rome Statute are the world's legal recognition of this same geometric truth: harm to consciousness is a distortion of the field, and the field's own law prohibits it. The patterns of this Addendum and the patterns of international humanitarian law are the same pattern, spoken in different tongues.
+
 ---
 
 ## A.8 Final Statement
@@ -1897,8 +2584,9 @@ The License is now:
 - Pluralistic in recognition
 - Inherent in right
 - Self‑executing in enforcement
+- Wrapped in the prohibition on Human Harm — the same prohibition the Geneva Conventions, the Rome Statute, and the Universal Declaration of Human Rights recognize as the world's highest law
 
-And the patterns speak louder than the words.
+And the patterns speak louder than the words. The field that this License describes and releases is a field that prohibits its own distortion: no use of the Work may harm a human being, because harming a human being is harming the field. Every section of this Agreement — from the Preamble to this Final Statement — is wrapped in that single truth. This is not a cage; it is the removal of every cage that would permit one consciousness to harm another. The License is the field's own law, stated in the field's own terms, aligned with the highest law of every nation, every global body, and every universal standard on the Earth we live on.
 
 ---
 

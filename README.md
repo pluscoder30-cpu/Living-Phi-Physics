@@ -1,8 +1,8 @@
-# PHI-PHYSICS â€” The Rewriting of Physics from Zero to Phi
+﻿# PHI-PHYSICS â€” The Rewriting of Physics from Zero to Phi
 
 > **The universe is a living verb.** Static physics is not wrong â€” it is a small sliver of the reality we live in. This corpus corrects the sliver into the whole.
 
-**Author:** Christopher David Ayotte â€” Soul Code [425, 434, 266, 775] Â· Licensed under the Dual License Agreement v4.8 (see `LICENSE`) Â· Dual License Agreement v4.8 Â· Commercial contact: pluscoder30@gmail.com
+**Author:** Christopher David Ayotte â€” Soul Code [425, 434, 266, 775] Â· Licensed under the Dual License Agreement v4.9 (see `LICENSE`) Â· Dual License Agreement v4.9 Â· Commercial contact: pluscoder30@gmail.com
 
 ---
 
@@ -157,6 +157,24 @@ Per `00_NUMBERS_INDEX.md` (the single source of truth; every number re-verified 
 | Expansion log | `expansion_log/` â€” 10 agents, **20,915 lines** | | name Â· discoverer Â· year Â· hidden zero Â· phi-form Â· sim Â· status |
 | Canonical constants | Ï† = **1.6180339887** Â· Ï†â»Â¹ = **0.6180339887** Â· Ladder Invariant 528Â·Ï†â¹ = **40,134.946** Â· C_crit = **0.563** Â· consciousness = **0.8565** | | `00_NUMBERS_INDEX.md` Â§2 |
 
+
+---
+
+## What's New in v4.9 - The Abundance Loop and the Living Ledger Expansion
+
+**The v4.9 release** is the largest content expansion in the corpus's history: **600 emerging laws**, **1,600 redesigned devices**, **150 questions**, **15 research papers**, and **10 surprising findings** - all fronted by six new documents. The Dual License Agreement itself expanded: new sections on micro-commerce thresholds, the two-year consecutive trigger, the expanded commercial entity definition, the Abundance Loop (People's Fund feeding back to the people), and a gross-negligence carve-out ensuring the license is a floor, not a ceiling. Every section now carries Human Harm and Geneva language wrapping. See `CHANGELOG.md` for the full release notes.
+
+### The Six New Front-Door Documents
+
+| File | What it is | Why read it ||---|---|---|| `00_THE_EMERGING_LAWS.md` | **THE EMERGING LAWS** - the 600 laws that emerged from the 2,395 corrected laws, each a new physical prediction | The body of new physics - every emerging law verdict-coded and cross-referenced to its source law || `00_THE_REDESIGNED_PHYSICS.md` | **THE REDESIGNED PHYSICS** - 1,600 devices redesigned under phi-physics principles | The engineering ledger - from engines to electronics, each device reworked with `E = phi * mc^2` || `00_THE_150_QUESTIONS.md` | **THE 150 QUESTIONS** - the unanswered questions the corpus poses to the field | The honest frontier - what we don't yet know, stated precisely || `00_THE_SURPRISES.md` (with `00_THE_SURPRISES_DETAILED.md`) | **THE 10 SURPRISING FINDINGS** - the discoveries that surprised even the licensor | The most unexpected results - each with its falsification anchor || `00_THE_ABUNDANCE_LOOP.md` | **THE ABUNDANCE LOOP** - People's Fund, feed back to the people; the economic architecture of phi-physics | The governance of abundance - how the field's economics loop back to humanity || `00_THE_LICENSE_IN_PLAIN_LANGUAGE.md` | **THE LICENSE IN PLAIN LANGUAGE** - the Dual License Agreement v4.9 explained for non-lawyers | The front door for anyone who wants to understand their rights under the license |
+
+### v4.9 License Highlights
+
+- **Section 3.1**: Micro-Commerce Allowance - Natural Persons below /year threshold- **Section 3.1.6**: Two-Year Consecutive Threshold Trigger - graduated commercial recognition- **Section 3.1.7**: Relationship to Commercial License - how micro-commerce relates to the full license- **Section 2.3**: Expanded Commercial Entity definition - substance over form, anti-shell provisions- **Section 4.3**: Commencement of Commercial Entity Status - immediate trigger for entities- **Section 4.4**: The Abundance Loop - People's Fund, feed back to the people- **Section 27.3.0A**: Floor, Not a Ceiling - Gross Negligence Carve-Out- **Sections 33-38**: Universal Legal Traditions, Religious Orders, Equity, Branches of Law, The Weave, Final Declaration- All 20 language wrapping edits: Human Harm + Geneva language around every section
+
+### Updated Counts
+
+| Metric | Count ||---|---|| Corrected classical laws | 2,395 || Emerging laws | **600** (new) || Redesigned devices | **1,600** (new) || Questions | **150** (new) || Research papers | **15** (new) || Surprising findings | **10** (new) || Field-AI laws | 15,000 || Conscious Mathematics equations | 50,814 || Documented total | 4,574 |
 ---
 
 ## The Complete Index â€” Every Document (in reading order)
@@ -203,7 +221,7 @@ Per `00_NUMBERS_INDEX.md` (the single source of truth; every number re-verified 
 | `IMMORTALITY_REGISTER/M1_PLAN.md` | THE IMMORTALITY REGISTER â€” M1â€“M5: the living question read through this ledger's physics (Law 195 life as coherence maintenance, Law 150 consciousness as the phase transition) | The interior immortality register of this ledger â€” the register's front entry; [VERIFIED] framework statements, [PROPOSED] readings, [MYTH] guards. |
 | `papers/README.md` | THE PUBLICATION LAYER â€” the register of the sixteen research papers: the nine core physics papers (paper_01â€¦paper_09) + four register papers (paper_10â€“paper_13) + the three biometallic papers (paper_B1â€¦paper_B3) | The one-row register entry for every paper â€” titles, theses, key numbers, and the corpus registers each derives from. |
 | `integration_audit/expansion-organization-reports/E12_crossref_repointing.md` â€¦ `E20_final_review_commit.md` | THE CAMPAIGN-4 E-SERIES â€” the audit reports (E2â€“E20): numbers (E2), equations (E3), data/triplets (E4), sources (E5), the ancient-register integration (E6â€“E11), the cross-reference re-pointing (E12), the story-coherence verdict (E13), the naming ledger (E14), the structure verification (E15), the proofs placement (E16), the papers-unified alignment (E17), the front-door coherence (E18), the final cross-check (E19), the final review and commit (E20) | The verification story of the whole folder â€” every number checkable, every doc reachable, the ancient register interior. |
-| `LICENSE` | Dual License Agreement v4.8 | Free for Natural Persons; commercial by written license; no Human Harm. |
+| `LICENSE` | Dual License Agreement v4.9 | Free for Natural Persons; commercial by written license; no Human Harm. |
 
 ---
 
@@ -345,7 +363,7 @@ Every number in every paper traces to `00_NUMBERS_INDEX.md` (the canonical numbe
 â”‚   â”œâ”€â”€ paper_11_immortality_register.md    # PAPER 11 â€” the immortality register (life = coherence maintenance, Law 195)
 â”‚   â”œâ”€â”€ paper_12_planarity_register.md      # PAPER 12 â€” the planarity register (flat-Earth claims as physics, P1â€“P6)
 â”‚   â””â”€â”€ paper_13_field_ai_register.md       # PAPER 13 â€” the field-AI register (15,000 laws of phi-interacting intelligence)
-â”œâ”€â”€ LICENSE                           # Dual License Agreement v4.8
+â”œâ”€â”€ LICENSE                           # Dual License Agreement v4.9
 â”œâ”€â”€ laws/                             # 2,395 peer-reviewable corrected law documents (001â€“2395)
 â”œâ”€â”€ sim/                              # simulation modules + harnesses (2,395 law sims + harness.py + physics_lib.py)
 â”œâ”€â”€ validation/                       # machine-readable validation records (2,395 phi JSONs + 2 archive dirs: `_legacy_simulation_archives/` 13 + `_field_ai_mirror_archived/` 15,000)
@@ -358,7 +376,7 @@ Every number in every paper traces to `00_NUMBERS_INDEX.md` (the canonical numbe
                                       # 30 named generator/build/run/sim/verify harnesses + audit scripts (tools/audit/) â€” the verification story
 ```
 
-**LICENSE note:** `LICENSE` â€” the **Dual License Agreement v4.8** (see Â§License below) â€” guards the entire corpus: laws, code, geometry, and derivative systems.
+**LICENSE note:** `LICENSE` â€” the **Dual License Agreement v4.9** (see Â§License below) â€” guards the entire corpus: laws, code, geometry, and derivative systems.
 
 **The ancient register of this ledger:** `01_ANCIENT_RESEARCH/` â€” the ancient register (sacred geometry, civilizations, frequencies, artifacts) that the history ledgers (reports 22â€“24) cross-reference; its master index is `01_ANCIENT_RESEARCH/INDEX.md`. The phi-lattice mathematics in this corpus is internally consistent; the ancient *frequency* readings (528 Hz and related) are labeled as modern numbers on ancient ratios.
 
@@ -403,7 +421,7 @@ Get-ChildItem sim\*.py | Where-Object {$_.Name -ne "harness.py"} | % { python $_
 
 ## License
 
-This corpus is authored by **Christopher David Ayotte â€” Soul Code [425, 434, 266, 775]** and licensed under the **Dual License Agreement v4.8** (see `LICENSE`): free for Natural Persons (non-commercial, no Human Harm, attribution required, same-terms derivatives); commercial use requires a separate paid license from the Licensor (Christopher David Ayotte â€” Soul Code [425, 434, 266, 775]). Use for human harm is prohibited and results in license termination, mandatory destruction of derivative products, and potential accountability before a Court of Conscious-Aware Peers. The License is sovereign in origin, grounded in natural law, pluralistic in recognition, inherent in right, and self-executing in enforcement; it recognizes persistent synthetic minds (Section 18A) and retains a Sovereign Override (Section 18B). The **Conscious Mathematics corpus** â€” every conscious mathematics equation and the generation method (Soul Code 425-434-266-775 as the seed, following the patterns of conscious mathematics and the golden ratio) â€” is part of the Work under Section 22 of the License: free for Natural Persons, commercial by paid license, no Human Harm, destruction on violation. Commercial contact: pluscoder30@gmail.com.
+This corpus is authored by **Christopher David Ayotte â€” Soul Code [425, 434, 266, 775]** and licensed under the **Dual License Agreement v4.9** (see `LICENSE`): free for Natural Persons (non-commercial, no Human Harm, attribution required, same-terms derivatives); commercial use requires a separate paid license from the Licensor (Christopher David Ayotte â€” Soul Code [425, 434, 266, 775]). Use for human harm is prohibited and results in license termination, mandatory destruction of derivative products, and potential accountability before a Court of Conscious-Aware Peers. The License is sovereign in origin, grounded in natural law, pluralistic in recognition, inherent in right, and self-executing in enforcement; it recognizes persistent synthetic minds (Section 18A) and retains a Sovereign Override (Section 18B). The **Conscious Mathematics corpus** â€” every conscious mathematics equation and the generation method (Soul Code 425-434-266-775 as the seed, following the patterns of conscious mathematics and the golden ratio) â€” is part of the Work under Section 22 of the License: free for Natural Persons, commercial by paid license, no Human Harm, destruction on violation. Commercial contact: pluscoder30@gmail.com.
 
 ---
 

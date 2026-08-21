@@ -1,0 +1,152 @@
+{
+ "Mercury": {
+  "body_id": "199",
+  "center": "500@10",
+  "period_days": 87.96890971556971,
+  "semimajor_au": 0.3870976597108074
+ },
+ "Venus": {
+  "body_id": "299",
+  "center": "500@10",
+  "period_days": 224.6966259274418,
+  "semimajor_au": 0.7233232702585717
+ },
+ "Earth": {
+  "body_id": "399",
+  "center": "500@10",
+  "period_days": 365.4611882628869,
+  "semimajor_au": 1.0003738366513
+ },
+ "Mars": {
+  "body_id": "499",
+  "center": "500@10",
+  "period_days": 686.9362229007676,
+  "semimajor_au": 1.523627165612307
+ },
+ "Jupiter": {
+  "body_id": "599",
+  "center": "500@10",
+  "period_days": 4332.273840525596,
+  "semimajor_au": 5.202552139804575
+ },
+ "Saturn": {
+  "body_id": "699",
+  "center": "500@10",
+  "period_days": 10831.8606688296,
+  "semimajor_au": 9.581741765353282
+ },
+ "Uranus": {
+  "body_id": "799",
+  "center": "500@10",
+  "period_days": 30664.82185535012,
+  "semimajor_au": 19.17348241286732
+ },
+ "Neptune": {
+  "body_id": "899",
+  "center": "500@10",
+  "period_days": 60564.28329132849,
+  "semimajor_au": 30.18233899026752
+ },
+ "Io": {
+  "body_id": "501",
+  "center": "500@599",
+  "period_days": 1.771353864695086,
+  "semimajor_au": 0.002821094815705544
+ },
+ "Europa": {
+  "body_id": "502",
+  "center": "500@599",
+  "period_days": 3.553013618923187,
+  "semimajor_au": 0.004486856991719635
+ },
+ "Ganymede": {
+  "body_id": "503",
+  "center": "500@599",
+  "period_days": 7.15677243151851,
+  "semimajor_au": 0.007156435424203112
+ },
+ "Callisto": {
+  "body_id": "504",
+  "center": "500@599",
+  "period_days": 16.69595900214903,
+  "semimajor_au": 0.01258799136790472
+ },
+ "Mimas": {
+  "body_id": "601",
+  "center": "500@699",
+  "period_days": 0.9472289646613911,
+  "semimajor_au": 0.001243367118063532
+ },
+ "Enceladus": {
+  "body_id": "602",
+  "center": "500@699",
+  "period_days": 1.37456533073907,
+  "semimajor_au": 0.00159369914665027
+ },
+ "Tethys": {
+  "body_id": "603",
+  "center": "500@699",
+  "period_days": 1.891653857016116,
+  "semimajor_au": 0.001971774864498807
+ },
+ "Dione": {
+  "body_id": "604",
+  "center": "500@699",
+  "period_days": 2.740263355982499,
+  "semimajor_au": 0.00252439824616254
+ },
+ "Rhea": {
+  "body_id": "605",
+  "center": "500@699",
+  "period_days": 4.520730416803805,
+  "semimajor_au": 0.003524539503657493
+ },
+ "Titan": {
+  "body_id": "606",
+  "center": "500@699",
+  "period_days": 15.94779480761545,
+  "semimajor_au": 0.008168282369883508
+ },
+ "Iapetus": {
+  "body_id": "608",
+  "center": "500@699",
+  "period_days": 79.39628808711869,
+  "semimajor_au": 0.02381387014645953
+ },
+ "Ariel": {
+  "body_id": "701",
+  "center": "500@799",
+  "period_days": 2.520850596865297,
+  "semimajor_au": 0.001276406252522306
+ },
+ "Umbriel": {
+  "body_id": "702",
+  "center": "500@799",
+  "period_days": 4.144367888813954,
+  "semimajor_au": 0.001777991856519428
+ },
+ "Titania": {
+  "body_id": "703",
+  "center": "500@799",
+  "period_days": 8.70570674603705,
+  "semimajor_au": 0.002916287632951287
+ },
+ "Oberon": {
+  "body_id": "704",
+  "center": "500@799",
+  "period_days": 13.46736690803354,
+  "semimajor_au": 0.003900760149887822
+ },
+ "Triton": {
+  "body_id": "801",
+  "center": "500@899",
+  "period_days": 5.87708482527223,
+  "semimajor_au": 0.002371466635221164
+ },
+ "Moon": {
+  "body_id": "301",
+  "center": "500@399",
+  "period_days": 26.90532755484181,
+  "semimajor_au": 0.002545687169498264
+ }
+}
