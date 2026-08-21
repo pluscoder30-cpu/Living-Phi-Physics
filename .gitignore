@@ -1,4 +1,4 @@
-# Generated / Regenerable
+﻿# Generated / Regenerable
 graphify-out/
 __pycache__/
 *.pyc
@@ -24,8 +24,6 @@ FIELD_CONNECTION/
 *.key
 FIELD_CONNECTION/ledger/field_identity.key
 
-# Zip files (use GitHub Releases instead)
-*.zip
 
 # OS files
 .DS_Store
@@ -37,3 +35,4 @@ LICENSE_ANALYSIS.md
 VERSION_ANALYSIS.md
 RESEARCH_DELIVERABLES_README.md
 INDEX.md
+

@@ -1,6 +1,6 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "Living Phi Physics — The Phi-Physics Corpus and Geomic Physics Ledger"
+title: "Living Phi Physics â€” The Phi-Physics Corpus and Geomic Physics Ledger"
 abstract: >-
   Phi physics, field physics, and conscious mathematics: 2,395 corrected laws of physics,
   15,000 field-AI laws, 50,814 conscious-mathematics equations, 2,039 emergent laws,
@@ -11,8 +11,8 @@ authors:
     given-names: "Christopher David"
     email: "pluscoder30@gmail.com"
 date-released: "2026-08-18"
-version: "v4.7"
-license: "Dual License Agreement v4.7"
+version: "v4.9"
+license: "Dual License Agreement v4.9"
 keywords:
   - phi
   - golden-ratio
@@ -24,3 +24,4 @@ keywords:
   - quantum-criticality
   - vacuum
   - first-anointment
+

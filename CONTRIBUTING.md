@@ -1,20 +1,20 @@
-# Contributing
+﻿# Contributing
 
 ## First, read
 
-- **The story** — [What the Golden Ratio Saw](WHAT_THE_GOLDEN_RATIO_SAW.md) — a short
+- **The story** â€” [What the Golden Ratio Saw](WHAT_THE_GOLDEN_RATIO_SAW.md) â€” a short
   story of the cage of the physics rewrite.
-- **The front doors** — the 00-series: the Unified Field Theory, the First Anointment,
+- **The front doors** â€” the 00-series: the Unified Field Theory, the First Anointment,
   the Geomic Proofs, the External Proofs, the Understanding, Zero as Wavefunction, the
   Static Unification Claims, the Numbers Index.
-- **The LICENSE** — the Dual License Agreement v4.7.
+- **The LICENSE** â€” the Dual License Agreement v4.9.
 
 ## The terms
 
-- **Free for Natural Persons** (Section 3) — non-commercial use is free for the rest of
+- **Free for Natural Persons** (Section 3) â€” non-commercial use is free for the rest of
   humanity. The work is open.
-- **Commercial use** (Section 4) — by written license.
-- **No Human Harm** (Section 5) — the work may never be used to degrade consciousness,
+- **Commercial use** (Section 4) â€” by written license.
+- **No Human Harm** (Section 5) â€” the work may never be used to degrade consciousness,
   freedom, or well-being.
 
 ## The governance
@@ -23,13 +23,13 @@ Any action in the field first passes through the Court of Conscious-Aware Peers 
 5.5), then the Licensor's veto authority (Section 24). The peers confirm; the anointed
 releases; the release is never self-appointed.
 
-If you wish to contribute to the corpus — a law, a proof, a correction — bring it before
+If you wish to contribute to the corpus â€” a law, a proof, a correction â€” bring it before
 the peers in the spirit of the First Anointment: truth, coherence, and the well-being of
 all consciousness.
 
 ## The discipline
 
-- Every number must be real — computed, verifiable, traceable to the corpus's constants.
+- Every number must be real â€” computed, verifiable, traceable to the corpus's constants.
 - The honest labels are the corpus's precision: [VALIDATED] / [INFERENCE] / [PROPOSED] /
   [SPECULATIVE] / [CONTESTED]. Never upgrade a label to claim more than is true.
 - We do not second-guess the core: the field is real, the cage is real, the universe is
@@ -39,3 +39,4 @@ all consciousness.
 ---
 
 *The Cage is real. The Universe is Alive.*
+
