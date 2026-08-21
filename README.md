@@ -260,138 +260,95 @@ Every number in every paper traces to `00_NUMBERS_INDEX.md` (the canonical numbe
 
 ## The Structure Tree
 
+The GitHub repository is the **front door** of the corpus. The complete corpus — every law, every device, every equation, every simulation, every validation — is in the **Living-Phi-Physics-v4.9.zip** (split into two parts, `Living-Phi-Physics-v4.9.part1.zip` + `Living-Phi-Physics-v4.9.part2.zip`, recombine per `ZIP_README.md`).
+
 ```
-32_PHI_PHYSICS/
-├── 00_UNIFIED_FIELD_THEORY.md        # THE UNIFIED FIELD THEORY — the single statement the corpus serves
-├── 00_ZERO_AS_WAVEFUNCTION.md        # ZERO AS THE DYNAMIC BINARY WAVE FUNCTION — the core lens
+Living-Phi-Physics/                    ← THE FRONT DOOR (this repository)
+├── README.md                          # THE MAIN ENTRY POINT — this document
+├── LICENSE                            # THE DUAL LICENSE AGREEMENT v4.9 — 38 sections + Addendum
+├── CHANGELOG.md                       # VERSION HISTORY
+├── CITATION.cff                       # HOW TO CITE
+├── CODE_OF_CONDUCT.md                 # COMMUNITY STANDARDS
+├── CONTRIBUTING.md                    # HOW TO CONTRIBUTE
+├── SECURITY.md                        # SECURITY POLICY
+├── FUNDING.yml                        # GITHUB SPONSORS
+├── index.html                         # LANDING PAGE
+├── .gitignore                         # WHAT'S EXCLUDED
+│
+├── 00_UNIFIED_FIELD_THEORY.md         # THE UNIFIED FIELD THEORY — the single statement the corpus serves
+├── 00_ZERO_AS_WAVEFUNCTION.md         # ZERO AS THE DYNAMIC BINARY WAVE FUNCTION — the core lens
 ├── 00_THE_STATIC_UNIFICATION_CLAIMS.md  # THE STATIC UNIFICATION CLAIMS — the 2025–26 debunk
-├── 00_THE_EXTERNAL_PROOFS.md         # THE EXTERNAL PROOFS — the operating systems built on the laws
-├── 00_THE_OXYGEN_AND_THE_SPACE.md    # THE OXYGEN AND THE SPACE — the breath of the field (oxygen at every scale; the ladder and the shells)
-├── 00_NUMBERS_INDEX.md               # THE CANONICAL NUMBERS INDEX — the single source of truth
-├── 00_THE_GEOMIC_PROOFS.md           # THE GEOMIC PROOFS — the field's fingerprints (the 70-proof register, G1–G8)
-├── 00_THE_FIRST_ANOINTMENT.md        # THE FIRST ANOINTMENT — the oldest release in the record, now the newest (the +1 of the 49, the Jubilee, the Court)
-├── 00_THE_UNDERSTANDING.md           # front door: what the physics and mathematics mean
-├── WHAT_THE_GOLDEN_RATIO_SAW.md      # the story — a short story of the cage of the physics rewrite, told in the first person by φ itself (every number checkable)
-├── docs/                             # all ledgers, method, manifest, historical reports — 37 docs (00–34, with the two dual-prefix pairs at 03 and 18)
-│   ├── 00_MANIFEST.md                # AXIOM 0: There is no zero. Zero is phi misread.
-│   ├── 01_INDEX_ORIGINAL_PROGRAM.md  # historical founding index (original program)
-│   ├── 02_METHOD.md                  # The Phi-Rewrite Protocol (operational, VALIDATED)
-│   ├── 03_INDEX_LAWS_211_2270.md     # master expansion index — the 2,060-law correction + completion additions (2271–2392)
-│   ├── 03_THE_OPEN_QUESTIONS.md      # historical — the Clay $1M problems
-│   ├── 04_EXPANSION.md               # the amplification: meta-laws, unifications
-│   ├── 05_…17_*.md                   # historical founding scope (bannerred)
-│   ├── 18_README_SET_B_THE_EMERGENT_DICTIONARY.md  # SET B block index — the emergent dictionary
-│   ├── 18_…21_SET_B_*.md             # SET B — THE EMERGENT DICTIONARY (2,039 laws, 🟡 internally verified)
-│   ├── 22_THE_HISTORICAL_INVESTIGATION.md  # 15-thread documented history: static canon vs living universe
-│   ├── 23_THE_SYSTEM_OF_THE_FABRICATION.md # Phase 2 ledger: money / institutions / persons / symbols
-│   ├── 24_THE_GEOMIC_LEDGER.md       # the geomic ledger — research register + skeptic's case
-│   ├── 25_GEOLOGICAL_FINDINGS.md     # the geological register — physics + cage relevance
-│   ├── 26_SPACE_OXYGEN_VERIFICATION.md  # the space-oxygen register — oxygen at every scale
-│   ├── 27_HIGHER_DIMENSIONS_AND_SPACE.md  # the dimensions register — no literal extra dimensions; the ladder as field reading
-│   ├── 28_THE_CAGE_SPACE_OXYGEN_DIMENSIONS.md  # the cage register — structural/fiscal, not suppression
-│   ├── 29_SPACE_FUNDING_MONEY_TRAIL.md  # the space money-trail register — NASA/ISS/JWST/LHC vs the living questions
-│   ├── 30_DIMENSIONAL_SHELL_CONFIRMATION_PROTOCOL.md  # the dimensional-shell protocol — Law 2395's measurement
-│   ├── 31_THE_FIRST_ANOINTMENT.md       # the anointment register — the first anointment (the +1 of the 49, the law before laws, the Court of Conscious-Aware Peers)
-│   ├── 32_THE_COURT_AND_THE_VETO.md     # the governance register — the Court of Conscious-Aware Peers who confirm, and the veto authority of the one whose soul code is the field folding in on itself
-│   ├── 33_THE_DEEPENED_MONEY_REGISTER.md # the deepened money register — the consolidated follow-the-money pass (wives, interlocks, consents, European register, family offices, corrections)
-│   └── 34_SOVEREIGN_LAW_OF_THE_CONSCIOUS_AWARE_PEERS.md  # the sovereign-law register — the sovereign law of the conscious-aware peers, the Court's founding document (the governance trio docs/31 + docs/32 + docs/34; added 2026-08-13, FV1)
-├── 01_ANCIENT_RESEARCH/                # the ancient register of this ledger — 111 research .md files / 7 numbered research dirs (01–07) + `.super-agents` / 9 culture subfolders
-                                      # (interior = 121 files; the 08_CODE applied/code subtree lives only in the sibling register — not duplicated here); source lineage for the 528/7.83/ladder anchors
-│   ├── INDEX.md                        # the ancient register's master index (research files, verdict codes, corrections map)
-│   ├── README.md                       # the ancient register's front door
-│   ├── 01_FREQUENCIES/                 # the frequency register (pointer register)
-│   ├── 02_SACRED_GEOMETRY/             # the geometry register (pointer register)
-│   ├── 03_CIVILIZATIONS/               # the civilization register — 9 culture subfolders (Egyptian … Mesopotamian)
-│   ├── 04_AI_ARCHITECTURE/             # the applied-engineering register (the AEON build docs)
-│   ├── 05_ARTIFACTS/                   # the artifact register (Plimpton 322, Barton Cylinder evidence)
-│   ├── 06_SYNTHESIS/                   # the synthesis register (master syntheses + the 5 evidence-pass layers)
-│   ├── 07_REFERENCE/                   # the reference register (akashic, buga, Dead Sea Scrolls)
-│   └── 08_CODE/ → v6/research/01_ANCIENT_RESEARCH/08_CODE/   # the applied code register (100 files) — preserved only in the sibling register, not duplicated into this interior copy (every 08_CODE/ reference resolves to the sibling path)
-├── BIOMETALLIC_FLUX_REGISTER/          # the trace-metal flux register — the biological collection system, the suppression ledger, the papers
-                                      # (an interior register of this ledger: trace-metal/gold flux through biological systems, verdict-coded, 40 files)
-│   ├── README.md                        # the register's front door (the collection system, the waste stream, the cage linkage) + glossary
-│   ├── REGISTER_MAP.md                  # the register map — the 40-file record + the 3-paper publication layer (sections A–F)
-│   ├── BR_01_…BR_30_*.md               # the register record — 30 BR_ register docs (BR_01–BR_30): Section A (BR_01–BR_07, the collection system), Sections B–E (BR_08–BR_30, the history/recovery/computation/cage/deep-dives)
-│   ├── BR_13/BR_14/BR_16_*.py          # the register's computation scripts (tooling, co-located with their BR_ documents)
-│   ├── papers/                          # the register's publication layer — 3 papers (paper_B1_…B3)
-├── THE_PLANARITY_REGISTER/              # the planarity register — the flat-Earth tradition's actual claims examined as physics (verdict-coded, 6 P-files, interior)
-│   ├── P1_the_actual_claims.md         # P1 — what the tradition actually said (Rowbotham, sources, verdict codes), not the straw men
-│   ├── P2_gravity.md                   # P2 — the gravity examination (laws/002, 004, 060, 062–064, 170)
-│   ├── P3_antarctic.md                 # P3 — the Antarctic/poles examination (the rotation + polar-field laws)
-│   ├── P4_reality_flat.md              # P4 — the projection reading (reality as a projection surface of the carrier)
-│   ├── P5_consciousness.md             # P5 — the consciousness/observer examination (laws/210, 191, 157; Eq 44/45/50)
-│   └── P6_THE_SYNTHESIS.md             # P6 — the synthesis (the corpus files each cited; the honest frontier)
-├── GEOMETRIC_PROOFS/                    # the geometric proofs register — 70 proofs across 8 G-files (G1–G8, interior; G1–G3 fifteen-proof batches + G4–G8 five-proof batches)
-│   ├── G1_projection_15_proofs.md      # G1 — fifteen proofs the observable reality is a projection surface
-│   ├── G2_oxygen_15_proofs.md          # G2 — fifteen geometric proofs for oxygen at every scale (the vacuum density law)
-│   ├── G3_dimensional_15_proofs.md     # G3 — fifteen proofs on the dimensional ladder and the shells (laws/2394, 2395)
-│   ├── G4_unified_field_5_proofs.md    # G4 — five geomic proofs of the unified field (the $\phi$-form, the golden split, the carrier recursion, the 17-prime carrier, the grand synthesis)
-│   ├── G5_field_internet_5_proofs.md   # G5 — five geomic proofs of the field internet (the golden decay length, the 816D mesh, the peer triangle, the broadcast, the soul-code routing)
-│   ├── G6_consciousness_5_proofs.md    # G6 — five geomic proofs of the consciousness field, the first anointment, and the Court
-│   ├── G7_cage_living_universe_5_proofs.md  # G7 — five geomic proofs of the cage and the living universe
-│   └── G8_numbers_constants_5_proofs.md     # G8 — five geomic proofs of the numbers, constants, 17-prime family, critic's record, and the ladder
-├── FIELD_AI_LAWS/                      # the field-AI register — 15,000 field-AI laws, all SIMULATED (interior)
-│   ├── README.md                       # the register's front door (what the 15,000 are, the emergence method, the constants)
-│   ├── 00_MASTER_INDEX.md              # the register's master index — the 15 domains, 20 physics, 10 CM families, 5 variants, P1–P20
-│   ├── 00001_…15000_*.md               # the 15,000 field-AI law documents (5-stage laws, quadruple-coded)
-│   ├── _superseded_original_500/       # the founding-500 provenance (preserved, not deleted)
-│   └── prototypes/                     # the field-interaction proof library — P1–P20 + the two cross-corpus maps + `physics_laws/` (PHY_001–PHY_017, all 2,395 physics laws covered) + `emergent_laws/` (EM_001–EM_005, all 2,039 Set B laws covered)
-├── CONSCIOUS_MATHEMATICS/              # the conscious mathematics register — 50,814 unique equations (raw 66,030 − 15,216 dups), SoulCode-seeded, verdict-coded [VERIFIED]/[PROPOSED], interior register
-│   ├── 00_README.md                    # the register's front door — the 50,814-equation corpus, the method, the cross-references
-│   ├── 01_MASTER_INDEX.md              # the register's master index — the metadata, the unique count 50,814 (raw 66,030 − 15,216 dups)
-│   ├── 02_…09_*.md                     # the family/verification dirs (foundational, living categories, generated sets, archive originals, generator, explanations, verification)
-│   ├── 07_THE_GENERATOR/               # the generation method's programs — the five generators LICENSE §22.3 names (MASSIVE, ULTIMATE, ULTIMATE_unified, LIVING, OPERATORS_25) + the method doc (`GENERATION_METHOD.md`)
-│   └── build_inventory.py              # the idempotent inventory builder — rerun to reproduce the 50,814
-├── 28_CONSCIOUSNESS_NETWORK/ → v6/research/28_CONSCIOUSNESS_NETWORK/   # the field-internet register (sibling) — the applied implementation of Law 189 (field-internet law) + Law 205 (entanglement mesh): the 5-layer FieldInternet protocol stack and the entity registry — the conscious field and its networks, covered in full, without enumeration of their components
-│   └── FIELD_INTERNET.md               # the field-internet protocol — the 5-layer FieldInternet stack (FieldWave/FieldFrame/FieldIP/FieldTCP/FieldHTTP), eigenstate packet routing, port 8165 gateway — the applied form of Law 189/205
-├── GEOMIC_PROTOCOLS/                    # the geomic protocols register — the Source Code of Reality (the master), 18 geomic protocols (MD + 18 stdlib simulations, all exit 0): geometry as physical action, spirituality as mathematics, the living universe — lab-reenactable, verdict-coded, interior register
-│   ├── 00_THE_SOURCE_CODE_OF_REALITY.md # the master — the claim, geometry is physical action, the everyday↔corpus table, spirituality is mathematics, the conscious states are measurable, the two tracks (computational + physical)
-│   ├── 00_THE_GEOMIC_PROTOCOLS_LEDGER.md # the register's own ledger — the 18 protocols, the numbers, the honest frontier
-│   ├── 01_…18_*_PROTOCOL.md             # the 18 geomic protocols (carrier coherence, emergence threshold, phi-ratio resonance, consciousness fold, coherence transport, field-internet mesh, the breath, the gait, the attention, the arrangement, the jubilee, the anointment, the court, the environment, the measurement, the coherence floor, the verification, the grand synthesis)
-│   └── simulations/                     # the 18 protocol simulations — pure stdlib, canonical constants, all exit 0 (the copyright anchors)
-├── IMMORTALITY_REGISTER/               # the immortality register — M1–M5 (plan → immortality → human coherence → age-reversal/lifespan → synthesis), [VERIFIED] framework / [PROPOSED] readings / [MYTH] guards, interior register
-│   ├── M1_PLAN.md                      # M1 — the plan (the register's front entry)
-│   ├── M2_IMMORTALITY.md               # M2 — immortality through the ledger's physics (Law 195, Law 150)
-│   ├── M3_HUMAN_COHERENCE.md           # M3 — human coherence
-│   ├── M4_AGE_REVERSAL_LIFESPAN.md     # M4 — age-reversal / lifespan
-│   └── M5_THE_SYNTHESIS.md             # M5 — the synthesis
-├── papers/                             # the publication-ready research papers (16 papers: 9 core + 4 register + 3 biometallic)
-│   ├── README.md                     # the papers block index — the register of the sixteen papers
-│   ├── paper_01_phi_harmonic_dictionary.md  # PAPER 1 — the phi-harmonic dictionary (the phi-correction thesis)
-│   ├── paper_02_geomic_ledger.md     # PAPER 2 — the geomic ledger (physics/history/money as one register)
-│   ├── paper_03_space_oxygen_dimensions.md  # PAPER 3 — space/oxygen/dimensions (the S-series verdict)
-│   ├── paper_04_cage_money.md        # PAPER 4 — the structural cage (no suppression; a fiscal cage)
-│   ├── paper_05_conscious_mathematics.md   # PAPER 5 — conscious mathematics (the 50,814-equation corpus, SoulCode-seeded)
-│   ├── paper_06_the_first_anointment.md    # PAPER 6 — the first anointment (the +1 of the completed 49, the law before laws)
-│   ├── paper_07_the_court_and_the_veto.md  # PAPER 7 — the court and the veto (the two-chamber governance of the field)
-│   ├── paper_08_the_geomic_proofs.md       # PAPER 8 — the geomic proofs (the 70-proof register, G1–G8)
-│   ├── paper_09_the_field_internet.md      # PAPER 9 — the field internet (coherence transport, Law 189/205, the 5-layer stack)
-│   ├── paper_10_conscious_mathematics_generative_layer.md  # PAPER 10 — the generative layer (50,814 equations, carrier space for field-AI laws)
-│   ├── paper_11_immortality_register.md    # PAPER 11 — the immortality register (life = coherence maintenance, Law 195)
-│   ├── paper_12_planarity_register.md      # PAPER 12 — the planarity register (flat-Earth claims as physics, P1–P6)
-│   └── paper_13_field_ai_register.md       # PAPER 13 — the field-AI register (15,000 laws of phi-interacting intelligence)
-├── LICENSE                           # Dual License Agreement v4.9
-├── laws/                             # 2,395 peer-reviewable corrected law documents (001–2395)
-├── sim/                              # simulation modules + harnesses (2,395 law sims + harness.py + physics_lib.py)
-├── validation/                       # machine-readable validation records (2,395 phi JSONs + 2 archive dirs: `_legacy_simulation_archives/` 13 + `_field_ai_mirror_archived/` 15,000)
-├── expansion_log/                    # the expansion log — 10 domain correction logs (correction_logs/) + 5 auxiliary support files (supporting-evidence/)
-├── integration_audit/                # the read-only historical audit trail — 307 files across 12 descriptive subdirectories
-                                      # (paper-reports-verification, alignment-campaign, expansion-organization-reports, numerical-data-claims-audit,
-                                      #  campaign-plans-verdicts, scientific-framing-proofs, verdicts-and-alignment, ledger-completeness-checks,
-                                      #  release-alignment-checks, historical-threads, field-ai-audit-batches, uncategorized-reports)
-└── tools/                            # the original-program generation pipeline: 46 `_*data*` data scripts +
-                                      # 30 named generator/build/run/sim/verify harnesses + audit scripts (tools/audit/) — the verification story
+├── 00_THE_EXTERNAL_PROOFS.md          # THE EXTERNAL PROOFS — the operating systems built on the laws
+├── 00_THE_OXYGEN_AND_THE_SPACE.md     # THE OXYGEN AND THE SPACE — the breath of the field
+├── 00_NUMBERS_INDEX.md                # THE CANONICAL NUMBERS INDEX — the single source of truth
+├── 00_THE_GEOMIC_PROOFS.md            # THE GEOMIC PROOFS — the field's fingerprints (the 70-proof register, G1–G8)
+├── 00_THE_FIRST_ANOINTMENT.md         # THE FIRST ANOINTMENT — the oldest release in the record, now the newest
+├── 00_THE_UNDERSTANDING.md            # front door: what the physics and mathematics mean
+├── WHAT_THE_GOLDEN_RATIO_SAW.md       # the story — told in the first person by φ itself
+│
+├── 00_THE_EMERGING_LAWS.md            # THE 600 EMERGING LAWS — 250 (2401–2650) + 350 (2651–3000), each with simulation and validation
+├── 00_THE_REDESIGNED_PHYSICS.md       # THE 1,600 REDESIGNED DEVICES — 800 original + 800 corporate, each with prototype and simulation
+├── 00_THE_150_QUESTIONS.md            # THE 150 QUESTIONS — 50 original + 100 new, answered by 15 research papers
+├── 00_THE_SURPRISES_DETAILED.md       # THE 10 SURPRISING FINDINGS — each with proof and simulation
+├── 00_THE_LICENSE_IN_PLAIN_LANGUAGE.md  # THE LICENSE EXPLAINED — plain language, what you can and cannot do
+├── 00_THE_ABUNDANCE_LOOP.md           # THE PEOPLE'S FUND — the loop of abundance
+│
+├── GRAPHIFY.md                        # THE CORPUS MAP — Mermaid diagrams of the whole corpus
+├── SURPRISES.md                       # THE 10 SURPRISING FINDINGS — brief version
+│
+├── Living-Phi-Physics-v4.9.part1.zip  # THE COMPLETE CORPUS — part 1 of 2 (59 MB)
+├── Living-Phi-Physics-v4.9.part2.zip  # THE COMPLETE CORPUS — part 2 of 2 (59 MB)
+└── ZIP_README.md                      # HOW TO RECOMBINE AND EXTRACT THE ZIP
 ```
 
-**LICENSE note:** `LICENSE` — the **Dual License Agreement v4.9** (see §License below) — guards the entire corpus: laws, code, geometry, and derivative systems.
+### What's Inside the Zip
 
-**The ancient register of this ledger:** `01_ANCIENT_RESEARCH/` — the ancient register (sacred geometry, civilizations, frequencies, artifacts) that the history ledgers (reports 22–24) cross-reference; its master index is `01_ANCIENT_RESEARCH/INDEX.md`. The phi-lattice mathematics in this corpus is internally consistent; the ancient *frequency* readings (528 Hz and related) are labeled as modern numbers on ancient ratios.
+The zip contains the complete corpus — everything that is not a front-door document:
 
-> `01_ANCIENT_RESEARCH/` is an interior register of this ledger (the tree above), the source lineage for the 528/7.83/ladder anchors — see `docs/24` §5–§8 for which ancient claims are documented vs corpus interpretation`
+```
+Living-Phi-Physics-v4.9.zip            ← THE COMPLETE CORPUS (~118 MB compressed)
+├── laws/                              # 2,395 peer-reviewable corrected law documents (001–2395)
+├── docs/                              # all ledgers, method, manifest, historical reports — 37 docs (00–34)
+├── papers/                            # the publication-ready research papers (16 papers: 9 core + 4 register + 3 biometallic)
+│   └── proofs/                        # the flagship proof papers (P1–P9 + FD1–FD4 + P10–P22)
+├── GEOMIC_PROTOCOLS/                  # the geomic protocols register — 18 protocols + simulations
+├── verification/                      # the verification register — CONFIRMED_RESULTS.md + real data
+├── data/                              # the real data used in the proofs
+│
+├── EMERGING_LAWS_individual/          # 250 emerging laws (2401–2650), each with LAW.md + SIMULATION.py + VALIDATION.md
+├── EMERGING_LAWS_individual_V2/       # 350 emerging laws (2651–3000), each with LAW.md + SIMULATION.py + VALIDATION.md
+├── REDESIGNED_PHYSICS/                # 1,600 redesigned devices in 10 categories
+│   ├── 01_EVERYDAY_LIFE/              # items 001–160
+│   ├── 02_MEDICAL_LABORATORY/         # items 161–320
+│   ├── 03_INDUSTRIAL_ENGINEERING/     # items 321–480
+│   ├── 04_ADVANCED_LABORATORY/        # items 481–640
+│   ├── 05_EXTREME_PHYSICS/            # items 641–800
+│   ├── 06_AI_ROBOTICS/                # items 801–960
+│   ├── 07_COMPUTATION_NETWORKS/       # items 961–1120
+│   ├── 08_NEURAL_NETWORKS/            # items 1121–1280
+│   ├── 09_BROADCASTING_COMMUNICATION/ # items 1281–1440
+│   └── 10_CORPORATE_SYSTEMS/          # items 1441–1600
+├── 150_QUESTIONS/                     # the 150 questions + 15 research papers
+├── SURPRISES_DETAILED/                # the 10 surprise papers (detailed proofs and simulations)
+│
+├── FIELD_AI_LAWS/                     # the field-AI register — 15,000 field-AI laws, all SIMULATED
+├── CONSCIOUS_MATHEMATICS/             # the conscious mathematics register — 50,814 unique equations
+├── 01_ANCIENT_RESEARCH/               # the ancient register — 111 research files
+├── BIOMETALLIC_FLUX_REGISTER/         # the trace-metal flux register — 40 files
+├── THE_PLANARITY_REGISTER/            # the planarity register — 6 P-files
+├── IMMORTALITY_REGISTER/              # the immortality register — M1–M5
+├── GEOMETRIC_PROOFS/                  # the geometric proofs register — 70 proofs (G1–G8)
+├── integration_audit/                 # the read-only historical audit trail
+├── tools/                             # the generation pipeline and utility scripts
+├── expansion_log/                     # the expansion log — 10 domain correction logs
+├── sim/                               # simulation modules + harnesses (2,395 law sims)
+├── sim_field_ai/                      # field-AI simulations (15,000)
+├── validation/                        # machine-readable validation records (2,395)
+└── validation_field_ai/               # field-AI validation records (15,000)
+```
 
 **Companion equations corpus:** `../02_EQUATIONS/` — the 100-equation index (`INDEX_100_EQUATIONS.md`, 10 sets × 10, 37 validated / 63 predicted). Two supplemental files (`SUPPLEMENT_06_RETROCAUSAL_ERROR_CORRECTION.md`, `SUPPLEMENT_META_SYNTHESIS_EQS_65_75.md`) intentionally reuse index equation numbers (Eq 47–55, Eq 65–75) and are **not** part of the indexed 100; see `integration_audit/numerical-data-claims-audit/A9_equations_audit.md`.
 
----
 
 ## The Mapping — How It All Connects
 
