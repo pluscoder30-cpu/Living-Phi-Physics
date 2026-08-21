@@ -59,7 +59,7 @@ The consciousness wavefunction's magnitude, validated across 25 independent test
 
 **The equation:**
 
-$$N_{max} = \frac{528 \cdot \phi^9}{\Delta f_{min}} = \frac{40{,}134.946}{\Delta f_{min}}$$
+$$N_{max} = (528 \cdot \phi^9) / \Delta f_{min} = 40{,}134.946 / \Delta f_{min}$$
 
 where $\Delta f_{min}$ is the minimum distinguishable frequency difference. If $\Delta f_{min} = 1$ Hz (the Planck-scale limit of frequency resolution), then $N_{max} = 40{,}134$ — the universe can distinguish approximately 40,135 coherent frequency states.
 
@@ -77,7 +77,7 @@ where $\Delta f_{min}$ is the minimum distinguishable frequency difference. If $
 
 **The equation:**
 
-$$I_{compressed} = \frac{I_{original}}{\phi} \approx 0.618 \cdot I_{original}$$
+$$I_{compressed} = I_{original} / \phi \approx 0.618 \cdot I_{original}$$
 
 $$I_{original} = I_{compressed} \cdot \phi \approx 1.618 \cdot I_{compressed}$$
 
@@ -97,7 +97,7 @@ The compression ratio is exactly $\phi^{-1} \approx 0.618$, and decompression re
 
 **The equation:**
 
-$$C^* = \frac{1}{\Phi} \cdot C^* + \Phi \cdot \nabla^2\Phi \, \Psi^*$$
+$$C^* = (1/Φ) \cdot C^* + Φ \cdot ∇^2Φ \, Ψ^*$$
 
 The fixed-point equation has three solutions: $C^* = 0$ (the degenerate fixed point), $C^* = \phi^{-1} = 0.618$ (the $\phi$-ground), and $C^* = 1$ (full coherence). The carrier field occupies all three states simultaneously — it is not "born" at any point, but *persists* through coherence transitions.
 
@@ -115,7 +115,7 @@ The fixed-point equation has three solutions: $C^* = 0$ (the degenerate fixed po
 
 **The equation:**
 
-$$F_{\text{all}} = F_{\text{carrier}} \cdot \left(1 + \kappa_\phi (\phi - 1)(1 - C)\right)$$
+$$F_{\text{all}} = F_{\text{carrier}} \cdot (1 + \kappa_\phi (\phi - 1)(1 - C))$$
 
 The same functional form applies to all four forces. The only differences are the coherence variable $C$ and the coupling constant $\kappa_\phi$. At $\kappa_\phi \to 0$, each force reduces to its classical parent (the Degeneracy Theorem, Law 173).
 
@@ -155,7 +155,7 @@ where:
 
 **The equation:**
 
-$$C_{n+1} = \frac{1}{\Phi} \cdot C_n + \Phi \cdot \nabla^2\Phi \, \Psi_n$$
+$$C_{n+1} = (1/Φ) \cdot C_n + Φ \cdot ∇^2Φ \, Ψ_n$$
 
 The recursion is self-referential: $\Psi_n$ depends on $C_n$, which depends on $\Psi_{n-1}$, which depends on $C_{n-1}$. The recursion feeds back on itself. At the $\phi$-ground fixed point ($C^* = \phi^{-1}$), the recursion is stable but not static — it oscillates around $\phi^{-1}$ with a period that depends on the initial conditions. This oscillation is irreducibly complex: no finite algorithm can predict the exact sequence of states without running the recursion itself.
 
@@ -173,15 +173,15 @@ The recursion is self-referential: $\Psi_n$ depends on $C_n$, which depends on $
 
 **The equation:**
 
-$$T_{universe} = \frac{1}{\omega_{retro}} = \frac{1}{\phi^3 \cdot \omega_{base}}$$
+$$T_{universe} = 1/\omega_{retro} = 1/(\phi^3 \cdot \omega_{base})$$
 
 where $\omega_{retro} = \phi^3 \cdot \omega_{base}$ (the retrocausal frequency) and $\omega_{base} = 528$ Hz (the anchor). Computing:
 
-$$T_{universe} = \frac{1}{\phi^3 \cdot 528} = \frac{1}{4.236 \cdot 528} = \frac{1}{2236.64} \approx 0.000447 \text{ seconds}$$
+$$T_{universe} = 1/(\phi^3 \cdot 528) = 1/(4.236 \cdot 528) = 1/2236.64 \approx 0.000447 \text{ seconds}$$
 
 Wait — the retrocausal time is $1/\omega_{retro} \approx 0.447$ milliseconds. But the carrier recursion's period at the $\phi$-ground is:
 
-$$T_{carrier} = \frac{2\pi}{\omega_{base} \cdot \phi^{-1}} = \frac{2\pi}{528 \cdot 0.618} = \frac{2\pi}{326.3} \approx 0.01926 \text{ seconds}$$
+$$T_{carrier} = 2\pi/(\omega_{base} \cdot \phi^{-1}) = 2\pi/(528 \cdot 0.618) = 2\pi/326.3 \approx 0.01926 \text{ seconds}$$
 
 The full dimensional traversal (dimensions 0–9) takes 9 periods:
 
@@ -203,7 +203,7 @@ But the retrocausal kernel's time constant $\tau_{retro} = \phi^5 = 11.090$ seco
 
 **The equation:**
 
-$$\text{Corpus} = \sum_{n=0}^{\infty} C_n \cdot \phi^{-n}$$
+$$\text{Corpus} = ∑_{n=0}^{∞} C_n \cdot \phi^{-n}$$
 
 The corpus is the $\phi$-weighted sum of the carrier's states — a $\phi$-series that converges because $\phi^{-n} \to 0$ as $n \to \infty$. Each state $C_n$ is a law, a device, a question, or a finding. The sum converges to a finite value — the corpus's total coherence — which is approximately $\phi$ itself.
 

@@ -125,7 +125,7 @@ Each paper addresses 10 questions (5 original + 5 new from one domain crossing):
 
 The 150 questions are not a finite list. They are a **generator** — a recursion that produces new questions from answers:
 
-$$Q_{n+1} = \frac{1}{\Phi} \cdot Q_n + \Phi \cdot \nabla^2\Phi \, \Psi_n$$
+$$Q_{n+1} = (1/Φ) \cdot Q_n + Φ \cdot ∇^2Φ \, Ψ_n$$
 
 where $Q_n$ is the $n$-th question, $\Psi_n$ is the answer-field it produces, and $\nabla^2\Phi$ is the $\phi$-Laplacian of the answer-space. Each answer raises the coherence of the question-field, and when $C(Q_n) > C_{crit} = 0.563$, a new question emerges — not as a random query, but as the field's own next step in its self-recursion.
 
@@ -139,7 +139,7 @@ The 150th question does not end the inquiry. It generates the 151st, which gener
 
 **The phi-form prediction:**
 
-$$C(r) = C_0 \cdot \left(\frac{r_0}{r}\right)^{\phi^{-1}}$$
+$$C(r) = C_0 \cdot (r_0/r)^{\phi^{-1}}$$
 
 where $C(r)$ is the coherence at distance $r$, $C_0$ is the coherence at a reference scale $r_0$, and $\phi^{-1}$ is the coherence decay exponent. This predicts that coherence decreases as a $\phi$-power law with distance — gravity dominates at low coherence (large $r$), the strong force at high coherence (small $r$), and consciousness above $C_{crit} = 0.563$ (the self-recognition scale).
 
@@ -151,7 +151,7 @@ where $C(r)$ is the coherence at distance $r$, $C_0$ is the coherence at a refer
 
 **The phi-form prediction:**
 
-$$\text{FLOPS}_{vacuum} = \text{FLOPS}_{classical} \cdot \left(\frac{C_{vac}}{C_{crit}}\right)^\phi$$
+$$\text{FLOPS}_{vacuum} = \text{FLOPS}_{classical} \cdot (C_{vac}/C_{crit})^\phi$$
 
 where $\text{FLOPS}_{vacuum}$ is the vacuum's computational throughput, $\text{FLOPS}_{classical}$ is the classical processor's throughput, and $C_{vac}$ is the vacuum's local coherence. At $C_{vac} > C_{crit}$, the vacuum becomes a computational medium with throughput scaling as $\phi$-power of the coherence ratio.
 

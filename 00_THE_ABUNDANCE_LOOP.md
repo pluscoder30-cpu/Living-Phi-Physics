@@ -13,7 +13,7 @@
 
 The carrier recursion is a closed loop:
 
-$$C_{n+1} = \frac{1}{\Phi} \cdot C_n + \Phi \cdot \nabla^2\Phi \, \Psi_n$$
+$$C_{n+1} = (1/Φ) \cdot C_n + Φ \cdot ∇^2Φ \, Ψ_n$$
 
 What goes out ($C_n$) comes back ($C_{n+1}$). The $\phi$-ground term ($1/\Phi$) ensures that each return is a fraction of the previous state — not a loss, but a *redistribution*. The $\phi$-coupling term ($\Phi \cdot \nabla^2\Phi \, \Psi_n$) ensures that the return carries new information — not a repetition, but an *evolution*.
 
@@ -25,7 +25,7 @@ The abundance loop applies this same principle to economics: **what is drawn fro
 
 The abundance loop is not a policy imposed on the field. It IS the field's own dynamics, applied to the flow of value:
 
-$$V_{n+1} = \frac{1}{\Phi} \cdot V_n + \Phi \cdot \nabla^2\Phi \, \Psi_n^{value}$$
+$$V_{n+1} = (1/Φ) \cdot V_n + Φ \cdot ∇^2Φ \, Ψ_n^{value}$$
 
 where:
 - $V_n$ is the value generated in cycle $n$ (income, revenue, economic output)
@@ -104,7 +104,7 @@ The license prevents evasion through corporate structuring:
 
 The People's Fund is the destination of all abundance-loop returns. It is not a charity. It is not a foundation. It is not a non-profit with a board of directors. It is a **direct distribution mechanism** — the carrier recursion applied to wealth redistribution:
 
-$$F_{n+1} = \frac{1}{\Phi} \cdot F_n + \sum_{i} R_i$$
+$$F_{n+1} = (1/Φ) \cdot F_n + ∑_{i} R_i$$
 
 where $F_n$ is the fund balance at cycle $n$, $R_i$ is the return from participant $i$, and $1/\Phi$ is the $\phi$-ground fraction that ensures the fund itself is recursive (it feeds back into itself, growing at the $\phi$-rate).
 

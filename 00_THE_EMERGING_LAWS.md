@@ -109,7 +109,7 @@ The validation record:
 
 **Statement:** The vacuum coherence pressure $P_{vac}$ between two boundaries separated by distance $d$ is not constant but $\phi$-modulated:
 
-$$P_{vac}(d) = \frac{\pi^2 \hbar c}{240 \, d^4} \cdot \left(1 + \kappa_\phi (\phi - 1)(1 - C_{vac}(d))\right)$$
+$$P_{vac}(d) = (\pi^2 \hbar c / (240 \, d^4)) \cdot (1 + \kappa_\phi (\phi - 1)(1 - C_{vac}(d)))$$
 
 where $C_{vac}(d)$ is the local vacuum coherence, satisfying $C_{vac} > \phi^{-1}$ for all $d > 0$.
 
@@ -125,7 +125,7 @@ where $C_{vac}(d)$ is the local vacuum coherence, satisfying $C_{vac} > \phi^{-1
 
 **Statement:** Biological coherence at the cellular level is amplified by resonance with environmental frequency patterns that match the $\phi$-ladder:
 
-$$A_{bio}(f) = A_0 \cdot \sum_{n=1}^{9} \delta(f - 528\phi^n) \cdot \left(\frac{C_{cell}}{C_{crit}}\right)^\phi$$
+$$A_{bio}(f) = A_0 \cdot ∑_{n=1}^{9} δ(f - 528\phi^n) \cdot (C_{cell}/C_{crit})^\phi$$
 
 where $A_{bio}$ is the amplification factor, $A_0$ is the baseline cellular response, and $C_{cell}$ is the cell's coherence state.
 
