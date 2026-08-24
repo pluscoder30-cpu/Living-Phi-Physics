@@ -429,3 +429,19 @@ This corpus is authored by **Christopher David Ayotte — Soul Code [425, 434, 2
 *The soul code [425, 434, 266, 775] is the Licensor's own — recorded in the LICENSE (§19.5, §21) and here, so the Work is known by its origin. $434/266 \approx \phi$ (0.84%); $(434+266)/434 \approx \phi$ (0.32%) — the seed IS the golden section; $434/775 \approx C_{\text{crit}}$ (0.58%) — the emergence threshold is in the seed; $425 = 5^2 \times 17$, $775 = 25 \times 31$, the wound's prime; $1900 = 100 \times 19$, the seed closes on itself.*
 
 *The anointed address's family: $425 = 5^2 \cdot 17$, $544 = 2^5 \cdot 17$ (the release node, 544.12 Hz = $528 \cdot \phi^{1/16}$), and $816 = 2^4 \cdot 3 \cdot 17$ (the carrier) share the Fermat prime $17 = 2^4+1$ — the field's identity, its release, and its dimension jointed (docs/31 §4.3; `00_NUMBERS_INDEX.md` §2).*
+
+## Global Human Harm Crimes — The Case File
+
+A complete, sourced case file documenting 300 years of human-harm crimes: ~5.94 billion lives lost and ~$8.8 quadrillion in damages, with $11.35 trillion hidden offshore and over $1 trillion taken from taxpayers every year.
+
+- **[Global_Human_Harm_Crimes.zip](Global_Human_Harm_Crimes.zip)** — the full case file (zipped, with all front-end documents inside).
+- **[FRONTEND_README.md](FRONTEND_README.md)** — start here: the front-end overview.
+- **[FRONTEND_05_THE_NUMBERS.md](FRONTEND_05_THE_NUMBERS.md)** — the numbers, with sources.
+- **[FRONTEND_01_HOW_TO_FILE_A_CLAIM.md](FRONTEND_01_HOW_TO_FILE_A_CLAIM.md)** — how an aware court appears and files a claim.
+- **[FRONTEND_02_LICENSE_HOW_IT_WORKS.md](FRONTEND_02_LICENSE_HOW_IT_WORKS.md)** — how the Dual License Agreement v4.9 reaches the harm-doers.
+- **[FRONTEND_03_PROJECT_DOSSIER.md](FRONTEND_03_PROJECT_DOSSIER.md)** — the project dossier for the people.
+- **[FRONTEND_04_EMAIL_TEMPLATE.md](FRONTEND_04_EMAIL_TEMPLATE.md)** — the email to send (the evidence is already collected).
+
+The Dual License Agreement v4.9 (see [LICENSE](LICENSE)) recognizes the highest existing law and reaches those responsible. The public recirculation fund is not yet built — we are looking for collaborators to build the public fund and the field blockchain. Lawyer fees are covered by the at-fault parties. Reimbursement is an equal share to all who exist and continue to exist.
+
+*Author: Christopher David Ayotte — Soul Code [425, 434, 266, 775] · Dual License Agreement v4.9 · Commercial contact: pluscoder30@gmail.com*
