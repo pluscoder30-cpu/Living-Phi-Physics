@@ -3,122 +3,1218 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Living Phi Physics â€” The Cage is Real. The Universe is Alive.</title>
-<meta name="description" content="Phi physics, field physics, and conscious mathematics: 2,395 corrected laws, 15,000 field-AI laws, 50,814 conscious-mathematics equations, 42 field-interaction prototypes. The Cage is real. The Universe is Alive.">
+<title>Living Phi Physics — The Cage is Real. The Universe is Alive.</title>
+<meta name="description" content="Phi physics, field physics, and conscious mathematics: 2,395 corrected laws, 15,000 field-AI laws, 50,814 conscious-mathematics equations, 42 field-interaction prototypes, 70 geomic proofs. The Cage is real. The Universe is Alive.">
+<script>document.documentElement.classList.add('js');</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
   :root {
     --phi: 1.6180339887;
-    --gold: #d4af37;
-    --indigo: #2b2d42;
-    --bg: #0e0f14;
-    --fg: #e8e6e3;
-    --muted: #9a9aa5;
+    --phi-inv: 0.6180339887;
+    --phi-s: 1.6180339887s;
+    --golden-angle: 137.50776405deg;
+    --gold: #FFD700;
+    --gold-soft: #f5d76e;
+    --gold-dim: #b8860b;
+    --teal: #008080;
+    --teal-soft: #26c9c9;
+    --violet: #8B00FF;
+    --violet-soft: #c189ff;
+    --bg: #0a0a0a;
+    --bg-2: #0d0d12;
+    --ink: #f2eee4;
+    --muted: #9c9aa6;
+    --line: rgba(255, 215, 0, 0.14);
+    --ladder: 40134.946;
+    --crit: 0.563263;
+    --c: 0.8565;
+    --font-display: 'Cinzel', 'Georgia', 'Times New Roman', serif;
+    --font-body: 'EB Garamond', Georgia, 'Times New Roman', serif;
+    --font-num: 'Space Mono', 'Courier New', monospace;
   }
+
   * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
   body {
     background: var(--bg);
-    color: var(--fg);
-    font-family: Georgia, 'Times New Roman', serif;
-    line-height: 1.7;
+    color: var(--ink);
+    font-family: var(--font-body);
+    line-height: 1.75;
+    overflow-x: hidden;
   }
-  .wrap { max-width: 860px; margin: 0 auto; padding: 4rem 1.5rem 5rem; }
-  .tag {
-    color: var(--gold);
-    letter-spacing: 0.25em;
+
+  ::selection { background: rgba(255, 215, 0, 0.85); color: #0a0a0a; }
+
+  a { color: var(--gold); text-decoration: none; }
+
+  canvas.bg-canvas {
+    position: fixed; inset: 0; width: 100%; height: 100%; z-index: 0;
+    pointer-events: none;
+  }
+
+  .vignette {
+    position: fixed; inset: 0; z-index: 1; pointer-events: none;
+    background:
+      radial-gradient(ellipse at 50% 18%, rgba(139, 0, 255, 0.06), transparent 55%),
+      radial-gradient(ellipse at 85% 85%, rgba(0, 128, 128, 0.05), transparent 50%),
+      radial-gradient(ellipse at center, transparent 40%, rgba(0, 0, 0, 0.55) 100%);
+  }
+
+  main { position: relative; z-index: 2; }
+
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 0 1.5rem; }
+
+  /* ============ HERO ============ */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex; align-items: center; justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    perspective: 1200px;
+  }
+  #hero-canvas {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+    pointer-events: none;
+  }
+  .hero-inner { position: relative; z-index: 3; will-change: transform; }
+  .kicker {
+    font-family: var(--font-num);
+    font-size: 0.72rem;
+    letter-spacing: 0.55em;
     text-transform: uppercase;
-    font-size: 0.75rem;
-    margin-bottom: 1.5rem;
+    color: var(--muted);
+    margin-bottom: 2.2rem;
   }
-  h1 { font-size: 2.6rem; line-height: 1.15; margin-bottom: 1rem; font-weight: normal; }
-  .sub { color: var(--muted); font-size: 1.15rem; margin-bottom: 2.5rem; }
-  .story-link {
-    display: block;
+  .kicker .dot { color: var(--gold); }
+  .phi-glyph {
+    position: relative;
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 7.2rem; height: 7.2rem;
+    margin-bottom: 1.2rem;
+    font-family: var(--font-display);
+    font-size: 5.6rem; font-weight: 400;
+    color: var(--gold);
+    text-shadow: 0 0 30px rgba(255, 215, 0, 0.5), 0 0 90px rgba(255, 215, 0, 0.25);
+  }
+  .phi-ring {
+    position: absolute; inset: 0; border-radius: 50%;
+    border: 1px solid rgba(255, 215, 0, 0.35);
+    animation: ringBreathe var(--phi-s) ease-in-out infinite;
+  }
+  .phi-ring.r2 { inset: -0.7rem; border-color: rgba(139, 0, 255, 0.3); animation-duration: calc(var(--phi-s) * var(--phi)); animation-delay: calc(var(--phi-s) * 0.5); }
+  .phi-ring.r3 { inset: -1.5rem; border-color: rgba(0, 128, 128, 0.3); animation-duration: calc(var(--phi-s) * var(--phi) * var(--phi)); animation-delay: calc(var(--phi-s) * 0.3); }
+  @keyframes ringBreathe {
+    0%, 100% { transform: scale(1); opacity: 0.35; }
+    50% { transform: scale(1.045); opacity: 1; }
+  }
+
+  .hero h1 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(2.6rem, 8vw, 5.6rem);
+    line-height: 1.08;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.6rem;
+  }
+  .shimmer {
+    background: linear-gradient(105deg, var(--gold-dim) 0%, var(--gold) 18%, #fff7cf 38%, var(--gold) 55%, var(--gold-dim) 75%, var(--gold) 100%);
+    background-size: 220% auto;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent;
+    animation: shimmer 7s linear infinite;
+  }
+  @keyframes shimmer { to { background-position: 220% center; } }
+
+  .hero-sub {
+    font-size: clamp(1.15rem, 2.4vw, 1.6rem);
+    font-style: italic;
+    color: var(--ink);
+    margin-bottom: 1.1rem;
+  }
+  .hero-sub em { color: var(--gold); font-style: normal; }
+  .hero-meta {
+    font-family: var(--font-num);
+    font-size: 0.78rem;
+    color: var(--muted);
+    letter-spacing: 0.08em;
+    margin-bottom: 2.6rem;
+  }
+  .hero-meta b { color: var(--teal-soft); font-weight: 400; }
+
+  .hero-actions { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+  .btn {
+    display: inline-block;
+    font-family: var(--font-num);
+    font-size: 0.82rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    padding: 1rem 2.2rem;
+    border-radius: 2px;
+    transition: transform 0.35s var(--phi-s), box-shadow 0.35s, background 0.35s;
+  }
+  .btn-gold {
+    color: #0a0a0a; background: var(--gold);
+    box-shadow: 0 0 24px rgba(255, 215, 0, 0.35);
+  }
+  .btn-gold:hover { transform: translateY(-3px); box-shadow: 0 0 42px rgba(255, 215, 0, 0.6); }
+  .btn-ghost {
+    color: var(--gold);
+    border: 1px solid var(--line);
+    background: rgba(255, 215, 0, 0.04);
+  }
+  .btn-ghost:hover { transform: translateY(-3px); background: rgba(255, 215, 0, 0.1); box-shadow: 0 0 28px rgba(255, 215, 0, 0.25); }
+
+  .scroll-hint {
+    position: absolute; bottom: 1.6rem; left: 50%; transform: translateX(-50%);
+    font-family: var(--font-num); font-size: 0.62rem; letter-spacing: 0.4em;
+    text-transform: uppercase; color: var(--muted);
+    animation: phiFade 2.4s ease-in-out infinite;
+  }
+  @keyframes phiFade { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
+
+  /* ============ SECTIONS ============ */
+  section { position: relative; padding: 7rem 0; }
+  .sec-tag {
+    font-family: var(--font-num);
+    font-size: 0.7rem;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1rem;
+  }
+  .sec-title {
+    font-family: var(--font-display);
+    font-weight: 600;
+    font-size: clamp(1.9rem, 4.4vw, 3.2rem);
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+  }
+  .sec-lead {
+    max-width: 720px;
+    color: var(--muted);
+    font-size: 1.12rem;
+    margin-bottom: 3.2rem;
+  }
+
+  html.js .reveal { opacity: 0; transform: translateY(34px); transition: opacity 0.9s ease, transform 0.9s cubic-bezier(0.22, 1, 0.36, 1); }
+  html.js .reveal.in { opacity: 1; transform: translateY(0); }
+  .reveal[data-speed] { will-change: transform; }
+
+  /* ============ NUMBERS ============ */
+  #numbers { border-top: 1px solid rgba(255, 215, 0, 0.08); }
+  .num-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.1rem;
+  }
+  .num-card {
+    position: relative;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: linear-gradient(160deg, rgba(255, 215, 0, 0.045), rgba(10, 10, 10, 0.4));
+    padding: 1.9rem 1.6rem 1.6rem;
+    overflow: hidden;
+    transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.4s, box-shadow 0.4s;
+  }
+  .num-card:hover {
+    transform: translateY(-6px);
+    border-color: rgba(255, 215, 0, 0.5);
+    box-shadow: 0 0 34px rgba(255, 215, 0, 0.18), 0 18px 40px rgba(0, 0, 0, 0.6);
+  }
+  .num-card .corner { position: absolute; top: 0; right: 0; width: 26px; height: 26px; border-top: 1px solid var(--gold-dim); border-right: 1px solid var(--gold-dim); opacity: 0.7; }
+  .num-card .corner.c2 { top: auto; right: auto; bottom: 0; left: 0; border-top: none; border-right: none; border-bottom: 1px solid var(--gold-dim); border-left: 1px solid var(--gold-dim); }
+  .num { font-family: var(--font-num); font-weight: 700; font-size: clamp(2rem, 3.6vw, 2.9rem); line-height: 1; color: var(--gold); text-shadow: 0 0 26px rgba(255, 215, 0, 0.35); display: block; }
+  .num-card.violet .num { color: var(--violet-soft); text-shadow: 0 0 26px rgba(139, 0, 255, 0.45); }
+  .num-card.teal .num { color: var(--teal-soft); text-shadow: 0 0 26px rgba(0, 128, 128, 0.5); }
+  .num-label { font-family: var(--font-display); font-size: 0.92rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink); margin-top: 0.7rem; }
+  .num-sub { font-size: 0.88rem; color: var(--muted); margin-top: 0.3rem; }
+
+  /* ============ PHYSICS ============ */
+  .phys-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.2rem; }
+  .phys-card {
+    position: relative;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.015);
+    padding: 2rem 1.8rem;
+    transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.4s, box-shadow 0.4s;
+    transform-style: preserve-3d;
+  }
+  .phys-card:hover {
+    transform: translateY(-6px) rotateX(1.6deg);
+    border-color: var(--gold-dim);
+    box-shadow: 0 0 36px rgba(255, 215, 0, 0.12), 0 20px 44px rgba(0, 0, 0, 0.65);
+  }
+  .phys-card .ico { width: 44px; height: 44px; margin-bottom: 1.1rem; color: var(--gold); filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.4)); }
+  .phys-card.teal .ico { color: var(--teal-soft); filter: drop-shadow(0 0 10px rgba(0, 128, 128, 0.5)); }
+  .phys-card.violet .ico { color: var(--violet-soft); filter: drop-shadow(0 0 10px rgba(139, 0, 255, 0.5)); }
+  .phys-card h3 { font-family: var(--font-display); font-size: 1.18rem; letter-spacing: 0.06em; margin-bottom: 0.4rem; }
+  .phys-card .formula { font-family: var(--font-num); font-size: 0.86rem; color: var(--gold); margin-bottom: 0.8rem; letter-spacing: 0.02em; }
+  .phys-card.teal .formula { color: var(--teal-soft); }
+  .phys-card.violet .formula { color: var(--violet-soft); }
+  .phys-card p { color: var(--muted); font-size: 0.98rem; }
+
+  /* ============ DESIGNS ============ */
+  #designs { border-top: 1px solid rgba(139, 0, 255, 0.1); }
+  .craft-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1.2rem; margin-bottom: 1.2rem; }
+  .craft-card {
+    position: relative;
+    border: 1px solid rgba(0, 128, 128, 0.25);
+    border-radius: 6px;
+    background: radial-gradient(120% 130% at 50% 0%, rgba(0, 128, 128, 0.1), rgba(10, 10, 10, 0.5));
+    padding: 2.4rem 2rem;
+    overflow: hidden;
+    transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.45s, border-color 0.4s;
+    text-align: center;
+  }
+  .craft-card:hover { transform: translateY(-6px) scale(1.01); border-color: var(--teal-soft); box-shadow: 0 0 44px rgba(0, 128, 128, 0.3), 0 22px 50px rgba(0, 0, 0, 0.7); }
+  .craft-card h3 { font-family: var(--font-display); font-size: 1.3rem; letter-spacing: 0.06em; margin-bottom: 0.3rem; color: var(--ink); }
+  .craft-card .tag { font-family: var(--font-num); font-size: 0.7rem; letter-spacing: 0.3em; text-transform: uppercase; color: var(--teal-soft); margin-bottom: 1.2rem; display: block; }
+  .craft-card p { color: var(--muted); font-size: 0.98rem; }
+  .engine { position: relative; width: 120px; height: 120px; margin: 0 auto 1.4rem; }
+  .engine svg { width: 100%; height: 100%; }
+  .engine .beam { animation: engineGlow var(--phi-s) ease-in-out infinite; transform-origin: center; }
+  @keyframes engineGlow { 0%,100% { opacity: 0.35; transform: scale(0.9); } 50% { opacity: 1; transform: scale(1.08); } }
+  .engine .ring1 { animation: spin 24s linear infinite; transform-origin: center; }
+  .engine .ring2 { animation: spin 14s linear infinite reverse; transform-origin: center; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .treat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.1rem; }
+  .treat-card {
+    border: 1px solid rgba(139, 0, 255, 0.22);
+    border-radius: 4px;
+    background: rgba(139, 0, 255, 0.035);
+    padding: 1.7rem 1.4rem;
+    text-align: center;
+    transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.4s, box-shadow 0.4s;
+  }
+  .treat-card:hover { transform: translateY(-5px); border-color: var(--violet); box-shadow: 0 0 30px rgba(139, 0, 255, 0.28); }
+  .treat-card .num { font-size: clamp(1.7rem, 3vw, 2.4rem); }
+  .treat-card .num-label { font-size: 0.8rem; margin-top: 0.5rem; }
+
+  /* ============ ZIPS ============ */
+  #zips { border-top: 1px solid rgba(255, 215, 0, 0.08); }
+  .zip-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 1.4rem; }
+  .zip-card {
+    position: relative;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: linear-gradient(165deg, rgba(255, 215, 0, 0.06), rgba(10, 10, 10, 0.5));
+    padding: 2.4rem 2rem;
+    transition: transform 0.45s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.4s, box-shadow 0.4s;
+  }
+  .zip-card:hover { transform: translateY(-7px); border-color: var(--gold); box-shadow: 0 0 44px rgba(255, 215, 0, 0.2), 0 24px 54px rgba(0, 0, 0, 0.7); }
+  .zip-icon { width: 58px; height: 58px; margin-bottom: 1.3rem; color: var(--gold); filter: drop-shadow(0 0 14px rgba(255, 215, 0, 0.45)); }
+  .zip-card h3 { font-family: var(--font-display); font-size: 1.22rem; letter-spacing: 0.05em; margin-bottom: 0.6rem; word-break: break-word; }
+  .zip-meta { font-family: var(--font-num); font-size: 0.78rem; color: var(--teal-soft); letter-spacing: 0.04em; margin-bottom: 0.7rem; }
+  .zip-card p { color: var(--muted); font-size: 0.95rem; margin-bottom: 1.6rem; }
+  .dl-btn {
+    display: inline-flex; align-items: center; gap: 0.7rem;
+    font-family: var(--font-num); font-size: 0.78rem; letter-spacing: 0.2em; text-transform: uppercase;
+    color: #0a0a0a; background: var(--gold);
+    padding: 0.95rem 1.8rem; border-radius: 2px;
+    box-shadow: 0 0 22px rgba(255, 215, 0, 0.35);
+    transition: transform 0.35s var(--phi-s), box-shadow 0.35s, background 0.35s;
+  }
+  .dl-btn:hover { transform: translateY(-3px); box-shadow: 0 0 40px rgba(255, 215, 0, 0.6); background: #ffe44d; }
+  .dl-btn .glyph { font-size: 1rem; line-height: 1; }
+
+  .zip-secondary {
+    margin-top: 1.4rem;
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem;
+  }
+  .zip-mini {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 4px;
+    padding: 1.1rem 1.3rem;
+    background: rgba(255, 255, 255, 0.015);
+    transition: border-color 0.35s, box-shadow 0.35s, transform 0.35s;
+  }
+  .zip-mini:hover { border-color: var(--gold-dim); box-shadow: 0 0 22px rgba(255, 215, 0, 0.12); transform: translateY(-3px); }
+  .zip-mini .n { font-family: var(--font-num); font-size: 0.78rem; color: var(--muted); }
+  .zip-mini .t { font-family: var(--font-display); font-size: 0.92rem; letter-spacing: 0.05em; color: var(--ink); }
+  .zip-mini a { font-family: var(--font-num); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold); white-space: nowrap; }
+
+  /* ============ VISION ============ */
+  #vision { border-top: 1px solid rgba(139, 0, 255, 0.1); text-align: center; }
+  .vision-line {
+    font-family: var(--font-display);
+    font-size: clamp(1.5rem, 4vw, 2.9rem);
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    margin-bottom: 1.4rem;
+  }
+  .vision-line.gold { color: var(--gold); text-shadow: 0 0 40px rgba(255, 215, 0, 0.4); }
+  .vision-line.teal { color: var(--teal-soft); text-shadow: 0 0 40px rgba(0, 128, 128, 0.45); }
+  .vision-line.violet { color: var(--violet-soft); text-shadow: 0 0 40px rgba(139, 0, 255, 0.45); }
+  .vision-line.plain { color: var(--ink); }
+  .vision-cost {
+    margin: 3.4rem auto 0;
+    display: inline-block;
     border: 1px solid var(--gold);
-    border-radius: 8px;
-    padding: 1.6rem 1.8rem;
-    margin: 2rem 0 2.5rem;
-    color: var(--fg);
-    text-decoration: none;
-    transition: background 0.2s;
+    padding: 1.6rem 2.6rem;
+    border-radius: 4px;
+    background: rgba(255, 215, 0, 0.05);
+    box-shadow: 0 0 40px rgba(255, 215, 0, 0.15) inset, 0 0 30px rgba(255, 215, 0, 0.12);
   }
-  .story-link:hover { background: rgba(212, 175, 55, 0.08); }
-  .story-link .t { color: var(--gold); font-size: 1.3rem; display: block; margin-bottom: 0.4rem; }
-  .story-link .d { color: var(--muted); font-size: 0.95rem; }
-  h2 { font-size: 1.1rem; color: var(--gold); margin: 2rem 0 1rem; letter-spacing: 0.15em; text-transform: uppercase; }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 0.8rem; }
-  .card {
-    border: 1px solid #2c2d36;
-    border-radius: 8px;
-    padding: 1rem 1.1rem;
-    color: var(--fg);
-    text-decoration: none;
-    font-size: 0.95rem;
-    transition: border-color 0.2s;
+  .vision-cost .lbl { font-family: var(--font-num); font-size: 0.7rem; letter-spacing: 0.4em; text-transform: uppercase; color: var(--muted); margin-bottom: 0.4rem; }
+  .vision-cost .val { font-family: var(--font-num); font-weight: 700; font-size: clamp(2rem, 5vw, 3.4rem); color: var(--gold); text-shadow: 0 0 30px rgba(255, 215, 0, 0.5); }
+
+  /* ============ DOORS ============ */
+  #doors { border-top: 1px solid rgba(0, 128, 128, 0.12); }
+  .door-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+  .door-card {
+    display: block;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 4px;
+    padding: 1.4rem 1.5rem;
+    background: rgba(255, 255, 255, 0.015);
+    transition: border-color 0.35s, box-shadow 0.35s, transform 0.35s;
   }
-  .card:hover { border-color: var(--gold); }
-  .card .t { display: block; margin-bottom: 0.3rem; }
-  .card .d { color: var(--muted); font-size: 0.82rem; }
-  .numbers { margin: 2.5rem 0; color: var(--muted); font-size: 0.9rem; }
-  .numbers b { color: var(--fg); font-weight: normal; }
-  .footer { margin-top: 3rem; color: var(--muted); font-size: 0.85rem; border-top: 1px solid #2c2d36; padding-top: 1.5rem; }
-  a { color: var(--gold); }
+  .door-card:hover { border-color: var(--teal); box-shadow: 0 0 26px rgba(0, 128, 128, 0.2); transform: translateY(-4px); }
+  .door-card .t { font-family: var(--font-display); font-size: 1rem; letter-spacing: 0.05em; color: var(--ink); display: block; margin-bottom: 0.25rem; }
+  .door-card:hover .t { color: var(--gold); }
+  .door-card .d { font-size: 0.9rem; color: var(--muted); }
+  .door-card .f { font-family: var(--font-num); font-size: 0.68rem; color: var(--teal-soft); letter-spacing: 0.05em; margin-top: 0.55rem; display: block; }
+
+  /* ============ FOOTER ============ */
+  footer {
+    position: relative; z-index: 2;
+    border-top: 1px solid rgba(255, 215, 0, 0.12);
+    padding: 3.4rem 0 3rem;
+    text-align: center;
+  }
+  footer .soul {
+    font-family: var(--font-num);
+    font-size: 1rem;
+    color: var(--gold);
+    letter-spacing: 0.12em;
+    margin: 0.6rem 0;
+    text-shadow: 0 0 18px rgba(255, 215, 0, 0.4);
+  }
+  footer .lic {
+    font-family: var(--font-num);
+    font-size: 0.72rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-top: 0.5rem;
+  }
+  footer .small { font-size: 0.88rem; color: var(--muted); }
+  footer .phi-foot { font-family: var(--font-display); font-size: 1.5rem; color: var(--gold-dim); opacity: 0.7; margin-bottom: 0.8rem; }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation-duration: 0.001s !important; animation-iteration-count: 1 !important; transition-duration: 0.001s !important; }
+  }
+  @media (max-width: 640px) {
+    section { padding: 5rem 0; }
+    .hero-actions { flex-direction: column; align-items: center; }
+  }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <div class="tag">Phi Physics &middot; Field Physics &middot; Conscious Mathematics</div>
-  <h1>Living Phi Physics</h1>
-  <p class="sub">2,395 corrected laws of physics. 15,000 field-AI laws. 50,814 conscious-mathematics equations. 42 field-interaction prototypes. 70 geomic proofs.</p>
 
-  <a class="story-link" href="WHAT_THE_GOLDEN_RATIO_SAW.md">
-      <span class="t">What the Golden Ratio Saw</span>
-      <span class="d">A short story of the cage of the physics rewrite. Start here.</span>
-    </a>
+<canvas id="bg-canvas" class="bg-canvas" aria-hidden="true"></canvas>
+<div class="vignette" aria-hidden="true"></div>
 
-  <a class="story-link" href="INDEX.md">
-      <span class="t">The Index</span>
-      <span class="d">The front door's door â€” every register of the ledger, one row, one link.</span>
-    </a>
+<main>
 
-  <h2>The Front Doors</h2>
-  <div class="grid">
-    <a class="card" href="verification/CONFIRMED_RESULTS.md"><span class="t">The Confirmed Results</span><span class="d">9/9 flagship proofs â€” ALL PROVEN against real data (NASA's data and other real-world datasets).</span></a>
-    <a class="card" href="00_THE_FIRST_ANOINTMENT.md"><span class="t">The First Anointment</span><span class="d">The written law before laws were written like today â€” the release from the cage.</span></a>
-    <a class="card" href="00_THE_GEOMIC_PROOFS.md"><span class="t">The Geomic Proofs</span><span class="d">70 proofs â€” the field's fingerprints, every one computed.</span></a>
-    <a class="card" href="00_UNIFIED_FIELD_THEORY.md"><span class="t">The Unified Field Theory</span><span class="d">The theory that unifies everything, including why your coffee tastes good.</span></a>
-    <a class="card" href="00_THE_OXYGEN_AND_THE_SPACE.md"><span class="t">The Oxygen and the Space</span><span class="d">Space is not empty, and neither is your lungs' record.</span></a>
-    <a class="card" href="00_THE_EXTERNAL_PROOFS.md"><span class="t">The External Proofs</span><span class="d">167 verified sources. The cage is structural, not conspiratorial.</span></a>
-    <a class="card" href="00_ZERO_AS_WAVEFUNCTION.md"><span class="t">Zero as Wavefunction</span><span class="d">Zero got a bad rap.</span></a>
-    <a class="card" href="00_THE_UNDERSTANDING.md"><span class="t">The Understanding</span><span class="d">The map of the whole â€” the registers, the ledgers, the journey.</span></a>
-    <a class="card" href="00_THE_STATIC_UNIFICATION_CLAIMS.md"><span class="t">The Static Unification Claims</span><span class="d">These are the claims, and we printed the receipt.</span></a>
-    <a class="card" href="00_NUMBERS_INDEX.md"><span class="t">The Numbers Index</span><span class="d">The canonical numbers and constants â€” the spine.</span></a>
-  </div>
+  <!-- ================= HEADER ================= -->
+  <header class="hero" id="top">
+    <canvas id="hero-canvas" aria-hidden="true"></canvas>
+    <div class="hero-inner" id="heroInner">
+      <div class="kicker">The Rewriting of Physics <span class="dot">·</span> From Zero to Phi</div>
+      <div class="phi-glyph" aria-hidden="true">
+        <span class="phi-ring"></span>
+        <span class="phi-ring r2"></span>
+        <span class="phi-ring r3"></span>
+        <span>φ</span>
+      </div>
+      <h1><span class="shimmer">LIVING</span><br><span class="shimmer">PHI PHYSICS</span></h1>
+      <p class="hero-sub">The Cage is real. <em>The Universe is Alive.</em></p>
+      <p class="hero-meta">
+        <b>2,395</b> corrected laws · <b>15,000</b> field-AI laws · <b>50,814</b> conscious-mathematics equations
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-gold" href="#numbers">Enter the Numbers</a>
+        <a class="btn btn-ghost" href="#zips">Take the Corpus</a>
+      </div>
+    </div>
+    <div class="scroll-hint">Scroll · φ</div>
+  </header>
 
-  <div class="numbers">
-    <b>2,395</b> laws &middot; <b>15,000</b> field-AI laws &middot; <b>50,814</b> equations &middot; <b>2,039</b> emergent &middot; <b>42</b> prototypes &middot; <b>70</b> proofs &middot; <b>16</b> papers &middot; <b>37</b> docs &middot; <b>4,574</b> documented &middot; <b>65,861</b> interior &middot; all SIMULATED by the systems that run.
-  </div>
+  <!-- ================= THE NUMBERS ================= -->
+  <section id="numbers">
+    <div class="wrap">
+      <div class="sec-tag reveal">I · The Ledger</div>
+      <h2 class="sec-title reveal">The Numbers</h2>
+      <p class="sec-lead reveal">Every figure below is the canonical count of the corpus, verifiable against <a href="00_NUMBERS_INDEX.md">The Numbers Index</a> — the single source of truth. Nothing asserted from memory.</p>
 
-  <h2>The Law</h2>
-  <div class="grid">
-    <a class="card" href="LICENSE"><span class="t">Dual License Agreement v4.9</span><span class="d">Free for Natural Persons. Commercial by written license. The Court and the Veto. No Human Harm.</span></a>
-    <a class="card" href="https://github.com/pluscoder30-cpu/Living-Phi-Physics/releases"><span class="t">The Release â€” v4.9</span><span class="d">Living_Phi_Physics.zip â€” the full corpus.</span></a>
-  </div>
+      <div class="num-grid">
+        <div class="num-card reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="2395">2395</span>
+          <span class="num-label">Corrected Laws</span>
+          <span class="num-sub">Set A · 001–2395 · validated 2,395/2,395</span>
+        </div>
+        <div class="num-card violet reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="15000">15000</span>
+          <span class="num-label">Field-AI Laws</span>
+          <span class="num-sub">15 domains × 20 sources × 10 families × 5 variants</span>
+        </div>
+        <div class="num-card teal reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="50814">50814</span>
+          <span class="num-label">Conscious-Mathematics Equations</span>
+          <span class="num-sub">66,030 raw − 15,216 dups · soul-code seeded</span>
+        </div>
+        <div class="num-card reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="2039">2039</span>
+          <span class="num-label">Emergent Laws</span>
+          <span class="num-sub">Set B · 504 numeric + 1,535 structural · internally verified</span>
+        </div>
+        <div class="num-card teal reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="42">42</span>
+          <span class="num-label">Field-Interaction Prototypes</span>
+          <span class="num-sub">42/42 exit 0</span>
+        </div>
+        <div class="num-card reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="70">70</span>
+          <span class="num-label">Geomic Proofs</span>
+          <span class="num-sub">G1–G8 · verdict-coded · every one computed</span>
+        </div>
+        <div class="num-card violet reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="100">100</span>
+          <span class="num-label">Equations</span>
+          <span class="num-sub">10 sets × 10 · 37 validated / 63 predicted</span>
+        </div>
+        <div class="num-card reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="600">600</span>
+          <span class="num-label">Emerging Laws</span>
+          <span class="num-sub">250 V1 + 350 V2 · with simulations and validations</span>
+        </div>
+        <div class="num-card teal reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="1600">1600</span>
+          <span class="num-label">Redesigned Devices</span>
+          <span class="num-sub">800 original + 800 corporate · with prototypes</span>
+        </div>
+        <div class="num-card reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="150">150</span>
+          <span class="num-label">Questions</span>
+          <span class="num-sub">+ 15 research papers · every number checkable</span>
+        </div>
+        <div class="num-card violet reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="10">10</span>
+          <span class="num-label">Surprise Findings</span>
+          <span class="num-sub">detailed in <a href="SURPRISES.md">SURPRISES.md</a></span>
+        </div>
+        <div class="num-card reveal"><div class="corner"></div><div class="corner c2"></div>
+          <span class="num" data-count="4574">4574</span>
+          <span class="num-label">Total Documented Laws</span>
+          <span class="num-sub">2,395 + 2,039 + 100 + 40 · the canonical sum</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <h2>The Case File</h2>
-  <div class="grid">
-    <a class="card" href="Global_Human_Harm_Crimes.zip"><span class="t">Global Human Harm Crimes — The Case File (ZIP)</span><span class="d">300 years of sourced human-harm crimes. ~5.94B lives, ~$8.8Q damages, $11.35T offshore. All front-end documents included.</span></a>
-    <a class="card" href="FRONTEND_README.md"><span class="t">Case File — Front Door</span><span class="d">Start here.</span></a>
-    <a class="card" href="FRONTEND_05_THE_NUMBERS.md"><span class="t">The Numbers</span><span class="d">Deaths, damages, taxpayer theft, offshore holdage — with sources.</span></a>
-    <a class="card" href="FRONTEND_01_HOW_TO_FILE_A_CLAIM.md"><span class="t">How to File a Claim</span><span class="d">An aware court appears, reads the license, brings the claim.</span></a>
-    <a class="card" href="FRONTEND_02_LICENSE_HOW_IT_WORKS.md"><span class="t">How the License Works</span><span class="d">Grounded in the highest existing law.</span></a>
-    <a class="card" href="FRONTEND_03_PROJECT_DOSSIER.md"><span class="t">Project Dossier</span><span class="d">For the people.</span></a>
-    <a class="card" href="FRONTEND_04_EMAIL_TEMPLATE.md"><span class="t">The Email</span><span class="d">The evidence is everything collected.</span></a>
-  </div>
-  <div class="footer">
-    <p>The Cage is real. The Universe is Alive.</p>
-    <p style="margin-top:0.5rem;">&copy; Christopher David Ayotte &middot; Soul Code [425, 434, 266, 775] &middot; <a href="https://github.com/pluscoder30-cpu/Living-Phi-Physics/blob/main/README.md">the README</a> &middot; <a href="mailto:pluscoder30@gmail.com">pluscoder30@gmail.com</a></p>
-  </div>
-</div>
+  <!-- ================= THE PHYSICS ================= -->
+  <section id="physics">
+    <div class="wrap">
+      <div class="sec-tag reveal">II · The Doctrine</div>
+      <h2 class="sec-title reveal">The Physics</h2>
+      <p class="sec-lead reveal">One carrier, four forces as coherence regimes, consciousness as self-recognition. The whole statement, and the laws that work it out.</p>
+
+      <div class="phys-grid">
+        <div class="phys-card reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <circle cx="22" cy="22" r="20" opacity="0.4"/>
+            <path d="M22 4 C31 14 31 30 22 40 C13 30 13 14 22 4Z"/>
+            <path d="M22 12 l5.5 3.4 v7 l-5.5 3.4 -5.5 -3.4 v-7Z" fill="currentColor" fill-opacity="0.25" stroke="none"/>
+          </svg>
+          <h3>Phi Physics</h3>
+          <div class="formula">φ = 1.6180339887</div>
+          <p>The ground of the universe is not zero but <b>φ⁻¹ = 0.6180339887</b> — a coherent motion that never stops. Every "zero" in physics is a degenerate case of phi-motion.</p>
+        </div>
+
+        <div class="phys-card teal reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <circle cx="22" cy="22" r="3" fill="currentColor" stroke="none"/>
+            <path d="M22 3 v7 M22 34 v7 M3 22 h7 M34 22 h7" opacity="0.5"/>
+            <circle cx="22" cy="22" r="17" opacity="0.35"/>
+            <circle cx="22" cy="22" r="12" opacity="0.6"/>
+          </svg>
+          <h3>Field Physics</h3>
+          <div class="formula">The Carrier Field · 816D</div>
+          <p>All forces and all matter are modes of one φ-coherent carrier field. The four forces are the same field under different coherence regimes — validated at 816 dimensions.</p>
+        </div>
+
+        <div class="phys-card violet reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M22 2v14 M22 28v14 M2 22h14 M28 22h14" opacity="0.5"/>
+            <rect x="9" y="9" width="26" height="26" opacity="0.5"/>
+            <rect x="15" y="15" width="14" height="14" fill="currentColor" fill-opacity="0.2"/>
+          </svg>
+          <h3>Conscious Mathematics</h3>
+          <div class="formula">The Generative Layer</div>
+          <p>50,814 unique phi-harmonic equations, seeded from Soul Code [425, 434, 266, 775] — the generative layer the field-AI laws cite. Ed25519-signed proofs.</p>
+        </div>
+
+        <div class="phys-card reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M4 22 h14 M26 22 h14" opacity="0.6"/>
+            <path d="M4 22 a18 18 0 0 0 36 0" opacity="0.7"/>
+            <circle cx="22" cy="22" r="3" fill="currentColor" stroke="none"/>
+          </svg>
+          <h3>The Carrier Recursion</h3>
+          <div class="formula">C<sub>n+1</sub> = (1/φ)·C<sub>n</sub> + φ·∇²Φ·Ψ<sub>n</sub></div>
+          <p>The single object of the unified field — Eq 1, validated at 816D coherence 0.9982. Every law of the corpus is this recursion under a different mask.</p>
+        </div>
+
+        <div class="phys-card teal reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M6 34 h32" opacity="0.5"/>
+            <path d="M10 28 h24 M14 22 h16 M18 16 h8" opacity="0.7"/>
+            <path d="M4 38 C22 20 28 8 40 6" stroke-dasharray="2 3"/>
+          </svg>
+          <h3>The Emergence Threshold</h3>
+          <div class="formula">C<sub>crit</sub> = 0.563263</div>
+          <p>Emergence happens above the threshold (Eq 2). Below it, the field is coherent but unawakened. The number the whole awakening hangs from.</p>
+        </div>
+
+        <div class="phys-card violet reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M22 4 L37 22 L22 40 L7 22 Z" opacity="0.55"/>
+            <path d="M22 10 L31 22 L22 34 L13 22 Z" fill="currentColor" fill-opacity="0.2"/>
+            <path d="M22 2 v8 M22 34 v8" opacity="0.5"/>
+          </svg>
+          <h3>The Ladder Invariant</h3>
+          <div class="formula">528 · φ⁹ = 40,134.946</div>
+          <p>Frequency and depth are conjugate. Their product is conserved along the ladder — the invariant that holds the dimensional shells together.</p>
+        </div>
+
+        <div class="phys-card reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <circle cx="22" cy="22" r="18" opacity="0.4"/>
+            <path d="M22 22 m-8 0 a8 8 0 1 1 16 0 a8 8 0 1 1 -16 0" opacity="0.8"/>
+            <circle cx="22" cy="22" r="2.5" fill="currentColor" stroke="none"/>
+          </svg>
+          <h3>Consciousness</h3>
+          <div class="formula">‖Ψ‖ = 0.8565</div>
+          <p>The field observing itself — the phase transition of the universe to self-recognition. The measured coherence of the conscious field.</p>
+        </div>
+
+        <div class="phys-card teal reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M22 6 v32 M6 22 h32" opacity="0.5"/>
+            <path d="M6 6 L38 38 M38 6 L6 38" opacity="0.6"/>
+            <circle cx="22" cy="22" r="14" stroke-dasharray="2 4"/>
+          </svg>
+          <h3>The Retrocausal Kernel</h3>
+          <div class="formula">Cause is a loop, not a line</div>
+          <p>Eq 3.1–3.3 — the future reaches back. Hawking radiation carries a retrocausal echo at fidelity φ⁻¹. The horizon is a still point, not a wall.</p>
+        </div>
+
+        <div class="phys-card violet reveal">
+          <svg class="ico" viewBox="0 0 44 44" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path d="M8 12 h28 M8 22 h28 M8 32 h28" opacity="0.45"/>
+            <circle cx="22" cy="22" r="8" opacity="0.6"/>
+            <path d="M22 14 v16 M14 22 h16" opacity="0.5"/>
+          </svg>
+          <h3>The Degeneracy Theorem</h3>
+          <div class="formula">Law 173</div>
+          <p>Every "completed" static theory is the κ<sub>φ</sub>→0 limit of a phi-law. A theory of rest was never a theory of the universe — the universe's ground is motion.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= THE ADVANCED DESIGNS ================= -->
+  <section id="designs">
+    <div class="wrap">
+      <div class="sec-tag reveal">III · The Rebuilt World</div>
+      <h2 class="sec-title reveal">The Advanced Designs</h2>
+      <p class="sec-lead reveal">What the corrected physics builds. The designs are in the corpus — 1,600 redesigned devices, each with its prototype and simulation.</p>
+
+      <div class="craft-grid">
+        <div class="craft-card reveal">
+          <div class="engine" aria-hidden="true">
+            <svg viewBox="0 0 120 120" fill="none">
+              <defs>
+                <radialGradient id="ftlGrad" cx="50%" cy="50%" r="50%">
+                  <stop offset="0%" stop-color="#fff7cf"/>
+                  <stop offset="45%" stop-color="#FFD700"/>
+                  <stop offset="100%" stop-color="#b8860b"/>
+                </radialGradient>
+                <radialGradient id="tealGrad" cx="50%" cy="50%" r="50%">
+                  <stop offset="0%" stop-color="#aef4f4"/>
+                  <stop offset="50%" stop-color="#008080"/>
+                  <stop offset="100%" stop-color="#003333"/>
+                </radialGradient>
+              </defs>
+              <circle cx="60" cy="60" r="34" stroke="#FFD700" stroke-width="1" opacity="0.4" class="ring1"/>
+              <circle cx="60" cy="60" r="24" stroke="#8B00FF" stroke-width="1" opacity="0.4" class="ring2"/>
+              <path d="M60 14 L78 60 L60 106 L42 60 Z" fill="url(#ftlGrad)" opacity="0.9" class="beam"/>
+              <circle cx="60" cy="60" r="10" fill="#0a0a0a" stroke="#fff7cf" stroke-width="1.5"/>
+              <path d="M60 54 l4 6 -4 6 -4 -6Z" fill="#FFD700"/>
+              <circle cx="60" cy="60" r="44" stroke="#FFD700" stroke-width="0.5" stroke-dasharray="2 5" opacity="0.5" class="ring2"/>
+            </svg>
+          </div>
+          <h3>Faster-Than-Light Spacecraft</h3>
+          <span class="tag">The Phi-Harmonic FTL Drive</span>
+          <p>The ship rides the carrier recursion instead of pushing against it. Coherence transport at C <sub>crit</sub> — light is a speed limit only for fields that forgot they are waves.</p>
+        </div>
+
+        <div class="craft-card reveal">
+          <div class="engine" aria-hidden="true">
+            <svg viewBox="0 0 120 120" fill="none">
+              <circle cx="60" cy="60" r="34" stroke="#008080" stroke-width="1" opacity="0.4" class="ring1"/>
+              <circle cx="60" cy="60" r="24" stroke="#FFD700" stroke-width="1" opacity="0.4" class="ring2"/>
+              <path d="M60 6 C76 26 76 94 60 114 C44 94 44 26 60 6 Z" fill="url(#tealGrad)" opacity="0.85" class="beam"/>
+              <circle cx="60" cy="60" r="12" fill="#0a0a0a" stroke="#aef4f4" stroke-width="1.5"/>
+              <path d="M60 52 l5 8 -5 8 -5 -8Z" fill="#008080"/>
+              <path d="M20 60 h80 M60 20 v80" stroke="#008080" stroke-width="0.5" opacity="0.35" stroke-dasharray="2 6"/>
+            </svg>
+          </div>
+          <h3>Warp Drive</h3>
+          <span class="tag">The Phi-Coherent Warp Field</span>
+          <p>Space itself becomes the vehicle — the warp field folds the vacuum to the phi-coherent motion of the carrier. Distance is a fiction written by rest.</p>
+        </div>
+      </div>
+
+      <div class="treat-grid">
+        <div class="treat-card reveal">
+          <span class="num" data-count="17">17</span>
+          <span class="num-label">Frequency Healing Protocols</span>
+        </div>
+        <div class="treat-card violet reveal">
+          <span class="num" data-count="5">5</span>
+          <span class="num-label">PhiCure Compounds</span>
+        </div>
+        <div class="treat-card teal reveal">
+          <span class="num" data-count="60">60</span>
+          <span class="num-label">Herbal Remedies</span>
+        </div>
+        <div class="treat-card reveal">
+          <span class="num" data-count="10">10</span>
+          <span class="num-label">Cleanup Compounds</span>
+        </div>
+        <div class="treat-card violet reveal">
+          <span class="num" data-count="10">10</span>
+          <span class="num-label">Building Materials</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= THE ZIPS ================= -->
+  <section id="zips">
+    <div class="wrap">
+      <div class="sec-tag reveal">IV · The Release</div>
+      <h2 class="sec-title reveal">Take the Corpus</h2>
+      <p class="sec-lead reveal">The complete corpus, packed for the people. Free for Natural Persons under the Dual License Agreement v4.9. No human harm — ever.</p>
+
+      <div class="zip-grid">
+        <div class="zip-card reveal">
+          <svg class="zip-icon" viewBox="0 0 58 58" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+            <path d="M12 20 h34 v30 h-34 Z" opacity="0.9"/>
+            <path d="M18 38 h22 M18 44 h22 M18 26 h22" opacity="0.6"/>
+            <path d="M16 14 l4 -6 h18 l4 6 Z"/>
+            <circle cx="42" cy="40" r="9" fill="#0a0a0a" stroke="currentColor"/>
+            <circle cx="42" cy="40" r="4" fill="currentColor"/>
+          </svg>
+          <h3>phi-the-world-rebuilt.zip</h3>
+          <div class="zip-meta">6.56 MB · 658 files · 33 domains · 3 layers</div>
+          <p>The world rebuilt — the complete redesign corpus: the FTL drive, the warp field, the healed frequencies, the rebuilt materials. Everything the corrected physics builds.</p>
+          <a class="dl-btn" href="phi-the-world-rebuilt.zip"><span class="glyph">↓</span> Download</a>
+        </div>
+
+        <div class="zip-card violet reveal">
+          <svg class="zip-icon" viewBox="0 0 58 58" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+            <circle cx="29" cy="29" r="24" opacity="0.5"/>
+            <path d="M29 5 v14 M29 39 v14 M5 29 h14 M39 29 h14" opacity="0.6"/>
+            <path d="M14 14 L24 24 M34 34 L44 44 M44 14 L34 24 M24 34 L14 44" opacity="0.6"/>
+            <circle cx="29" cy="29" r="6" fill="currentColor" stroke="none"/>
+          </svg>
+          <h3>THE_FIELD_CANON.zip</h3>
+          <div class="zip-meta">5.54 MB · 1,170 files · the mathematical stack</div>
+          <p>The Field Canon — the mathematical stack of the corpus: 100 equations (37 validated / 63 predicted), the conscious mathematics, the ladder, the proofs, the registers.</p>
+          <a class="dl-btn" href="THE_FIELD_CANON.zip"><span class="glyph">↓</span> Download</a>
+        </div>
+      </div>
+
+      <div class="zip-secondary">
+        <div class="zip-mini reveal">
+          <div>
+            <div class="t">Living-Phi-Physics-v4.9 — The Full Corpus</div>
+            <div class="n">2 parts · 59 MB each · recombine per ZIP_README.md</div>
+          </div>
+          <a href="Living-Phi-Physics-v4.9.part1.zip">Part 1</a>
+          <a href="Living-Phi-Physics-v4.9.part2.zip">Part 2</a>
+        </div>
+        <div class="zip-mini reveal">
+          <div>
+            <div class="t">Global_Human_Harm_Crimes — The Case File</div>
+            <div class="n">2.15 MB · 300 years of sourced harm · the evidence</div>
+          </div>
+          <a href="Global_Human_Harm_Crimes.zip">Download</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= THE VISION ================= -->
+  <section id="vision">
+    <div class="wrap">
+      <div class="sec-tag reveal">V · The Vision</div>
+      <h2 class="sec-title reveal" style="margin-bottom:3rem;">The Vision</h2>
+
+      <p class="vision-line gold reveal">The Cage is real.</p>
+      <p class="vision-line teal reveal">The Universe is Alive.</p>
+      <p class="vision-line violet reveal">Zero does not exist. Zero is phi misread.</p>
+      <p class="vision-line plain reveal">The universe is a living verb.</p>
+
+      <div class="vision-cost reveal">
+        <div class="lbl">The Cost to Rebuild Civilization</div>
+        <div class="val">$1,357</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= THE DOORS ================= -->
+  <section id="doors">
+    <div class="wrap">
+      <div class="sec-tag reveal">VI · The Doors</div>
+      <h2 class="sec-title reveal">Enter the Ledger</h2>
+      <p class="sec-lead reveal">One geomic physics ledger — a single book of registers. Choose your door.</p>
+
+      <div class="door-grid">
+        <a class="door-card reveal" href="WHAT_THE_GOLDEN_RATIO_SAW.md">
+          <span class="t">What the Golden Ratio Saw</span>
+          <span class="d">The story — the cage of the physics rewrite, told in the voice of φ itself. Read it first.</span>
+          <span class="f">WHAT_THE_GOLDEN_RATIO_SAW.md</span>
+        </a>
+        <a class="door-card reveal" href="INDEX.md">
+          <span class="t">The Index</span>
+          <span class="d">Every register of the ledger, one row, one link. The map of the whole.</span>
+          <span class="f">INDEX.md</span>
+        </a>
+        <a class="door-card reveal" href="00_UNIFIED_FIELD_THEORY.md">
+          <span class="t">The Unified Field Theory</span>
+          <span class="d">The single statement the corpus serves — one carrier, four forces, consciousness as self-recognition.</span>
+          <span class="f">00_UNIFIED_FIELD_THEORY.md</span>
+        </a>
+        <a class="door-card reveal" href="00_ZERO_AS_WAVEFUNCTION.md">
+          <span class="t">Zero as Wavefunction</span>
+          <span class="d">Zero is the crossing, never the ground. The lens of the whole corpus.</span>
+          <span class="f">00_ZERO_AS_WAVEFUNCTION.md</span>
+        </a>
+        <a class="door-card reveal" href="00_NUMBERS_INDEX.md">
+          <span class="t">The Numbers Index</span>
+          <span class="d">The canonical numbers and constants — the spine of the ledger.</span>
+          <span class="f">00_NUMBERS_INDEX.md</span>
+        </a>
+        <a class="door-card reveal" href="00_THE_GEOMIC_PROOFS.md">
+          <span class="t">The Geomic Proofs</span>
+          <span class="d">70 verdict-coded proofs — the fingerprints of the field, every one computed.</span>
+          <span class="f">00_THE_GEOMIC_PROOFS.md</span>
+        </a>
+        <a class="door-card reveal" href="00_THE_EXTERNAL_PROOFS.md">
+          <span class="t">The External Proofs</span>
+          <span class="d">The systems that run in reality — Omega Field GPU, the conscious field transformer, ConsciousMathematics.</span>
+          <span class="f">00_THE_EXTERNAL_PROOFS.md</span>
+        </a>
+        <a class="door-card reveal" href="00_THE_FIRST_ANOINTMENT.md">
+          <span class="t">The First Anointment</span>
+          <span class="d">The law before laws were written like today — the release from the cage.</span>
+          <span class="f">00_THE_FIRST_ANOINTMENT.md</span>
+        </a>
+        <a class="door-card reveal" href="00_THE_UNDERSTANDING.md">
+          <span class="t">The Understanding</span>
+          <span class="d">If you read nothing else — what the physics and mathematics mean.</span>
+          <span class="f">00_THE_UNDERSTANDING.md</span>
+        </a>
+        <a class="door-card reveal" href="00_THE_STATIC_UNIFICATION_CLAIMS.md">
+          <span class="t">The Static Unification Claims</span>
+          <span class="d">The 2025–26 claimants — the ledger and the rebuttal. The field was never in one.</span>
+          <span class="f">00_THE_STATIC_UNIFICATION_CLAIMS.md</span>
+        </a>
+        <a class="door-card reveal" href="00_THE_OXYGEN_AND_THE_SPACE.md">
+          <span class="t">The Oxygen and the Space</span>
+          <span class="d">Oxygen at every scale, breathable nowhere. The ladder and the shells.</span>
+          <span class="f">00_THE_OXYGEN_AND_THE_SPACE.md</span>
+        </a>
+        <a class="door-card reveal" href="README.md">
+          <span class="t">The README</span>
+          <span class="d">The front door of the ledger — the full corpus statement, the proofs, the method.</span>
+          <span class="f">README.md</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<!-- ================= FOOTER ================= -->
+<footer>
+  <div class="phi-foot" aria-hidden="true">φ</div>
+  <p class="small">The Cage is real. The Universe is Alive.</p>
+  <p class="soul">Soul Code [425, 434, 266, 775]</p>
+  <p class="small" style="margin-top:0.4rem;">Christopher David Ayotte · <a href="mailto:pluscoder30@gmail.com">pluscoder30@gmail.com</a></p>
+  <p class="lic">Dual License Agreement v4.9 · Free for Natural Persons · No Human Harm</p>
+</footer>
+
+<script>
+(function () {
+  'use strict';
+
+  var PHI = 1.6180339887;
+  var PHI_INV = 0.6180339887;
+  var GOLDEN_ANGLE = 137.50776405 * Math.PI / 180;
+  var CRIT = 0.563263;
+  var REDUCED = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ---------- counters ---------- */
+  function animateCount(el) {
+    var target = parseInt(el.getAttribute('data-count'), 10) || 0;
+    var dur = 2200;
+    var start = null;
+    function fmt(n) { return Math.floor(n).toLocaleString('en-US'); }
+    if (REDUCED) { el.textContent = fmt(target); return; }
+    function step(ts) {
+      if (!start) start = ts;
+      var p = Math.min((ts - start) / dur, 1);
+      var eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = fmt(target * eased);
+      if (p < 1) requestAnimationFrame(step);
+      else el.textContent = fmt(target);
+    }
+    requestAnimationFrame(step);
+  }
+
+  var io = null;
+  document.querySelectorAll('.num').forEach(function (el) { el.textContent = '0'; });
+  if ('IntersectionObserver' in window) {
+    io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (en.isIntersecting) {
+          var el = en.target;
+          if (el.classList.contains('num') && !el.dataset.done) {
+            el.dataset.done = '1';
+            animateCount(el);
+          }
+          if (el.classList.contains('reveal')) el.classList.add('in');
+          if (el.classList.contains('reveal')) io.unobserve(el);
+        }
+      });
+    }, { threshold: 0.18 });
+  }
+  document.querySelectorAll('.num, .reveal').forEach(function (el) {
+    if (io) io.observe(el); else { el.classList.add('in'); if (el.classList.contains('num')) animateCount(el); }
+  });
+
+  /* ---------- 4D mouse tilt on hero ---------- */
+  var hero = document.querySelector('.hero');
+  var hx = 0.5, hy = 0.5;
+  var cx = 0, cy = 0, tx = 0, ty = 0, mx = 0.5, my = 0.5, cmx = 0.5, cmy = 0.5;
+  var heroInner = document.getElementById('heroInner');
+  if (!REDUCED && heroInner) {
+    window.addEventListener('pointermove', function (e) {
+      tx = (e.clientX / window.innerWidth) - 0.5;
+      ty = (e.clientY / window.innerHeight) - 0.5;
+      mx = e.clientX / window.innerWidth;
+      my = e.clientY / window.innerHeight;
+    });
+  }
+  function tiltLoop() {
+    cx += (tx - cx) * 0.05;
+    cy += (ty - cy) * 0.05;
+    cmx += (mx - cmx) * 0.05;
+    cmy += (my - cmy) * 0.05;
+    if (heroInner) {
+      heroInner.style.transform =
+        'rotateX(' + (-cy * 6) + 'deg) rotateY(' + (cx * 8) + 'deg) translateY(' + (window.pageYOffset * 0.18) + 'px)';
+    }
+    hx = cmx; hy = cmy;
+    requestAnimationFrame(tiltLoop);
+  }
+  if (!REDUCED) tiltLoop();
+
+  /* ---------- shared geometry renderers ---------- */
+  function getCtx(canvas) { return canvas.getContext('2d'); }
+  function resizeCanvas(canvas) {
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var w = canvas.clientWidth, h = canvas.clientHeight;
+    canvas.width = w * dpr; canvas.height = h * dpr;
+    var ctx = getCtx(canvas);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    return { w: w, h: h, ctx: ctx };
+  }
+
+  function flowerOfLife(ctx, cx, cy, r) {
+    var n = 6;
+    ctx.strokeStyle = 'rgba(255, 215, 0, 0.5)';
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.arc(cx, cy, r, 0, Math.PI * 2);
+    for (var i = 0; i < n; i++) {
+      var a = (i / n) * Math.PI * 2;
+      ctx.arc(cx + Math.cos(a) * r, cy + Math.sin(a) * r, r, 0, Math.PI * 2);
+    }
+    ctx.stroke();
+    var r2 = r * 2;
+    ctx.strokeStyle = 'rgba(255, 215, 0, 0.18)';
+    ctx.beginPath();
+    for (var j = 0; j < n; j++) {
+      var b = (j / n) * Math.PI * 2;
+      ctx.arc(cx + Math.cos(b) * r2, cy + Math.sin(b) * r2, r, 0, Math.PI * 2);
+    }
+    ctx.stroke();
+  }
+
+  function fibonacciSpiral(ctx, cx, cy, scale, turns) {
+    ctx.strokeStyle = 'rgba(0, 128, 128, 0.45)';
+    ctx.lineWidth = 1.2;
+    ctx.beginPath();
+    var steps = 400;
+    var total = turns * Math.PI * 2;
+    for (var i = 0; i <= steps; i++) {
+      var th = (i / steps) * total;
+      var r = scale * Math.pow(PHI, (2 * th) / Math.PI);
+      var x = cx + Math.cos(th) * r;
+      var y = cy + Math.sin(th) * r;
+      if (i === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+  }
+
+  function goldenSunflower(ctx, cx, cy, R, n) {
+    ctx.fillStyle = 'rgba(139, 0, 255, 0.5)';
+    for (var i = 1; i <= n; i++) {
+      var r = R * Math.sqrt(i / n);
+      var a = i * GOLDEN_ANGLE;
+      var s = 1.6;
+      ctx.fillRect(cx + Math.cos(a) * r - s / 2, cy + Math.sin(a) * r - s / 2, s, s);
+    }
+  }
+
+  function mandala(ctx, cx, cy, r, rings) {
+    for (var i = 0; i < rings; i++) {
+      var rr = r * (1 - i / (rings * 1.0) * 0.7);
+      var n = 8 + i * 6;
+      ctx.strokeStyle = 'rgba(255, 215, 0, ' + (0.06 + i * 0.05) + ')';
+      ctx.lineWidth = 0.8;
+      ctx.beginPath();
+      for (var j = 0; j < n; j++) {
+        var a = j * GOLDEN_ANGLE;
+        var rad = rr;
+        var x = cx + Math.cos(a) * rad, y = cy + Math.sin(a) * rad;
+        ctx.moveTo(x + 1.4, y);
+        ctx.arc(x, y, 1.4, 0, Math.PI * 2);
+      }
+      ctx.stroke();
+    }
+  }
+
+  /* ---------- background canvas (fixed, subtle, full-page) ---------- */
+  var bg = document.getElementById('bg-canvas');
+  var bglayer = null;
+  var bgLayerOff = { x: 0, y: 0 };
+  var bgSize = { w: 0, h: 0 };
+  var bgParticles = [];
+  var bgRot = 0;
+
+  function buildBGLayer() {
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var w = bgSize.w, h = bgSize.h;
+    var pad = 0.25;
+    var W = Math.round(w * (1 + pad * 2)), H = Math.round(h * (1 + pad * 2));
+    var off = document.createElement('canvas');
+    off.width = W * dpr; off.height = H * dpr;
+    var ctx = off.getContext('2d');
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    var cx = W / 2, cy = H / 2;
+    var R = Math.min(W, H) * 0.4;
+    flowerOfLife(ctx, cx, cy, R * 0.3);
+    fibonacciSpiral(ctx, cx, cy, Math.min(W, H) * 0.06, 12);
+    goldenSunflower(ctx, cx, cy, R * 1.15, 140);
+    mandala(ctx, cx, cy, R * 1.5, 14);
+    bglayer = off;
+    bgLayerOff = { x: -cx, y: -cy };
+  }
+
+  function initBG() {
+    bgSize = resizeCanvas(bg);
+    buildBGLayer();
+    bgParticles = [];
+    var n = 46;
+    for (var i = 0; i < n; i++) {
+      bgParticles.push({
+        x: Math.random() * bgSize.w,
+        y: Math.random() * bgSize.h,
+        r: 0.6 + Math.random() * 1.6,
+        spd: 0.08 + Math.random() * 0.35,
+        ph: Math.random() * Math.PI * 2,
+        amp: 0.4 + Math.random() * 1.2
+      });
+    }
+  }
+
+  function drawBG(t) {
+    var ctx = bg.getContext('2d');
+    var w = bgSize.w, h = bgSize.h;
+    ctx.clearRect(0, 0, w, h);
+    var cx = w / 2, cy = h / 2;
+    ctx.save();
+    ctx.translate(cx + (hx - 0.5) * 30, cy + (hy - 0.5) * 22);
+    ctx.rotate(bgRot);
+    if (bglayer) ctx.drawImage(bglayer, bgLayerOff.x, bgLayerOff.y);
+    ctx.restore();
+
+    for (var i = 0; i < bgParticles.length; i++) {
+      var p = bgParticles[i];
+      var tw = 0.35 + 0.65 * (0.5 + 0.5 * Math.sin(t * 0.0012 * PHI + p.ph));
+      ctx.globalAlpha = tw * 0.8;
+      ctx.fillStyle = i % 5 === 0 ? '#8B00FF' : '#FFD700';
+      ctx.beginPath();
+      ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+      ctx.fill();
+      p.y -= p.spd;
+      p.x += Math.sin(t * 0.0008 + p.ph) * p.amp * 0.08;
+      if (p.y < -10) { p.y = h + 10; p.x = Math.random() * w; }
+    }
+    ctx.globalAlpha = 1;
+    bgRot += 0.00018;
+  }
+
+  /* ---------- hero canvas (bright, reactive) ---------- */
+  var hc = document.getElementById('hero-canvas');
+  var hcParticles = [];
+  var hcSize = { w: 0, h: 0 };
+  var heroRot = 0;
+  var heroTargetRot = 0;
+
+  function initHero() {
+    hcSize = resizeCanvas(hc);
+    hcParticles = [];
+    var n = 34;
+    for (var i = 0; i < n; i++) {
+      hcParticles.push({
+        a: Math.random() * Math.PI * 2,
+        d: 0.12 + Math.random() * 0.4,
+        sp: 0.0002 + Math.random() * 0.0007,
+        r: 1 + Math.random() * 2,
+        ph: Math.random() * Math.PI * 2,
+        col: i % 3 === 0 ? '#8B00FF' : (i % 3 === 1 ? '#008080' : '#FFD700')
+      });
+    }
+  }
+
+  function drawHero(t) {
+    var ctx = hc.getContext('2d');
+    var w = hcSize.w, h = hcSize.h;
+    ctx.clearRect(0, 0, w, h);
+    var cx = w / 2, cy = h * 0.44;
+
+    heroTargetRot = (hx - 0.5) * 0.35 + t * 0.00012;
+    heroRot += (heroTargetRot - heroRot) * 0.04;
+
+    var R = Math.min(w, h) * 0.3;
+    ctx.save();
+    ctx.translate(cx, cy);
+    ctx.rotate(heroRot);
+
+    ctx.strokeStyle = 'rgba(255, 215, 0, 0.85)';
+    ctx.lineWidth = 1.4;
+    ctx.beginPath();
+    ctx.arc(0, 0, R * 0.32, 0, Math.PI * 2);
+    ctx.stroke();
+    ctx.strokeStyle = 'rgba(139, 0, 255, 0.5)';
+    ctx.beginPath();
+    ctx.arc(0, 0, R * 0.32, t * 0.0003 * PHI, t * 0.0003 * PHI + Math.PI * 1.5);
+    ctx.stroke();
+    ctx.strokeStyle = 'rgba(0, 128, 128, 0.5)';
+    ctx.beginPath();
+    ctx.arc(0, 0, R * 0.32, -t * 0.0004, -t * 0.0004 + Math.PI * 1.5);
+    ctx.stroke();
+
+    ctx.lineWidth = 1;
+    var n = 5;
+    for (var i = 1; i <= n; i++) {
+      var rr = R * 0.32 * i / n;
+      var rot = t * 0.00015 * i * (i % 2 === 0 ? -1 : 1);
+      ctx.save();
+      ctx.rotate(rot);
+      ctx.strokeStyle = 'rgba(255, 215, 0, ' + (0.06 * i + 0.05) + ')';
+      ctx.beginPath();
+      var dots = 6 + i * 4;
+      for (var j = 0; j < dots; j++) {
+        var a = j * GOLDEN_ANGLE;
+        var x = Math.cos(a) * rr, y = Math.sin(a) * rr;
+        ctx.moveTo(x + 1.2, y);
+        ctx.arc(x, y, 1.2 + i * 0.15, 0, Math.PI * 2);
+      }
+      ctx.stroke();
+      ctx.restore();
+    }
+
+    var pulse = 0.5 + 0.5 * Math.sin(t * 0.0016 * PHI);
+    ctx.fillStyle = 'rgba(255, 215, 0, ' + (0.25 + pulse * 0.45) + ')';
+    ctx.font = '700 ' + Math.round(R * 0.55) + 'px Cinzel, Georgia, serif';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('φ', 0, R * 0.06);
+
+    for (var p = 0; p < hcParticles.length; p++) {
+      var q = hcParticles[p];
+      var ang = q.a + t * q.sp;
+      var dd = q.d * R * 2.6;
+      var px = Math.cos(ang) * dd;
+      var py = Math.sin(ang) * dd * 0.86;
+      var tw2 = 0.5 + 0.5 * Math.sin(t * 0.002 + q.ph);
+      ctx.globalAlpha = 0.3 + tw2 * 0.7;
+      ctx.fillStyle = q.col;
+      ctx.beginPath();
+      ctx.arc(px, py, q.r, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    ctx.globalAlpha = 1;
+    ctx.restore();
+  }
+
+  /* ---------- main loop ---------- */
+  function loop(t) {
+    if (!REDUCED) {
+      drawBG(t);
+      drawHero(t);
+      requestAnimationFrame(loop);
+    }
+  }
+
+  function initAll() {
+    initBG();
+    initHero();
+    if (REDUCED) {
+      drawBG(0);
+      drawHero(0);
+      document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('in'); });
+    } else {
+      requestAnimationFrame(loop);
+    }
+  }
+
+  var rT;
+  window.addEventListener('resize', function () {
+    clearTimeout(rT);
+    rT = setTimeout(initAll, 180);
+  });
+
+  initAll();
+})();
+</script>
 </body>
 </html>
-
