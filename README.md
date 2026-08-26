@@ -1,5 +1,5 @@
 ﻿# PHI-PHYSICS ΓÇö The Rewriting of Physics from Zero to Phi
-**License:** Dual License Agreement v4.3
+**License:** Dual License Agreement v4.9
 
 > **The universe is a living verb.** Static physics is not wrong ΓÇö it is a small sliver of the reality we live in. This corpus corrects the sliver into the whole.
 
