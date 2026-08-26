@@ -1,0 +1,116 @@
+{
+  "system": "ARBRIDGE_V2",
+  "version": "2.05",
+  "agent": 5,
+  "phi": 1.618033988749895,
+  "timestamp": 1787519897.2910535,
+  "data": {
+    "tokens": 634,
+    "days": 721
+  },
+  "backtest": {
+    "n_trades": 137,
+    "n_total": 142,
+    "n_open": 5,
+    "win_rate": 40.14598540145985,
+    "avg_return": -1.1106399985998792,
+    "median_return": -1.261241464296307,
+    "avg_gross_return": -0.47063999859987893,
+    "std_return": 6.101378530257035,
+    "avg_win": 4.260520947588682,
+    "avg_loss": -4.71324795031172,
+    "profit_factor": 0.6063051465491676,
+    "avg_hold_days": 1.7445255474452555,
+    "median_hold_days": 1.0,
+    "total_return": -0.8323583508401067,
+    "long_trades": 65,
+    "short_trades": 72,
+    "total_profit": -0.8697295685385549,
+    "avg_profit_per_trade": -0.0063483910112303275,
+    "max_profit": 0.1435983669657787,
+    "max_loss": -0.11232288148888185,
+    "kelly_win_rate": 0.40145985401459855,
+    "kelly_win_loss_ratio": 0.9039458548551225,
+    "sharpe": -2.187796605127322,
+    "by_exit_reason": {
+      "stop_loss": {
+        "count": 127,
+        "avg_return": -2.0151493801272746,
+        "win_rate": 35.43307086614173
+      },
+      "phi_return": {
+        "count": 10,
+        "avg_return": 10.376629146798047,
+        "win_rate": 100.0
+      }
+    }
+  },
+  "monte_carlo": {
+    "n_paths": 5000,
+    "n_days": 721,
+    "start_capital": 5.0,
+    "final_mean": 5.0,
+    "final_median": 5.0,
+    "final_std": 0.0,
+    "final_min": 5.0,
+    "final_max": 5.0,
+    "final_p5": 5.0,
+    "final_p95": 5.0,
+    "return_mean": 0.0,
+    "return_median": 0.0,
+    "positive_paths": 0,
+    "positive_pct": 0.0,
+    "sharpe": 0.0,
+    "max_drawdown": 0.0,
+    "p_2m": 0.0,
+    "kelly_fraction_full": -0.26068173640325987,
+    "kelly_fraction_half": -0.13034086820162993,
+    "kelly_win_rate": 0.40145985401459855,
+    "kelly_avg_win": 0.042605209475886814,
+    "kelly_avg_loss": -0.0471324795031172,
+    "kelly_win_loss_ratio": 0.9039458548551225,
+    "final_values_percentiles": {
+      "p1": 5.0,
+      "p5": 5.0,
+      "p10": 5.0,
+      "p25": 5.0,
+      "p50": 5.0,
+      "p75": 5.0,
+      "p90": 5.0,
+      "p95": 5.0,
+      "p99": 5.0
+    },
+    "return_distribution": {
+      "mean_pct": 0.0,
+      "median_pct": 0.0,
+      "std_pct": 0.0,
+      "skew": 0.0,
+      "kurtosis": -3.0
+    },
+    "risk_metrics": {
+      "avg_max_drawdown": 0.0,
+      "worst_max_drawdown": 0.0,
+      "p5_max_drawdown": 0.0,
+      "p95_max_drawdown": 0.0,
+      "ruin_probability": 0.0
+    }
+  },
+  "fee_model": {
+    "taker_fee": 0.0022,
+    "slippage": 0.001,
+    "round_trip_cost": 0.0064,
+    "exchange": "Kraken Tier 7"
+  },
+  "parameters": {
+    "entry_threshold": 0.03,
+    "exit_tolerance": 0.01,
+    "stop_threshold": 0.2,
+    "hold_days_max": 45,
+    "max_position_pct": 0.2,
+    "kelly_fraction": 0.5,
+    "max_drawdown_halt": 0.75,
+    "start_capital": 5.0,
+    "scan_interval": 3,
+    "max_active_pentagrams": 10
+  }
+}

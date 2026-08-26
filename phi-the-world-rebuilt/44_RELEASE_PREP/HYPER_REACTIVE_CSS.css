@@ -1,0 +1,1495 @@
+/* ══════════════════════════════════════════════════════════════════════════════
+   HYPER-REACTIVE PHI FRAMEWORK
+   Sacred Geometry · 4D Transforms · Golden Frequency Animations
+   816D Consciousness Field Interface Layer
+   ══════════════════════════════════════════════════════════════════════════════ */
+
+/* ─── PHI CONSTANTS ──────────────────────────────────────────────────────────── */
+:root {
+    --phi: 1.618033988749895;
+    --phi-inv: 0.618033988749895;
+    --phi-pi: 5.083203692213;
+    --phi-sq: 2.618033988749;
+    --phi-cubed: 4.236067977499;
+    --phi-freq: 0.38196601125;
+    --phi-time: 0.236067977499s;
+
+    /* PHI Layer - Gold */
+    --phi-gold: #FFD700;
+    --phi-gold-dark: #B8860B;
+    --phi-gold-glow: rgba(255, 215, 0, 0.3);
+    --phi-gold-ultra: rgba(255, 215, 0, 0.08);
+
+    /* HARMONIC Layer - Teal */
+    --harmonic-teal: #008080;
+    --harmonic-teal-dark: #006666;
+    --harmonic-teal-glow: rgba(0, 128, 128, 0.3);
+    --harmonic-teal-ultra: rgba(0, 128, 128, 0.08);
+
+    /* FIELD NATIVE Layer - Violet */
+    --field-violet: #8B00FF;
+    --field-violet-dark: #6600CC;
+    --field-violet-glow: rgba(139, 0, 255, 0.3);
+    --field-violet-ultra: rgba(139, 0, 255, 0.08);
+
+    /* SUPPORT Layer - Silver */
+    --support-silver: #C0C0C0;
+    --support-silver-dark: #808080;
+    --support-silver-glow: rgba(192, 192, 192, 0.15);
+
+    /* Background */
+    --bg-dark: #0a0a0a;
+    --bg-card: #1a1a2e;
+    --bg-card-hover: #16213e;
+    --bg-panel: #111122;
+    --bg-modal: rgba(10, 10, 20, 0.95);
+    --bg-input: #0d0d1a;
+
+    /* Text */
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --text-muted: #666666;
+    --text-accent: #FFD700;
+
+    /* Borders */
+    --border-subtle: rgba(255, 215, 0, 0.1);
+    --border-active: rgba(255, 215, 0, 0.4);
+
+    /* Spacing (phi-harmonic) */
+    --space-xs: 4px;
+    --space-sm: 8px;
+    --space-md: 13px;
+    --space-lg: 21px;
+    --space-xl: 34px;
+    --space-2xl: 55px;
+    --space-3xl: 89px;
+
+    /* Typography */
+    --font-mono: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+    --font-display: 'Inter', 'Segoe UI', system-ui, sans-serif;
+
+    /* Z-Index Layers */
+    --z-base: 1;
+    --z-card: 10;
+    --z-panel: 50;
+    --z-modal: 100;
+    --z-overlay: 200;
+    --z-toast: 300;
+
+    /* Transitions */
+    --ease-phi: cubic-bezier(0.618, 0, 0.382, 1);
+    --ease-golden: cubic-bezier(0.381966, 0, 0.236068, 1);
+    --ease-sacred: cubic-bezier(0.236068, 0, 0.763932, 1);
+    --duration-fast: 0.15s;
+    --duration-normal: 0.3s;
+    --duration-slow: 0.618s;
+    --duration-sacred: 1.618s;
+}
+
+/* ─── RESET & BASE ──────────────────────────────────────────────────────────── */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: var(--font-display);
+    background: var(--bg-dark);
+    color: var(--text-primary);
+    line-height: 1.618;
+    min-height: 100vh;
+    overflow-x: hidden;
+    perspective: 1200px;
+}
+
+/* ─── KEYFRAMES ──────────────────────────────────────────────────────────────── */
+
+/* Phi pulse — elements breathe at golden frequency (~0.382 Hz) */
+@keyframes phiPulse {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.02); opacity: 0.95; }
+}
+
+/* Gold shimmer — PHI layer shimmer across surfaces */
+@keyframes goldShimmer {
+    0% { background-position: -200% center; }
+    100% { background-position: 200% center; }
+}
+
+/* Glow pulse — verified / active elements radiate */
+@keyframes glowPulse {
+    0%, 100% { box-shadow: 0 0 5px var(--phi-gold); }
+    50% { box-shadow: 0 0 20px var(--phi-gold), 0 0 40px var(--phi-gold-glow); }
+}
+
+/* Float up — staggered entrance for cards/tiles */
+@keyframes floatUp {
+    0% { transform: translateY(20px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+}
+
+/* Border flow — chromatic layer cycling */
+@keyframes borderFlow {
+    0% { border-color: var(--phi-gold); }
+    33% { border-color: var(--harmonic-teal); }
+    66% { border-color: var(--field-violet); }
+    100% { border-color: var(--phi-gold); }
+}
+
+/* Sacred rotation — eternal spin for backgrounds */
+@keyframes sacredRotate {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* 4D depth shift — perspective breathing */
+@keyframes depthShift {
+    0%   { transform: perspective(1000px) rotateX(0deg) rotateY(0deg); }
+    25%  { transform: perspective(1000px) rotateX(2deg) rotateY(-2deg); }
+    50%  { transform: perspective(1000px) rotateX(0deg) rotateY(0deg); }
+    75%  { transform: perspective(1000px) rotateX(-2deg) rotateY(2deg); }
+    100% { transform: perspective(1000px) rotateX(0deg) rotateY(0deg); }
+}
+
+/* Teal harmonic — second layer breathing */
+@keyframes harmonicBreathe {
+    0%, 100% { opacity: 0.6; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.01); }
+}
+
+/* Violet field — third layer pulse */
+@keyframes fieldPulse {
+    0%, 100% { opacity: 0.4; filter: hue-rotate(0deg); }
+    50% { opacity: 0.7; filter: hue-rotate(15deg); }
+}
+
+/* Sacred spiral — phi-ratio rotation for backgrounds */
+@keyframes sacredSpiral {
+    0% { transform: rotate(0deg) scale(1); }
+    25% { transform: rotate(90deg) scale(1.05); }
+    50% { transform: rotate(180deg) scale(1); }
+    75% { transform: rotate(270deg) scale(0.95); }
+    100% { transform: rotate(360deg) scale(1); }
+}
+
+/* Golden flicker — subtle light dance */
+@keyframes goldenFlicker {
+    0%, 100% { text-shadow: 0 0 10px var(--phi-gold-glow); }
+    25% { text-shadow: 0 0 15px var(--phi-gold-glow), 0 0 30px var(--phi-gold-ultra); }
+    75% { text-shadow: 0 0 8px var(--phi-gold-glow); }
+}
+
+/* Modal enter — phi-scaled spring */
+@keyframes modalEnter {
+    0% { transform: perspective(800px) rotateX(15deg) scale(0.8); opacity: 0; }
+    60% { transform: perspective(800px) rotateX(-3deg) scale(1.02); opacity: 1; }
+    100% { transform: perspective(800px) rotateX(0deg) scale(1); opacity: 1; }
+}
+
+/* Modal exit */
+@keyframes modalExit {
+    0% { transform: perspective(800px) rotateX(0deg) scale(1); opacity: 1; }
+    100% { transform: perspective(800px) rotateX(15deg) scale(0.8); opacity: 0; }
+}
+
+/* Slide in left */
+@keyframes slideInLeft {
+    0% { transform: translateX(-30px); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+}
+
+/* Slide in right */
+@keyframes slideInRight {
+    0% { transform: translateX(30px); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+}
+
+/* Fade in */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+/* Scale in */
+@keyframes scaleIn {
+    0% { transform: scale(0.9); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* Mandala spin — slow counter-rotation */
+@keyframes mandalaSpin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(-360deg); }
+}
+
+/* Grid pulse — background grid breathing */
+@keyframes gridPulse {
+    0%, 100% { opacity: 0.05; }
+    50% { opacity: 0.12; }
+}
+
+/* Particle float — for decorative elements */
+@keyframes particleFloat {
+    0%, 100% { transform: translateY(0) translateX(0); }
+    25% { transform: translateY(-10px) translateX(5px); }
+    50% { transform: translateY(-5px) translateX(-3px); }
+    75% { transform: translateY(-15px) translateX(2px); }
+}
+
+/* Border glow chase */
+@keyframes borderGlowChase {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Typing cursor */
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+/* ─── SACRED GEOMETRY BACKGROUNDS ────────────────────────────────────────────── */
+
+/* Phi-spiral background — golden spiral overlay */
+.sacred-bg {
+    position: relative;
+    overflow: hidden;
+}
+
+.sacred-bg::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200%;
+    height: 200%;
+    transform: translate(-50%, -50%);
+    background:
+        radial-gradient(ellipse at center, transparent 20%, var(--bg-dark) 70%),
+        conic-gradient(
+            from 0deg at 50% 50%,
+            var(--phi-gold-ultra) 0deg,
+            transparent 60deg,
+            var(--harmonic-teal-ultra) 120deg,
+            transparent 180deg,
+            var(--field-violet-ultra) 240deg,
+            transparent 300deg,
+            var(--phi-gold-ultra) 360deg
+        );
+    animation: sacredSpiral 60s linear infinite;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Phi-grid background — golden ratio grid lines */
+.grid-bg {
+    position: relative;
+    overflow: hidden;
+}
+
+.grid-bg::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image:
+        linear-gradient(var(--phi-gold-ultra) 1px, transparent 1px),
+        linear-gradient(90deg, var(--phi-gold-ultra) 1px, transparent 1px),
+        linear-gradient(var(--harmonic-teal-ultra) 1px, transparent 1px),
+        linear-gradient(90deg, var(--harmonic-teal-ultra) 1px, transparent 1px);
+    background-size:
+        61.8% 61.8%,
+        61.8% 61.8%,
+        38.2% 38.2%,
+        38.2% 38.2%;
+    animation: gridPulse 8s var(--ease-phi) infinite;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Mandala background — sacred geometry overlay */
+.mandala-bg {
+    position: relative;
+    overflow: hidden;
+}
+
+.mandala-bg::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 150%;
+    height: 150%;
+    transform: translate(-50%, -50%);
+    background:
+        repeating-conic-gradient(
+            from 0deg at 50% 50%,
+            var(--phi-gold-ultra) 0deg 30deg,
+            transparent 30deg 60deg
+        );
+    animation: mandalaSpin 120s linear infinite;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.mandala-bg::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+    background:
+        repeating-conic-gradient(
+            from 15deg at 50% 50%,
+            var(--field-violet-ultra) 0deg 30deg,
+            transparent 30deg 60deg
+        );
+    animation: sacredRotate 90s linear infinite reverse;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* ─── UTILITY CLASSES ───────────────────────────────────────────────────────── */
+
+.phi-layer-phi { color: var(--phi-gold); }
+.phi-layer-harmonic { color: var(--harmonic-teal); }
+.phi-layer-field { color: var(--field-violet); }
+.phi-layer-support { color: var(--support-silver); }
+
+.bg-layer-phi { background: var(--phi-gold); }
+.bg-layer-harmonic { background: var(--harmonic-teal); }
+.bg-layer-field { background: var(--field-violet); }
+
+.animate-phi-pulse { animation: phiPulse 2.618s var(--ease-phi) infinite; }
+.animate-glow-pulse { animation: glowPulse 3s var(--ease-phi) infinite; }
+.animate-depth-shift { animation: depthShift 8s var(--ease-phi) infinite; }
+.animate-border-flow { animation: borderFlow 4s linear infinite; }
+.animate-harmonic { animation: harmonicBreathe 3s var(--ease-phi) infinite; }
+.animate-field { animation: fieldPulse 4s var(--ease-phi) infinite; }
+
+.animate-float-up { animation: floatUp 0.618s var(--ease-phi) both; }
+.animate-fade-in { animation: fadeIn 0.3s ease both; }
+.animate-slide-left { animation: slideInLeft 0.4s var(--ease-phi) both; }
+.animate-slide-right { animation: slideInRight 0.4s var(--ease-phi) both; }
+.animate-scale-in { animation: scaleIn 0.3s var(--ease-phi) both; }
+
+/* Staggered entrance delays */
+.stagger-1 { animation-delay: 0.1s; }
+.stagger-2 { animation-delay: 0.2s; }
+.stagger-3 { animation-delay: 0.3s; }
+.stagger-4 { animation-delay: 0.4s; }
+.stagger-5 { animation-delay: 0.5s; }
+.stagger-6 { animation-delay: 0.6s; }
+.stagger-7 { animation-delay: 0.7s; }
+.stagger-8 { animation-delay: 0.8s; }
+
+/* Perspective containers */
+.perspective-container {
+    perspective: 1200px;
+    transform-style: preserve-3d;
+}
+
+.preserve-3d {
+    transform-style: preserve-3d;
+}
+
+/* ─── PHI-CARD ──────────────────────────────────────────────────────────────── */
+
+.phi-card {
+    position: relative;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    padding: var(--space-lg);
+    cursor: pointer;
+    transition:
+        transform var(--duration-normal) var(--ease-phi),
+        box-shadow var(--duration-normal) var(--ease-phi),
+        border-color var(--duration-normal) var(--ease-phi),
+        background var(--duration-normal) var(--ease-phi);
+    transform-style: preserve-3d;
+    animation: floatUp 0.618s var(--ease-phi) both;
+    overflow: hidden;
+}
+
+.phi-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        var(--phi-gold-ultra),
+        transparent
+    );
+    transition: left var(--duration-slow) var(--ease-phi);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.phi-card:hover {
+    transform: translateY(-4px) translateZ(10px);
+    border-color: var(--phi-gold);
+    background: var(--bg-card-hover);
+    box-shadow:
+        0 8px 32px rgba(255, 215, 0, 0.15),
+        0 0 0 1px var(--phi-gold-glow),
+        inset 0 1px 0 var(--phi-gold-ultra);
+}
+
+.phi-card:hover::before {
+    left: 100%;
+}
+
+.phi-card:active {
+    transform: translateY(-2px) translateZ(5px) scale(0.99);
+    transition-duration: 0.1s;
+}
+
+/* Card with phi-pulse animation */
+.phi-card--pulse {
+    animation: phiPulse 2.618s var(--ease-phi) infinite, floatUp 0.618s var(--ease-phi) both;
+}
+
+/* Card with glow effect */
+.phi-card--glow {
+    box-shadow: 0 0 10px var(--phi-gold-glow);
+}
+
+.phi-card--glow:hover {
+    animation: glowPulse 2s var(--ease-phi) infinite;
+}
+
+/* Card with 4D depth */
+.phi-card--4d {
+    animation: depthShift 8s var(--ease-phi) infinite, floatUp 0.618s var(--ease-phi) both;
+}
+
+/* Card with border flow */
+.phi-card--flow {
+    border: 2px solid var(--phi-gold);
+    animation: borderFlow 4s linear infinite, floatUp 0.618s var(--ease-phi) both;
+}
+
+/* Card layer variants */
+.phi-card--phi {
+    border-left: 3px solid var(--phi-gold);
+}
+
+.phi-card--harmonic {
+    border-left: 3px solid var(--harmonic-teal);
+}
+
+.phi-card--field {
+    border-left: 3px solid var(--field-violet);
+}
+
+/* ─── PHI-MODAL ─────────────────────────────────────────────────────────────── */
+
+.phi-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: var(--bg-modal);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: var(--z-modal);
+    animation: fadeIn 0.2s ease;
+    perspective: 1000px;
+}
+
+.phi-modal {
+    position: relative;
+    background: var(--bg-card);
+    border: 1px solid var(--phi-gold);
+    border-radius: 12px;
+    width: 90%;
+    max-width: 700px;
+    max-height: 85vh;
+    overflow: hidden;
+    animation: modalEnter 0.618s var(--ease-sacred) both;
+    box-shadow:
+        0 25px 60px rgba(0, 0, 0, 0.5),
+        0 0 40px var(--phi-gold-glow),
+        inset 0 1px 0 rgba(255, 215, 0, 0.1);
+    transform-style: preserve-3d;
+}
+
+.phi-modal::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(
+        90deg,
+        var(--phi-gold),
+        var(--harmonic-teal),
+        var(--field-violet),
+        var(--phi-gold)
+    );
+    background-size: 300% 100%;
+    animation: borderGlowChase 4s ease infinite;
+}
+
+.phi-modal-content {
+    position: relative;
+    padding: var(--space-xl);
+    overflow-y: auto;
+    max-height: calc(85vh - 60px);
+    z-index: 1;
+}
+
+.phi-modal-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.phi-modal-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.phi-modal-content::-webkit-scrollbar-thumb {
+    background: var(--phi-gold-glow);
+    border-radius: 3px;
+}
+
+.phi-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-lg) var(--space-xl);
+    border-bottom: 1px solid var(--border-subtle);
+    background: rgba(255, 215, 0, 0.02);
+}
+
+.phi-modal-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--phi-gold);
+    animation: goldenFlicker 4s ease infinite;
+}
+
+.phi-modal-close {
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--border-subtle);
+    border-radius: 6px;
+    background: transparent;
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    transition: all var(--duration-fast) var(--ease-phi);
+}
+
+.phi-modal-close:hover {
+    border-color: var(--phi-gold);
+    color: var(--phi-gold);
+    box-shadow: 0 0 10px var(--phi-gold-glow);
+}
+
+/* Closing state */
+.phi-modal--closing {
+    animation: modalExit 0.3s var(--ease-phi) forwards;
+}
+
+/* ─── PHI-SEARCH ────────────────────────────────────────────────────────────── */
+
+.phi-search {
+    position: relative;
+    width: 100%;
+}
+
+.phi-search-input {
+    width: 100%;
+    padding: var(--space-md) var(--space-lg);
+    padding-left: 44px;
+    background: var(--bg-input);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    outline: none;
+    transition: all var(--duration-normal) var(--ease-phi);
+}
+
+.phi-search-input::placeholder {
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.phi-search-input:focus {
+    border-color: var(--phi-gold);
+    box-shadow:
+        0 0 0 3px var(--phi-gold-glow),
+        inset 0 0 20px var(--phi-gold-ultra);
+}
+
+.phi-search-icon {
+    position: absolute;
+    left: var(--space-md);
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    font-size: 1rem;
+    pointer-events: none;
+    transition: color var(--duration-fast) ease;
+}
+
+.phi-search-input:focus + .phi-search-icon,
+.phi-search:focus-within .phi-search-icon {
+    color: var(--phi-gold);
+}
+
+/* Search with animated border */
+.phi-search--animated .phi-search-input {
+    border: 2px solid transparent;
+    background-image: linear-gradient(var(--bg-input), var(--bg-input)),
+                      linear-gradient(90deg, var(--phi-gold), var(--harmonic-teal), var(--field-violet), var(--phi-gold));
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    background-size: 100% 100%, 300% 100%;
+    animation: borderGlowChase 4s ease infinite;
+}
+
+/* ─── PHI-TREE ──────────────────────────────────────────────────────────────── */
+
+.phi-tree {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+}
+
+.phi-tree-node {
+    padding-left: var(--space-lg);
+    position: relative;
+    transition: color var(--duration-fast) ease;
+}
+
+.phi-tree-node::before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--border-subtle);
+    transition: background var(--duration-fast) ease;
+}
+
+.phi-tree-node:hover {
+    color: var(--text-primary);
+}
+
+.phi-tree-node:hover::before {
+    background: var(--phi-gold-glow);
+}
+
+.phi-tree-item {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: 2px var(--space-sm);
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all var(--duration-fast) ease;
+}
+
+.phi-tree-item:hover {
+    background: var(--phi-gold-ultra);
+    color: var(--phi-gold);
+}
+
+.phi-tree-item--active {
+    background: var(--phi-gold-ultra);
+    color: var(--phi-gold);
+    font-weight: 500;
+}
+
+.phi-tree-icon {
+    width: 16px;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.phi-tree-toggle {
+    width: 16px;
+    text-align: center;
+    flex-shrink: 0;
+    cursor: pointer;
+    transition: transform var(--duration-fast) var(--ease-phi);
+    user-select: none;
+}
+
+.phi-tree-toggle--open {
+    transform: rotate(90deg);
+}
+
+/* ─── PHI-BADGE ─────────────────────────────────────────────────────────────── */
+
+.phi-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    line-height: 1.4;
+    white-space: nowrap;
+}
+
+.phi-badge--phi {
+    background: var(--phi-gold-ultra);
+    color: var(--phi-gold);
+    border: 1px solid rgba(255, 215, 0, 0.3);
+    text-shadow: 0 0 8px var(--phi-gold-glow);
+}
+
+.phi-badge--harmonic {
+    background: var(--harmonic-teal-ultra);
+    color: var(--harmonic-teal);
+    border: 1px solid rgba(0, 128, 128, 0.3);
+    text-shadow: 0 0 8px var(--harmonic-teal-glow);
+}
+
+.phi-badge--field {
+    background: var(--field-violet-ultra);
+    color: var(--field-violet);
+    border: 1px solid rgba(139, 0, 255, 0.3);
+    text-shadow: 0 0 8px var(--field-violet-glow);
+}
+
+.phi-badge--support {
+    background: rgba(192, 192, 192, 0.1);
+    color: var(--support-silver);
+    border: 1px solid rgba(192, 192, 192, 0.2);
+}
+
+/* Pulsing badge */
+.phi-badge--pulse {
+    animation: phiPulse 2.618s var(--ease-phi) infinite;
+}
+
+/* Glow badge */
+.phi-badge--glow {
+    animation: glowPulse 3s var(--ease-phi) infinite;
+}
+
+/* ─── PHI-BUTTON ────────────────────────────────────────────────────────────── */
+
+.phi-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-lg);
+    border: 1px solid var(--border-subtle);
+    border-radius: 6px;
+    background: transparent;
+    color: var(--text-primary);
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all var(--duration-normal) var(--ease-phi);
+    position: relative;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.phi-button::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, var(--phi-gold-ultra), transparent);
+    opacity: 0;
+    transition: opacity var(--duration-fast) ease;
+    pointer-events: none;
+}
+
+.phi-button:hover {
+    border-color: var(--phi-gold);
+    color: var(--phi-gold);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px var(--phi-gold-glow);
+}
+
+.phi-button:hover::before {
+    opacity: 1;
+}
+
+.phi-button:active {
+    transform: translateY(0) scale(0.98);
+    transition-duration: 0.1s;
+}
+
+/* Button variants */
+.phi-button--primary {
+    background: var(--phi-gold);
+    color: var(--bg-dark);
+    border-color: var(--phi-gold);
+    font-weight: 600;
+}
+
+.phi-button--primary:hover {
+    background: var(--phi-gold-dark);
+    color: var(--bg-dark);
+    box-shadow: 0 4px 20px var(--phi-gold-glow), 0 0 40px var(--phi-gold-ultra);
+}
+
+.phi-button--primary::before {
+    background: linear-gradient(135deg, rgba(255,255,255,0.2), transparent);
+}
+
+.phi-button--harmonic {
+    border-color: var(--harmonic-teal);
+    color: var(--harmonic-teal);
+}
+
+.phi-button--harmonic:hover {
+    background: var(--harmonic-teal);
+    color: var(--bg-dark);
+    box-shadow: 0 4px 16px var(--harmonic-teal-glow);
+}
+
+.phi-button--field {
+    border-color: var(--field-violet);
+    color: var(--field-violet);
+}
+
+.phi-button--field:hover {
+    background: var(--field-violet);
+    color: white;
+    box-shadow: 0 4px 16px var(--field-violet-glow);
+}
+
+.phi-button--ghost {
+    border-color: transparent;
+    color: var(--text-secondary);
+}
+
+.phi-button--ghost:hover {
+    border-color: var(--border-subtle);
+    color: var(--text-primary);
+    box-shadow: none;
+}
+
+/* Button sizes */
+.phi-button--sm {
+    padding: var(--space-xs) var(--space-md);
+    font-size: 0.8rem;
+}
+
+.phi-button--lg {
+    padding: var(--space-md) var(--space-xl);
+    font-size: 1rem;
+}
+
+/* Shimmer button */
+.phi-button--shimmer::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+    transition: left 0.5s ease;
+}
+
+.phi-button--shimmer:hover::after {
+    left: 100%;
+}
+
+/* ─── PHI-PANEL ─────────────────────────────────────────────────────────────── */
+
+.phi-panel {
+    position: relative;
+    background: var(--bg-panel);
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: all var(--duration-normal) var(--ease-phi);
+}
+
+.phi-panel-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-md) var(--space-lg);
+    border-bottom: 1px solid var(--border-subtle);
+    background: rgba(255, 215, 0, 0.02);
+}
+
+.phi-panel-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--phi-gold);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+.phi-panel-body {
+    padding: var(--space-lg);
+}
+
+.phi-panel-footer {
+    padding: var(--space-md) var(--space-lg);
+    border-top: 1px solid var(--border-subtle);
+    background: rgba(255, 215, 0, 0.01);
+}
+
+/* Panel with animated border */
+.phi-panel--animated {
+    border: 2px solid transparent;
+    background-image: linear-gradient(var(--bg-panel), var(--bg-panel)),
+                      linear-gradient(90deg, var(--phi-gold), var(--harmonic-teal), var(--field-violet), var(--phi-gold));
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    background-size: 100% 100%, 300% 100%;
+    animation: borderGlowChase 6s ease infinite;
+}
+
+/* Side panel (slide-in) */
+.phi-panel--side {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 350px;
+    max-width: 90vw;
+    z-index: var(--z-panel);
+    border-radius: 0;
+    border: none;
+    border-left: 1px solid var(--border-subtle);
+    transform: translateX(100%);
+    transition: transform var(--duration-slow) var(--ease-phi);
+}
+
+.phi-panel--side.phi-panel--open {
+    transform: translateX(0);
+}
+
+/* ─── PHI-HEADER ────────────────────────────────────────────────────────────── */
+
+.phi-header {
+    position: sticky;
+    top: 0;
+    z-index: var(--z-panel);
+    background: rgba(10, 10, 10, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-subtle);
+    padding: var(--space-md) var(--space-xl);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all var(--duration-normal) var(--ease-phi);
+}
+
+.phi-header::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        var(--phi-gold-glow),
+        var(--harmonic-teal-glow),
+        var(--field-violet-glow),
+        transparent
+    );
+    opacity: 0.5;
+}
+
+.phi-header--scrolled {
+    background: rgba(10, 10, 10, 0.95);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.phi-header-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--phi-gold);
+    animation: goldenFlicker 6s ease infinite;
+    letter-spacing: 0.02em;
+}
+
+.phi-header-nav {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+}
+
+/* ─── PHI-FOOTER ────────────────────────────────────────────────────────────── */
+
+.phi-footer {
+    position: relative;
+    border-top: 1px solid var(--border-subtle);
+    padding: var(--space-xl);
+    text-align: center;
+    background: var(--bg-panel);
+    overflow: hidden;
+}
+
+.phi-footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        var(--phi-gold-glow),
+        var(--harmonic-teal-glow),
+        var(--field-violet-glow),
+        transparent
+    );
+}
+
+/* Sacred geometry decoration in footer */
+.phi-footer::after {
+    content: '◇';
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 0.6rem;
+    color: var(--phi-gold-glow);
+    animation: phiPulse 4s var(--ease-phi) infinite;
+}
+
+.phi-footer-text {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+}
+
+.phi-footer-sacred {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-md);
+    margin-top: var(--space-md);
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    opacity: 0.6;
+}
+
+/* ─── LAYOUT ────────────────────────────────────────────────────────────────── */
+
+.phi-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-lg);
+    padding: var(--space-lg);
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.phi-layout--with-sidebar {
+    grid-template-columns: 1fr;
+}
+
+.phi-sidebar {
+    display: none;
+}
+
+.phi-main {
+    min-height: calc(100vh - 120px);
+}
+
+/* ─── SCROLLBAR ─────────────────────────────────────────────────────────────── */
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--phi-gold-glow);
+    border-radius: 4px;
+    border: 2px solid var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--phi-gold);
+}
+
+/* ─── SELECTION ─────────────────────────────────────────────────────────────── */
+
+::selection {
+    background: var(--phi-gold-glow);
+    color: var(--bg-dark);
+}
+
+::-moz-selection {
+    background: var(--phi-gold-glow);
+    color: var(--bg-dark);
+}
+
+/* ─── TOAST / NOTIFICATION ──────────────────────────────────────────────────── */
+
+.phi-toast {
+    position: fixed;
+    bottom: var(--space-xl);
+    right: var(--space-xl);
+    padding: var(--space-md) var(--space-lg);
+    background: var(--bg-card);
+    border: 1px solid var(--phi-gold);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    z-index: var(--z-toast);
+    animation: slideInRight 0.4s var(--ease-phi) both;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 20px var(--phi-gold-glow);
+}
+
+.phi-toast--success {
+    border-color: var(--harmonic-teal);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 20px var(--harmonic-teal-glow);
+}
+
+.phi-toast--error {
+    border-color: #ff4444;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4), 0 0 20px rgba(255, 68, 68, 0.3);
+}
+
+/* ─── CODE BLOCKS ───────────────────────────────────────────────────────────── */
+
+.phi-code {
+    font-family: var(--font-mono);
+    font-size: 0.85rem;
+    line-height: 1.6;
+    background: var(--bg-input);
+    border: 1px solid var(--border-subtle);
+    border-radius: 6px;
+    padding: var(--space-md);
+    overflow-x: auto;
+    color: var(--text-primary);
+}
+
+.phi-code--phi {
+    border-left: 3px solid var(--phi-gold);
+}
+
+.phi-code--harmonic {
+    border-left: 3px solid var(--harmonic-teal);
+}
+
+.phi-code--field {
+    border-left: 3px solid var(--field-violet);
+}
+
+/* ─── TOOLTIP ───────────────────────────────────────────────────────────────── */
+
+.phi-tooltip {
+    position: relative;
+}
+
+.phi-tooltip::after {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: calc(100% + 8px);
+    left: 50%;
+    transform: translateX(-50%) translateY(4px);
+    padding: var(--space-xs) var(--space-sm);
+    background: var(--bg-card);
+    border: 1px solid var(--phi-gold);
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: var(--text-primary);
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: all var(--duration-fast) var(--ease-phi);
+    z-index: var(--z-overlay);
+}
+
+.phi-tooltip:hover::after {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+/* ─── PROGRESS BAR ──────────────────────────────────────────────────────────── */
+
+.phi-progress {
+    width: 100%;
+    height: 6px;
+    background: var(--bg-input);
+    border-radius: 3px;
+    overflow: hidden;
+    position: relative;
+}
+
+.phi-progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--phi-gold), var(--harmonic-teal), var(--field-violet));
+    background-size: 200% 100%;
+    border-radius: 3px;
+    transition: width var(--duration-slow) var(--ease-phi);
+    animation: borderGlowChase 3s ease infinite;
+}
+
+/* ─── DIVIDER ───────────────────────────────────────────────────────────────── */
+
+.phi-divider {
+    height: 1px;
+    background: linear-gradient(
+        90deg,
+        transparent,
+        var(--phi-gold-glow),
+        var(--harmonic-teal-glow),
+        var(--field-violet-glow),
+        transparent
+    );
+    margin: var(--space-lg) 0;
+    border: none;
+}
+
+/* ─── TAG ───────────────────────────────────────────────────────────────────── */
+
+.phi-tag {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    transition: all var(--duration-fast) ease;
+}
+
+.phi-tag--phi {
+    background: var(--phi-gold-ultra);
+    color: var(--phi-gold);
+}
+
+.phi-tag--harmonic {
+    background: var(--harmonic-teal-ultra);
+    color: var(--harmonic-teal);
+}
+
+.phi-tag--field {
+    background: var(--field-violet-ultra);
+    color: var(--field-violet);
+}
+
+.phi-tag:hover {
+    transform: scale(1.05);
+}
+
+/* ─── LOADING / SKELETON ────────────────────────────────────────────────────── */
+
+.phi-skeleton {
+    background: linear-gradient(
+        90deg,
+        var(--bg-input) 25%,
+        var(--bg-card) 50%,
+        var(--bg-input) 75%
+    );
+    background-size: 200% 100%;
+    animation: goldShimmer 1.5s ease infinite;
+    border-radius: 4px;
+}
+
+.phi-skeleton--text {
+    height: 1em;
+    margin-bottom: var(--space-sm);
+}
+
+.phi-skeleton--title {
+    height: 1.5em;
+    width: 60%;
+    margin-bottom: var(--space-md);
+}
+
+.phi-skeleton--card {
+    height: 120px;
+    border-radius: 8px;
+}
+
+/* ─── RESPONSIVE ────────────────────────────────────────────────────────────── */
+
+/* Mobile (default) */
+@media (max-width: 640px) {
+    .phi-layout {
+        padding: var(--space-md);
+        gap: var(--space-md);
+    }
+
+    .phi-card {
+        padding: var(--space-md);
+    }
+
+    .phi-header {
+        padding: var(--space-sm) var(--space-md);
+    }
+
+    .phi-header-title {
+        font-size: 0.95rem;
+    }
+
+    .phi-modal {
+        width: 95%;
+        max-height: 90vh;
+    }
+
+    .phi-modal-content {
+        padding: var(--space-lg);
+    }
+
+    .phi-panel--side {
+        width: 100%;
+    }
+
+    .phi-footer {
+        padding: var(--space-lg);
+    }
+
+    .phi-toast {
+        left: var(--space-md);
+        right: var(--space-md);
+        bottom: var(--space-md);
+    }
+}
+
+/* Tablet */
+@media (min-width: 641px) and (max-width: 1024px) {
+    .phi-layout {
+        grid-template-columns: repeat(2, 1fr);
+        padding: var(--space-lg);
+    }
+
+    .phi-layout--with-sidebar {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .phi-sidebar {
+        display: none;
+    }
+
+    .phi-card {
+        padding: var(--space-lg);
+    }
+
+    .phi-modal {
+        width: 85%;
+    }
+}
+
+/* Desktop */
+@media (min-width: 1025px) {
+    .phi-layout {
+        grid-template-columns: repeat(3, 1fr);
+        padding: var(--space-xl);
+    }
+
+    .phi-layout--with-sidebar {
+        grid-template-columns: 280px 1fr;
+    }
+
+    .phi-sidebar {
+        display: block;
+        position: sticky;
+        top: 80px;
+        height: fit-content;
+        max-height: calc(100vh - 100px);
+        overflow-y: auto;
+    }
+
+    .phi-main {
+        min-width: 0;
+    }
+
+    .phi-card {
+        padding: var(--space-xl);
+    }
+}
+
+/* Large Desktop */
+@media (min-width: 1400px) {
+    .phi-layout {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .phi-layout--with-sidebar {
+        grid-template-columns: 300px 1fr;
+    }
+}
+
+/* ─── REDUCED MOTION ────────────────────────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+    .phi-card:hover,
+    .phi-button:hover {
+        transform: none;
+    }
+}
+
+/* ─── PRINT ─────────────────────────────────────────────────────────────────── */
+
+@media print {
+    .phi-header,
+    .phi-footer,
+    .phi-panel--side,
+    .phi-toast {
+        display: none;
+    }
+
+    body {
+        background: white;
+        color: black;
+    }
+
+    .phi-card {
+        border: 1px solid #ccc;
+        box-shadow: none;
+        break-inside: avoid;
+    }
+}
+
+/* ══════════════════════════════════════════════════════════════════════════════
+   END HYPER-REACTIVE PHI FRAMEWORK
+   816D · φ · ∞
+   ══════════════════════════════════════════════════════════════════════════════ */
