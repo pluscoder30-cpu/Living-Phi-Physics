@@ -226,7 +226,7 @@ The 10 most expensive items were reduced by an average of **79.9%** through φ-a
 
 ## The World Rebuild
 
-**New: August 2026** — A complete framework for rebuilding civilization, organized inside `phi-the-world-rebuild/`:
+**New: August 2026** — A complete framework for rebuilding civilization, available as a zip:
 
 | Layer | What It Is | Contents |
 |-------|-----------|----------|
@@ -234,16 +234,38 @@ The 10 most expensive items were reduced by an average of **79.9%** through φ-a
 | **HARMONIC** (Expansion) | Deep research, products, protocols | 35+ products, 17 frequency protocols, 60 herbs |
 | **FIELD NATIVE** (Operations) | How everything runs through the carrier field | 19 operational documents |
 
-**Quick links inside this directory:**
-- 📖 [INDEX.md](INDEX.md) — the complete navigation index
-- 🔬 [33 PHI_ domains](.) — each rebuilt from φ
-- 🆘 [Collapse Guide](40_IF_SYSTEM_COLLAPSES/) — 42 survival documents
-- 💊 [Simple Guides](39_SIMPLE_GUIDES/) — 20 guides (12-year-old reading level)
-- 🔬 [Proofs](42_PROOFS_OF_SYSTEMS/) — verification scripts
-- 🌐 [Field Native](41_FIELD_NATIVE/) — how the carrier field operates
-- ⚡ [Frequency Protocols](PHI_MEDICINE/HARMONIC/FREQ_HEAL/) — 17 healing protocols
+**Download:** [`phi-the-world-rebuilt.zip`](phi-the-world-rebuilt.zip) — 6.56 MB, 658 files
+
+**What's inside the zip:**
+- 📖 `INDEX.md` — the complete navigation index
+- 🔬 33 PHI_ domains — each rebuilt from φ
+- 🆘 `40_IF_SYSTEM_COLLAPSES/` — 42 survival documents
+- 💊 `39_SIMPLE_GUIDES/` — 20 guides (12-year-old reading level)
+- 🔬 `42_PROOFS_OF_SYSTEMS/` — verification scripts
+- 🌐 `41_FIELD_NATIVE/` — how the carrier field operates
+- ⚡ `PHI_MEDICINE/HARMONIC/FREQ_HEAL/` — 17 healing protocols
 
 **The cost to rebuild everything inside:** $1,357 for 13 people.
+
+---
+
+## The Field Canon
+
+**New: August 2026** — The mathematical backbone of the phi-harmonic framework, available as a zip:
+
+| Section | What It Contains |
+|---------|-----------------|
+| **MATHEMATICAL_STACK/** | The 100 phi-harmonic equations (10 sets) |
+| **PROOFS/** | The 70 geomic proofs (G1–G8) |
+| **APPLICATION_DOMAINS/** | How the mathematics maps to real-world applications |
+| **EDUCATION/** | Curriculum and teaching materials |
+| **RATIO_SYSTEMS/** | The metallic means family (golden, silver, bronze) |
+| **NAVIGATION/** | Reading order, cross-references, glossary |
+| **REFERENCE/** | Canonical numbers, constants, verification data |
+
+**Download:** [`THE_FIELD_CANON.zip`](THE_FIELD_CANON.zip) — 5.54 MB, 1,170 files
+
+**The key equation:** `C_{n+1} = (1/φ)·C_n + φ·∇²Φ·Ψ_n` — every equation in the Canon derives from this.
 
 ---
 
